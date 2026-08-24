@@ -1,0 +1,1573 @@
+[
+ {
+  "id": "kanji:日",
+  "char": "日",
+  "meanings": [
+   "Day",
+   "Sun",
+   "Japan",
+   "Counter For Days"
+  ],
+  "readingsOn": [
+   "にち",
+   "じつ"
+  ],
+  "readingsKun": [
+   "ひ",
+   "-び",
+   "-か"
+  ],
+  "strokes": 4,
+  "freq": 1,
+  "grade": 1
+ },
+ {
+  "id": "kanji:一",
+  "char": "一",
+  "meanings": [
+   "One",
+   "One Radical (no.1)"
+  ],
+  "readingsOn": [
+   "いち",
+   "いつ"
+  ],
+  "readingsKun": [
+   "ひと-",
+   "ひと.つ"
+  ],
+  "strokes": 1,
+  "freq": 2,
+  "grade": 1
+ },
+ {
+  "id": "kanji:国",
+  "char": "国",
+  "meanings": [
+   "Country"
+  ],
+  "readingsOn": [
+   "こく"
+  ],
+  "readingsKun": [
+   "くに"
+  ],
+  "strokes": 8,
+  "freq": 3,
+  "grade": 2
+ },
+ {
+  "id": "kanji:人",
+  "char": "人",
+  "meanings": [
+   "Person"
+  ],
+  "readingsOn": [
+   "じん",
+   "にん"
+  ],
+  "readingsKun": [
+   "ひと",
+   "-り",
+   "-と"
+  ],
+  "strokes": 2,
+  "freq": 5,
+  "grade": 1
+ },
+ {
+  "id": "kanji:年",
+  "char": "年",
+  "meanings": [
+   "Year",
+   "Counter For Years"
+  ],
+  "readingsOn": [
+   "ねん"
+  ],
+  "readingsKun": [
+   "とし"
+  ],
+  "strokes": 6,
+  "freq": 6,
+  "grade": 1
+ },
+ {
+  "id": "kanji:大",
+  "char": "大",
+  "meanings": [
+   "Large",
+   "Big"
+  ],
+  "readingsOn": [
+   "だい",
+   "たい"
+  ],
+  "readingsKun": [
+   "おお-",
+   "おお.きい",
+   "-おお.いに"
+  ],
+  "strokes": 3,
+  "freq": 7,
+  "grade": 1
+ },
+ {
+  "id": "kanji:十",
+  "char": "十",
+  "meanings": [
+   "Ten"
+  ],
+  "readingsOn": [
+   "じゅう",
+   "じっ",
+   "じゅっ"
+  ],
+  "readingsKun": [
+   "とお",
+   "と"
+  ],
+  "strokes": 2,
+  "freq": 8,
+  "grade": 1
+ },
+ {
+  "id": "kanji:二",
+  "char": "二",
+  "meanings": [
+   "Two",
+   "Two Radical (no. 7)"
+  ],
+  "readingsOn": [
+   "に",
+   "じ"
+  ],
+  "readingsKun": [
+   "ふた",
+   "ふた.つ",
+   "ふたたび"
+  ],
+  "strokes": 2,
+  "freq": 9,
+  "grade": 1
+ },
+ {
+  "id": "kanji:本",
+  "char": "本",
+  "meanings": [
+   "Book",
+   "Present",
+   "Main",
+   "Origin",
+   "True",
+   "Real",
+   "Counter For Long Cylindrical Things"
+  ],
+  "readingsOn": [
+   "ほん"
+  ],
+  "readingsKun": [
+   "もと"
+  ],
+  "strokes": 5,
+  "freq": 10,
+  "grade": 1
+ },
+ {
+  "id": "kanji:中",
+  "char": "中",
+  "meanings": [
+   "In",
+   "Inside",
+   "Middle",
+   "Mean",
+   "Center"
+  ],
+  "readingsOn": [
+   "ちゅう"
+  ],
+  "readingsKun": [
+   "なか",
+   "うち",
+   "あた.る"
+  ],
+  "strokes": 4,
+  "freq": 11,
+  "grade": 1
+ },
+ {
+  "id": "kanji:長",
+  "char": "長",
+  "meanings": [
+   "Long",
+   "Leader",
+   "Superior",
+   "Senior"
+  ],
+  "readingsOn": [
+   "ちょう"
+  ],
+  "readingsKun": [
+   "なが.い",
+   "おさ"
+  ],
+  "strokes": 8,
+  "freq": 12,
+  "grade": 2
+ },
+ {
+  "id": "kanji:出",
+  "char": "出",
+  "meanings": [
+   "Exit",
+   "Leave",
+   "Go Out",
+   "Come Out",
+   "Put Out",
+   "Protrude"
+  ],
+  "readingsOn": [
+   "しゅつ",
+   "すい"
+  ],
+  "readingsKun": [
+   "で.る",
+   "-で",
+   "だ.す",
+   "-だ.す",
+   "い.でる",
+   "い.だす"
+  ],
+  "strokes": 5,
+  "freq": 13,
+  "grade": 1
+ },
+ {
+  "id": "kanji:三",
+  "char": "三",
+  "meanings": [
+   "Three"
+  ],
+  "readingsOn": [
+   "さん",
+   "ぞう"
+  ],
+  "readingsKun": [
+   "み",
+   "み.つ",
+   "みっ.つ"
+  ],
+  "strokes": 3,
+  "freq": 14,
+  "grade": 1
+ },
+ {
+  "id": "kanji:時",
+  "char": "時",
+  "meanings": [
+   "Time",
+   "Hour"
+  ],
+  "readingsOn": [
+   "じ"
+  ],
+  "readingsKun": [
+   "とき",
+   "-どき"
+  ],
+  "strokes": 10,
+  "freq": 16,
+  "grade": 2
+ },
+ {
+  "id": "kanji:行",
+  "char": "行",
+  "meanings": [
+   "Going",
+   "Journey",
+   "Carry Out",
+   "Conduct",
+   "Act",
+   "Line",
+   "Row",
+   "Bank"
+  ],
+  "readingsOn": [
+   "こう",
+   "ぎょう",
+   "あん"
+  ],
+  "readingsKun": [
+   "い.く",
+   "ゆ.く",
+   "-ゆ.き",
+   "-ゆき",
+   "-い.き",
+   "-いき",
+   "おこな.う",
+   "おこ.なう"
+  ],
+  "strokes": 6,
+  "freq": 20,
+  "grade": 2
+ },
+ {
+  "id": "kanji:見",
+  "char": "見",
+  "meanings": [
+   "See",
+   "Hopes",
+   "Chances",
+   "Idea",
+   "Opinion",
+   "Look At",
+   "Visible"
+  ],
+  "readingsOn": [
+   "けん"
+  ],
+  "readingsKun": [
+   "み.る",
+   "み.える",
+   "み.せる"
+  ],
+  "strokes": 7,
+  "freq": 22,
+  "grade": 1
+ },
+ {
+  "id": "kanji:月",
+  "char": "月",
+  "meanings": [
+   "Month",
+   "Moon"
+  ],
+  "readingsOn": [
+   "げつ",
+   "がつ"
+  ],
+  "readingsKun": [
+   "つき"
+  ],
+  "strokes": 4,
+  "freq": 23,
+  "grade": 1
+ },
+ {
+  "id": "kanji:後",
+  "char": "後",
+  "meanings": [
+   "Behind",
+   "Back",
+   "Later"
+  ],
+  "readingsOn": [
+   "ご",
+   "こう"
+  ],
+  "readingsKun": [
+   "のち",
+   "うし.ろ",
+   "うしろ",
+   "あと",
+   "おく.れる"
+  ],
+  "strokes": 9,
+  "freq": 26,
+  "grade": 2
+ },
+ {
+  "id": "kanji:前",
+  "char": "前",
+  "meanings": [
+   "In Front",
+   "Before"
+  ],
+  "readingsOn": [
+   "ぜん"
+  ],
+  "readingsKun": [
+   "まえ",
+   "-まえ"
+  ],
+  "strokes": 9,
+  "freq": 27,
+  "grade": 2
+ },
+ {
+  "id": "kanji:生",
+  "char": "生",
+  "meanings": [
+   "Life",
+   "Genuine",
+   "Birth"
+  ],
+  "readingsOn": [
+   "せい",
+   "しょう"
+  ],
+  "readingsKun": [
+   "い.きる",
+   "い.かす",
+   "い.ける",
+   "う.まれる",
+   "うま.れる",
+   "う.まれ",
+   "うまれ",
+   "う.む",
+   "お.う",
+   "は.える",
+   "は.やす",
+   "き",
+   "なま",
+   "なま-",
+   "な.る",
+   "な.す",
+   "む.す",
+   "-う"
+  ],
+  "strokes": 5,
+  "freq": 29,
+  "grade": 1
+ },
+ {
+  "id": "kanji:五",
+  "char": "五",
+  "meanings": [
+   "Five"
+  ],
+  "readingsOn": [
+   "ご"
+  ],
+  "readingsKun": [
+   "いつ",
+   "いつ.つ"
+  ],
+  "strokes": 4,
+  "freq": 31,
+  "grade": 1
+ },
+ {
+  "id": "kanji:間",
+  "char": "間",
+  "meanings": [
+   "Interval",
+   "Space"
+  ],
+  "readingsOn": [
+   "かん",
+   "けん"
+  ],
+  "readingsKun": [
+   "あいだ",
+   "ま",
+   "あい"
+  ],
+  "strokes": 12,
+  "freq": 33,
+  "grade": 2
+ },
+ {
+  "id": "kanji:上",
+  "char": "上",
+  "meanings": [
+   "Above",
+   "Up"
+  ],
+  "readingsOn": [
+   "じょう",
+   "しょう",
+   "しゃん"
+  ],
+  "readingsKun": [
+   "うえ",
+   "-うえ",
+   "うわ-",
+   "かみ",
+   "あ.げる",
+   "-あ.げる",
+   "あ.がる",
+   "-あ.がる",
+   "あ.がり",
+   "-あ.がり",
+   "のぼ.る",
+   "のぼ.り",
+   "のぼ.せる",
+   "のぼ.す",
+   "たてまつ.る"
+  ],
+  "strokes": 3,
+  "freq": 35,
+  "grade": 1
+ },
+ {
+  "id": "kanji:東",
+  "char": "東",
+  "meanings": [
+   "East"
+  ],
+  "readingsOn": [
+   "とう"
+  ],
+  "readingsKun": [
+   "ひがし"
+  ],
+  "strokes": 8,
+  "freq": 37,
+  "grade": 2
+ },
+ {
+  "id": "kanji:四",
+  "char": "四",
+  "meanings": [
+   "Four"
+  ],
+  "readingsOn": [
+   "し"
+  ],
+  "readingsKun": [
+   "よ",
+   "よ.つ",
+   "よっ.つ",
+   "よん"
+  ],
+  "strokes": 5,
+  "freq": 47,
+  "grade": 1
+ },
+ {
+  "id": "kanji:今",
+  "char": "今",
+  "meanings": [
+   "Now"
+  ],
+  "readingsOn": [
+   "こん",
+   "きん"
+  ],
+  "readingsKun": [
+   "いま"
+  ],
+  "strokes": 4,
+  "freq": 49,
+  "grade": 2
+ },
+ {
+  "id": "kanji:金",
+  "char": "金",
+  "meanings": [
+   "Gold"
+  ],
+  "readingsOn": [
+   "きん",
+   "こん",
+   "ごん"
+  ],
+  "readingsKun": [
+   "かね",
+   "かな-",
+   "-がね"
+  ],
+  "strokes": 8,
+  "freq": 53,
+  "grade": 1
+ },
+ {
+  "id": "kanji:九",
+  "char": "九",
+  "meanings": [
+   "Nine"
+  ],
+  "readingsOn": [
+   "きゅう",
+   "く"
+  ],
+  "readingsKun": [
+   "ここの",
+   "ここの.つ"
+  ],
+  "strokes": 2,
+  "freq": 55,
+  "grade": 1
+ },
+ {
+  "id": "kanji:入",
+  "char": "入",
+  "meanings": [
+   "Enter",
+   "Insert"
+  ],
+  "readingsOn": [
+   "にゅう",
+   "じゅ"
+  ],
+  "readingsKun": [
+   "い.る",
+   "-い.る",
+   "-い.り",
+   "い.れる",
+   "-い.れ",
+   "はい.る"
+  ],
+  "strokes": 2,
+  "freq": 56,
+  "grade": 1
+ },
+ {
+  "id": "kanji:学",
+  "char": "学",
+  "meanings": [
+   "Study",
+   "Learning",
+   "Science"
+  ],
+  "readingsOn": [
+   "がく"
+  ],
+  "readingsKun": [
+   "まな.ぶ"
+  ],
+  "strokes": 8,
+  "freq": 63,
+  "grade": 1
+ },
+ {
+  "id": "kanji:高",
+  "char": "高",
+  "meanings": [
+   "Tall",
+   "High",
+   "Expensive"
+  ],
+  "readingsOn": [
+   "こう"
+  ],
+  "readingsKun": [
+   "たか.い",
+   "たか",
+   "-だか",
+   "たか.まる",
+   "たか.める"
+  ],
+  "strokes": 10,
+  "freq": 65,
+  "grade": 2
+ },
+ {
+  "id": "kanji:円",
+  "char": "円",
+  "meanings": [
+   "Circle",
+   "Yen",
+   "Round"
+  ],
+  "readingsOn": [
+   "えん"
+  ],
+  "readingsKun": [
+   "まる.い",
+   "まる",
+   "まど",
+   "まど.か",
+   "まろ.やか"
+  ],
+  "strokes": 4,
+  "freq": 69,
+  "grade": 1
+ },
+ {
+  "id": "kanji:子",
+  "char": "子",
+  "meanings": [
+   "Child",
+   "Sign Of The Rat",
+   "11pm-1am",
+   "First Sign Of Chinese Zodiac"
+  ],
+  "readingsOn": [
+   "し",
+   "す",
+   "つ"
+  ],
+  "readingsKun": [
+   "こ",
+   "-こ",
+   "ね"
+  ],
+  "strokes": 3,
+  "freq": 72,
+  "grade": 1
+ },
+ {
+  "id": "kanji:外",
+  "char": "外",
+  "meanings": [
+   "Outside"
+  ],
+  "readingsOn": [
+   "がい",
+   "げ"
+  ],
+  "readingsKun": [
+   "そと",
+   "ほか",
+   "はず.す",
+   "はず.れる",
+   "と-"
+  ],
+  "strokes": 5,
+  "freq": 81,
+  "grade": 2
+ },
+ {
+  "id": "kanji:八",
+  "char": "八",
+  "meanings": [
+   "Eight",
+   "Eight Radical (no. 12)"
+  ],
+  "readingsOn": [
+   "はち"
+  ],
+  "readingsKun": [
+   "や",
+   "や.つ",
+   "やっ.つ",
+   "よう"
+  ],
+  "strokes": 2,
+  "freq": 92,
+  "grade": 1
+ },
+ {
+  "id": "kanji:六",
+  "char": "六",
+  "meanings": [
+   "Six"
+  ],
+  "readingsOn": [
+   "ろく",
+   "りく"
+  ],
+  "readingsKun": [
+   "む",
+   "む.つ",
+   "むっ.つ",
+   "むい"
+  ],
+  "strokes": 4,
+  "freq": 93,
+  "grade": 1
+ },
+ {
+  "id": "kanji:下",
+  "char": "下",
+  "meanings": [
+   "Below",
+   "Down",
+   "Descend",
+   "Give",
+   "Low",
+   "Inferior"
+  ],
+  "readingsOn": [
+   "か",
+   "げ"
+  ],
+  "readingsKun": [
+   "した",
+   "しも",
+   "もと",
+   "さ.げる",
+   "さ.がる",
+   "くだ.る",
+   "くだ.り",
+   "くだ.す",
+   "-くだ.す",
+   "くだ.さる",
+   "お.ろす",
+   "お.りる"
+  ],
+  "strokes": 3,
+  "freq": 97,
+  "grade": 1
+ },
+ {
+  "id": "kanji:来",
+  "char": "来",
+  "meanings": [
+   "Come",
+   "Due",
+   "Next",
+   "Cause",
+   "Become"
+  ],
+  "readingsOn": [
+   "らい",
+   "たい"
+  ],
+  "readingsKun": [
+   "く.る",
+   "きた.る",
+   "きた.す",
+   "き.たす",
+   "き.たる",
+   "き",
+   "こ"
+  ],
+  "strokes": 7,
+  "freq": 102,
+  "grade": 2
+ },
+ {
+  "id": "kanji:気",
+  "char": "気",
+  "meanings": [
+   "Spirit",
+   "Mind",
+   "Air",
+   "Atmosphere",
+   "Mood"
+  ],
+  "readingsOn": [
+   "き",
+   "け"
+  ],
+  "readingsKun": [
+   "いき"
+  ],
+  "strokes": 6,
+  "freq": 113,
+  "grade": 1
+ },
+ {
+  "id": "kanji:小",
+  "char": "小",
+  "meanings": [
+   "Little",
+   "Small"
+  ],
+  "readingsOn": [
+   "しょう"
+  ],
+  "readingsKun": [
+   "ちい.さい",
+   "こ-",
+   "お-",
+   "さ-"
+  ],
+  "strokes": 3,
+  "freq": 114,
+  "grade": 1
+ },
+ {
+  "id": "kanji:七",
+  "char": "七",
+  "meanings": [
+   "Seven"
+  ],
+  "readingsOn": [
+   "しち"
+  ],
+  "readingsKun": [
+   "なな",
+   "なな.つ",
+   "なの"
+  ],
+  "strokes": 2,
+  "freq": 115,
+  "grade": 1
+ },
+ {
+  "id": "kanji:山",
+  "char": "山",
+  "meanings": [
+   "Mountain"
+  ],
+  "readingsOn": [
+   "さん",
+   "せん"
+  ],
+  "readingsKun": [
+   "やま"
+  ],
+  "strokes": 3,
+  "freq": 131,
+  "grade": 1
+ },
+ {
+  "id": "kanji:話",
+  "char": "話",
+  "meanings": [
+   "Tale",
+   "Talk"
+  ],
+  "readingsOn": [
+   "わ"
+  ],
+  "readingsKun": [
+   "はな.す",
+   "はなし"
+  ],
+  "strokes": 13,
+  "freq": 134,
+  "grade": 2
+ },
+ {
+  "id": "kanji:女",
+  "char": "女",
+  "meanings": [
+   "Woman",
+   "Female"
+  ],
+  "readingsOn": [
+   "じょ",
+   "にょ",
+   "にょう"
+  ],
+  "readingsKun": [
+   "おんな",
+   "め"
+  ],
+  "strokes": 3,
+  "freq": 151,
+  "grade": 1
+ },
+ {
+  "id": "kanji:北",
+  "char": "北",
+  "meanings": [
+   "North"
+  ],
+  "readingsOn": [
+   "ほく"
+  ],
+  "readingsKun": [
+   "きた"
+  ],
+  "strokes": 5,
+  "freq": 153,
+  "grade": 2
+ },
+ {
+  "id": "kanji:午",
+  "char": "午",
+  "meanings": [
+   "Noon",
+   "Sign Of The Horse",
+   "11am-1pm",
+   "Seventh Sign Of Chinese Zodiac"
+  ],
+  "readingsOn": [
+   "ご"
+  ],
+  "readingsKun": [
+   "うま"
+  ],
+  "strokes": 4,
+  "freq": 154,
+  "grade": 2
+ },
+ {
+  "id": "kanji:百",
+  "char": "百",
+  "meanings": [
+   "Hundred"
+  ],
+  "readingsOn": [
+   "ひゃく",
+   "びゃく"
+  ],
+  "readingsKun": [
+   "もも"
+  ],
+  "strokes": 6,
+  "freq": 163,
+  "grade": 1
+ },
+ {
+  "id": "kanji:書",
+  "char": "書",
+  "meanings": [
+   "Write"
+  ],
+  "readingsOn": [
+   "しょ"
+  ],
+  "readingsKun": [
+   "か.く",
+   "-が.き",
+   "-がき"
+  ],
+  "strokes": 10,
+  "freq": 169,
+  "grade": 2
+ },
+ {
+  "id": "kanji:先",
+  "char": "先",
+  "meanings": [
+   "Before",
+   "Ahead",
+   "Previous",
+   "Future",
+   "Precedence"
+  ],
+  "readingsOn": [
+   "せん"
+  ],
+  "readingsKun": [
+   "さき",
+   "ま.ず"
+  ],
+  "strokes": 6,
+  "freq": 173,
+  "grade": 1
+ },
+ {
+  "id": "kanji:名",
+  "char": "名",
+  "meanings": [
+   "Name",
+   "Noted",
+   "Distinguished",
+   "Reputation"
+  ],
+  "readingsOn": [
+   "めい",
+   "みょう"
+  ],
+  "readingsKun": [
+   "な",
+   "-な"
+  ],
+  "strokes": 6,
+  "freq": 177,
+  "grade": 1
+ },
+ {
+  "id": "kanji:川",
+  "char": "川",
+  "meanings": [
+   "Stream",
+   "River",
+   "River Or Three-stroke River Radical (no. 47)"
+  ],
+  "readingsOn": [
+   "せん"
+  ],
+  "readingsKun": [
+   "かわ"
+  ],
+  "strokes": 3,
+  "freq": 181,
+  "grade": 1
+ },
+ {
+  "id": "kanji:千",
+  "char": "千",
+  "meanings": [
+   "Thousand"
+  ],
+  "readingsOn": [
+   "せん"
+  ],
+  "readingsKun": [
+   "ち"
+  ],
+  "strokes": 3,
+  "freq": 195,
+  "grade": 1
+ },
+ {
+  "id": "kanji:水",
+  "char": "水",
+  "meanings": [
+   "Water"
+  ],
+  "readingsOn": [
+   "すい"
+  ],
+  "readingsKun": [
+   "みず",
+   "みず-"
+  ],
+  "strokes": 4,
+  "freq": 223,
+  "grade": 1
+ },
+ {
+  "id": "kanji:半",
+  "char": "半",
+  "meanings": [
+   "Half",
+   "Middle",
+   "Odd Number",
+   "Semi-",
+   "Part-"
+  ],
+  "readingsOn": [
+   "はん"
+  ],
+  "readingsKun": [
+   "なか.ば"
+  ],
+  "strokes": 5,
+  "freq": 224,
+  "grade": 2
+ },
+ {
+  "id": "kanji:男",
+  "char": "男",
+  "meanings": [
+   "Male"
+  ],
+  "readingsOn": [
+   "だん",
+   "なん"
+  ],
+  "readingsKun": [
+   "おとこ",
+   "お"
+  ],
+  "strokes": 7,
+  "freq": 240,
+  "grade": 1
+ },
+ {
+  "id": "kanji:西",
+  "char": "西",
+  "meanings": [
+   "West",
+   "Spain"
+  ],
+  "readingsOn": [
+   "せい",
+   "さい",
+   "す"
+  ],
+  "readingsKun": [
+   "にし"
+  ],
+  "strokes": 6,
+  "freq": 259,
+  "grade": 2
+ },
+ {
+  "id": "kanji:電",
+  "char": "電",
+  "meanings": [
+   "Electricity"
+  ],
+  "readingsOn": [
+   "でん"
+  ],
+  "readingsKun": [],
+  "strokes": 13,
+  "freq": 268,
+  "grade": 2
+ },
+ {
+  "id": "kanji:校",
+  "char": "校",
+  "meanings": [
+   "Exam",
+   "School",
+   "Printing",
+   "Proof",
+   "Correction"
+  ],
+  "readingsOn": [
+   "こう",
+   "きょう"
+  ],
+  "readingsKun": [],
+  "strokes": 10,
+  "freq": 294,
+  "grade": 1
+ },
+ {
+  "id": "kanji:語",
+  "char": "語",
+  "meanings": [
+   "Word",
+   "Speech",
+   "Language"
+  ],
+  "readingsOn": [
+   "ご"
+  ],
+  "readingsKun": [
+   "かた.る",
+   "かた.らう"
+  ],
+  "strokes": 14,
+  "freq": 301,
+  "grade": 2
+ },
+ {
+  "id": "kanji:土",
+  "char": "土",
+  "meanings": [
+   "Soil",
+   "Earth",
+   "Ground",
+   "Turkey"
+  ],
+  "readingsOn": [
+   "ど",
+   "と"
+  ],
+  "readingsKun": [
+   "つち"
+  ],
+  "strokes": 3,
+  "freq": 307,
+  "grade": 1
+ },
+ {
+  "id": "kanji:木",
+  "char": "木",
+  "meanings": [
+   "Tree",
+   "Wood"
+  ],
+  "readingsOn": [
+   "ぼく",
+   "もく"
+  ],
+  "readingsKun": [
+   "き",
+   "こ-"
+  ],
+  "strokes": 4,
+  "freq": 317,
+  "grade": 1
+ },
+ {
+  "id": "kanji:聞",
+  "char": "聞",
+  "meanings": [
+   "Hear",
+   "Ask",
+   "Listen"
+  ],
+  "readingsOn": [
+   "ぶん",
+   "もん"
+  ],
+  "readingsKun": [
+   "き.く",
+   "き.こえる"
+  ],
+  "strokes": 14,
+  "freq": 319,
+  "grade": 2
+ },
+ {
+  "id": "kanji:食",
+  "char": "食",
+  "meanings": [
+   "Eat",
+   "Food"
+  ],
+  "readingsOn": [
+   "しょく",
+   "じき"
+  ],
+  "readingsKun": [
+   "く.う",
+   "く.らう",
+   "た.べる",
+   "は.む"
+  ],
+  "strokes": 9,
+  "freq": 328,
+  "grade": 2
+ },
+ {
+  "id": "kanji:車",
+  "char": "車",
+  "meanings": [
+   "Car"
+  ],
+  "readingsOn": [
+   "しゃ"
+  ],
+  "readingsKun": [
+   "くるま"
+  ],
+  "strokes": 7,
+  "freq": 333,
+  "grade": 1
+ },
+ {
+  "id": "kanji:何",
+  "char": "何",
+  "meanings": [
+   "What"
+  ],
+  "readingsOn": [
+   "か"
+  ],
+  "readingsKun": [
+   "なに",
+   "なん",
+   "なに-",
+   "なん-"
+  ],
+  "strokes": 7,
+  "freq": 340,
+  "grade": 2
+ },
+ {
+  "id": "kanji:南",
+  "char": "南",
+  "meanings": [
+   "South"
+  ],
+  "readingsOn": [
+   "なん",
+   "な"
+  ],
+  "readingsKun": [
+   "みなみ"
+  ],
+  "strokes": 9,
+  "freq": 341,
+  "grade": 2
+ },
+ {
+  "id": "kanji:万",
+  "char": "万",
+  "meanings": [
+   "Ten Thousand",
+   "10,000"
+  ],
+  "readingsOn": [
+   "まん",
+   "ばん"
+  ],
+  "readingsKun": [
+   "よろず"
+  ],
+  "strokes": 3,
+  "freq": 375,
+  "grade": 2
+ },
+ {
+  "id": "kanji:毎",
+  "char": "毎",
+  "meanings": [
+   "Every"
+  ],
+  "readingsOn": [
+   "まい"
+  ],
+  "readingsKun": [
+   "ごと",
+   "-ごと.に"
+  ],
+  "strokes": 6,
+  "freq": 436,
+  "grade": 2
+ },
+ {
+  "id": "kanji:白",
+  "char": "白",
+  "meanings": [
+   "White"
+  ],
+  "readingsOn": [
+   "はく",
+   "びゃく"
+  ],
+  "readingsKun": [
+   "しろ",
+   "しら-",
+   "しろ.い"
+  ],
+  "strokes": 5,
+  "freq": 483,
+  "grade": 1
+ },
+ {
+  "id": "kanji:天",
+  "char": "天",
+  "meanings": [
+   "Heavens",
+   "Sky",
+   "Imperial"
+  ],
+  "readingsOn": [
+   "てん"
+  ],
+  "readingsKun": [
+   "あまつ",
+   "あめ",
+   "あま-"
+  ],
+  "strokes": 4,
+  "freq": 512,
+  "grade": 1
+ },
+ {
+  "id": "kanji:母",
+  "char": "母",
+  "meanings": [
+   "Mother"
+  ],
+  "readingsOn": [
+   "ぼ"
+  ],
+  "readingsKun": [
+   "はは",
+   "も"
+  ],
+  "strokes": 5,
+  "freq": 570,
+  "grade": 2
+ },
+ {
+  "id": "kanji:火",
+  "char": "火",
+  "meanings": [
+   "Fire"
+  ],
+  "readingsOn": [
+   "か"
+  ],
+  "readingsKun": [
+   "ひ",
+   "-び",
+   "ほ-"
+  ],
+  "strokes": 4,
+  "freq": 574,
+  "grade": 1
+ },
+ {
+  "id": "kanji:右",
+  "char": "右",
+  "meanings": [
+   "Right"
+  ],
+  "readingsOn": [
+   "う",
+   "ゆう"
+  ],
+  "readingsKun": [
+   "みぎ"
+  ],
+  "strokes": 5,
+  "freq": 602,
+  "grade": 1
+ },
+ {
+  "id": "kanji:読",
+  "char": "読",
+  "meanings": [
+   "Read"
+  ],
+  "readingsOn": [
+   "どく",
+   "とく",
+   "とう"
+  ],
+  "readingsKun": [
+   "よ.む",
+   "-よ.み"
+  ],
+  "strokes": 14,
+  "freq": 618,
+  "grade": 2
+ },
+ {
+  "id": "kanji:友",
+  "char": "友",
+  "meanings": [
+   "Friend"
+  ],
+  "readingsOn": [
+   "ゆう"
+  ],
+  "readingsKun": [
+   "とも"
+  ],
+  "strokes": 4,
+  "freq": 622,
+  "grade": 2
+ },
+ {
+  "id": "kanji:左",
+  "char": "左",
+  "meanings": [
+   "Left"
+  ],
+  "readingsOn": [
+   "さ",
+   "しゃ"
+  ],
+  "readingsKun": [
+   "ひだり"
+  ],
+  "strokes": 5,
+  "freq": 630,
+  "grade": 1
+ },
+ {
+  "id": "kanji:休",
+  "char": "休",
+  "meanings": [
+   "Rest",
+   "Day Off",
+   "Retire",
+   "Sleep"
+  ],
+  "readingsOn": [
+   "きゅう"
+  ],
+  "readingsKun": [
+   "やす.む",
+   "やす.まる",
+   "やす.める"
+  ],
+  "strokes": 6,
+  "freq": 642,
+  "grade": 1
+ },
+ {
+  "id": "kanji:父",
+  "char": "父",
+  "meanings": [
+   "Father"
+  ],
+  "readingsOn": [
+   "ふ"
+  ],
+  "readingsKun": [
+   "ちち"
+  ],
+  "strokes": 4,
+  "freq": 646,
+  "grade": 2
+ },
+ {
+  "id": "kanji:雨",
+  "char": "雨",
+  "meanings": [
+   "Rain"
+  ],
+  "readingsOn": [
+   "う"
+  ],
+  "readingsKun": [
+   "あめ",
+   "あま-",
+   "-さめ"
+  ],
+  "strokes": 8,
+  "freq": 950,
+  "grade": 1
+ }
+]

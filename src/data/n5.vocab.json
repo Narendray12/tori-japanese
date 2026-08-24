@@ -1,0 +1,9567 @@
+[
+ {
+  "id": "vocab:ああ:ああ",
+  "expression": "ああ",
+  "reading": "ああ",
+  "meanings": [
+   "Ah!",
+   "Oh!"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:会う:あう",
+  "expression": "会う",
+  "reading": "あう",
+  "meanings": [
+   "to meet",
+   "to see"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:青:あお",
+  "expression": "青",
+  "reading": "あお",
+  "meanings": [
+   "blue"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:青い:あおい",
+  "expression": "青い",
+  "reading": "あおい",
+  "meanings": [
+   "blue"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.9"
+  ]
+ },
+ {
+  "id": "vocab:赤:あか",
+  "expression": "赤",
+  "reading": "あか",
+  "meanings": [
+   "red"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:赤い:あかい",
+  "expression": "赤い",
+  "reading": "あかい",
+  "meanings": [
+   "red"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.9",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.12"
+  ]
+ },
+ {
+  "id": "vocab:明るい:あかるい",
+  "expression": "明るい",
+  "reading": "あかるい",
+  "meanings": [
+   "bright (in reference to personality or weather)",
+   "cheerful"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.18",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.11"
+  ]
+ },
+ {
+  "id": "vocab:秋:あき",
+  "expression": "秋",
+  "reading": "あき",
+  "meanings": [
+   "fall (season)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.10",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:開く:あく",
+  "expression": "開く",
+  "reading": "あく",
+  "meanings": [
+   "to open",
+   "to become open"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:開ける:あける",
+  "expression": "開ける",
+  "reading": "あける",
+  "meanings": [
+   "to open (v.t.)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.12"
+  ]
+ },
+ {
+  "id": "vocab:上げる:あげる",
+  "expression": "上げる",
+  "reading": "あげる",
+  "meanings": [
+   "to raise",
+   "to lift"
+  ],
+  "kanjiUsed": [
+   "上"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:朝:あさ",
+  "expression": "朝",
+  "reading": "あさ",
+  "meanings": [
+   "morning"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.3",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:朝御飯:あさごはん",
+  "expression": "朝御飯",
+  "reading": "あさごはん",
+  "meanings": [
+   "breakfast"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:明後日:あさって",
+  "expression": "明後日",
+  "reading": "あさって",
+  "meanings": [
+   "day after tomorrow"
+  ],
+  "kanjiUsed": [
+   "後",
+   "日"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:足; 脚:あし",
+  "expression": "足; 脚",
+  "reading": "あし",
+  "meanings": [
+   "foot",
+   "leg"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:明日:あした",
+  "expression": "明日",
+  "reading": "あした",
+  "meanings": [
+   "tomorrow"
+  ],
+  "kanjiUsed": [
+   "日"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.3",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.7"
+  ]
+ },
+ {
+  "id": "vocab:あそこ:あそこ",
+  "expression": "あそこ",
+  "reading": "あそこ",
+  "meanings": [
+   "there",
+   "over there",
+   "that place"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:遊ぶ:あそぶ",
+  "expression": "遊ぶ",
+  "reading": "あそぶ",
+  "meanings": [
+   "to play",
+   "to spend time pleasantly",
+   "to hang out"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.6",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:暖かい:あたたかい",
+  "expression": "暖かい",
+  "reading": "あたたかい",
+  "meanings": [
+   "warm"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:頭:あたま",
+  "expression": "頭",
+  "reading": "あたま",
+  "meanings": [
+   "head"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:新しい:あたらしい",
+  "expression": "新しい",
+  "reading": "あたらしい",
+  "meanings": [
+   "new"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.5"
+  ]
+ },
+ {
+  "id": "vocab:あちら:あちら",
+  "expression": "あちら",
+  "reading": "あちら",
+  "meanings": [
+   "this way (polite)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.20"
+  ]
+ },
+ {
+  "id": "vocab:暑い:あつい",
+  "expression": "暑い",
+  "reading": "あつい",
+  "meanings": [
+   "hot (in reference to weather)",
+   "warm"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.5",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:熱い:あつい",
+  "expression": "熱い",
+  "reading": "あつい",
+  "meanings": [
+   "hot (objects)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.5"
+  ]
+ },
+ {
+  "id": "vocab:厚い:あつい",
+  "expression": "厚い",
+  "reading": "あつい",
+  "meanings": [
+   "kind",
+   "warm(hearted)",
+   "thick",
+   "deep"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:あっち:あっち",
+  "expression": "あっち",
+  "reading": "あっち",
+  "meanings": [
+   "over there"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:後:あと",
+  "expression": "後",
+  "reading": "あと",
+  "meanings": [
+   "afterwards (later)",
+   "in the future",
+   "the rest",
+   "since then"
+  ],
+  "kanjiUsed": [
+   "後"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.18"
+  ]
+ },
+ {
+  "id": "vocab:あなた:あなた",
+  "expression": "あなた",
+  "reading": "あなた",
+  "meanings": [
+   "you"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:兄:あに",
+  "expression": "兄",
+  "reading": "あに",
+  "meanings": [
+   "(my) older brother (humble)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.14"
+  ]
+ },
+ {
+  "id": "vocab:姉:あね",
+  "expression": "姉",
+  "reading": "あね",
+  "meanings": [
+   "(my) older sister (humble)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.7"
+  ]
+ },
+ {
+  "id": "vocab:アパート:アパート",
+  "expression": "アパート",
+  "reading": "アパート",
+  "meanings": [
+   "apartment (abbr.)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.7"
+  ]
+ },
+ {
+  "id": "vocab:あの:あの",
+  "expression": "あの",
+  "reading": "あの",
+  "meanings": [
+   "that over there",
+   "like that",
+   "that way",
+   "um..."
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:浴びる:あびる",
+  "expression": "浴びる",
+  "reading": "あびる",
+  "meanings": [
+   "to bathe",
+   "to shower"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:危ない:あぶない",
+  "expression": "危ない",
+  "reading": "あぶない",
+  "meanings": [
+   "dangerous",
+   "critical"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.15"
+  ]
+ },
+ {
+  "id": "vocab:甘い:あまい",
+  "expression": "甘い",
+  "reading": "あまい",
+  "meanings": [
+   "generous",
+   "sweet"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.12"
+  ]
+ },
+ {
+  "id": "vocab:余り:あまり",
+  "expression": "余り",
+  "reading": "あまり",
+  "meanings": [
+   "not very",
+   "surplus"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:雨:あめ",
+  "expression": "雨",
+  "reading": "あめ",
+  "meanings": [
+   "rain"
+  ],
+  "kanjiUsed": [
+   "雨"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.8"
+  ]
+ },
+ {
+  "id": "vocab:飴:あめ",
+  "expression": "飴",
+  "reading": "あめ",
+  "meanings": [
+   "(hard) candy"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:洗う:あらう",
+  "expression": "洗う",
+  "reading": "あらう",
+  "meanings": [
+   "to wash"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.8",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.10"
+  ]
+ },
+ {
+  "id": "vocab:在る:ある",
+  "expression": "在る",
+  "reading": "ある",
+  "meanings": [
+   "to be",
+   "to have"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:有る:ある",
+  "expression": "有る",
+  "reading": "ある",
+  "meanings": [
+   "to be",
+   "to have"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:歩く:あるく",
+  "expression": "歩く",
+  "reading": "あるく",
+  "meanings": [
+   "to walk"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.20",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:あれ:あれ",
+  "expression": "あれ",
+  "reading": "あれ",
+  "meanings": [
+   "that one (over there)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:いい; よい:いい; よい",
+  "expression": "いい; よい",
+  "reading": "いい; よい",
+  "meanings": [
+   "good"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:いいえ:いいえ",
+  "expression": "いいえ",
+  "reading": "いいえ",
+  "meanings": [
+   "no",
+   "not at all"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:言う:いう",
+  "expression": "言う",
+  "reading": "いう",
+  "meanings": [
+   "to say"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.8"
+  ]
+ },
+ {
+  "id": "vocab:家:いえ",
+  "expression": "家",
+  "reading": "いえ",
+  "meanings": [
+   "house",
+   "home"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:いかが:いかが",
+  "expression": "いかが",
+  "reading": "いかが",
+  "meanings": [
+   "how",
+   "in what way"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:行く:いく; ゆく",
+  "expression": "行く",
+  "reading": "いく; ゆく",
+  "meanings": [
+   "to go"
+  ],
+  "kanjiUsed": [
+   "行"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:いくつ:いくつ",
+  "expression": "いくつ",
+  "reading": "いくつ",
+  "meanings": [
+   "how many",
+   "how old"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:いくら:いくら",
+  "expression": "いくら",
+  "reading": "いくら",
+  "meanings": [
+   "how much",
+   "how many"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:池:いけ",
+  "expression": "池",
+  "reading": "いけ",
+  "meanings": [
+   "pond"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:医者:いしゃ",
+  "expression": "医者",
+  "reading": "いしゃ",
+  "meanings": [
+   "doctor",
+   "physician"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.1",
+   "Genki_Ln.10",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.12"
+  ]
+ },
+ {
+  "id": "vocab:椅子:いす",
+  "expression": "椅子",
+  "reading": "いす",
+  "meanings": [
+   "chair"
+  ],
+  "kanjiUsed": [
+   "子"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:忙しい:いそがしい",
+  "expression": "忙しい",
+  "reading": "いそがしい",
+  "meanings": [
+   "busy (people",
+   "days)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.5"
+  ]
+ },
+ {
+  "id": "vocab:痛い:いたい",
+  "expression": "痛い",
+  "reading": "いたい",
+  "meanings": [
+   "hurt",
+   "painful",
+   "sore"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.12",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.5"
+  ]
+ },
+ {
+  "id": "vocab:一:いち",
+  "expression": "一",
+  "reading": "いち",
+  "meanings": [
+   "one"
+  ],
+  "kanjiUsed": [
+   "一"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:一日:いちにち",
+  "expression": "一日",
+  "reading": "いちにち",
+  "meanings": [
+   "one day (duration)"
+  ],
+  "kanjiUsed": [
+   "一",
+   "日"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.13"
+  ]
+ },
+ {
+  "id": "vocab:一番:いちばん",
+  "expression": "一番",
+  "reading": "いちばん",
+  "meanings": [
+   "best (most)",
+   "first",
+   "number one"
+  ],
+  "kanjiUsed": [
+   "一"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.10",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:いつ:いつ",
+  "expression": "いつ",
+  "reading": "いつ",
+  "meanings": [
+   "when"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:五日:いつか",
+  "expression": "五日",
+  "reading": "いつか",
+  "meanings": [
+   "five days",
+   "fifth day of the month"
+  ],
+  "kanjiUsed": [
+   "五",
+   "日"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.13"
+  ]
+ },
+ {
+  "id": "vocab:一緒:いっしょ",
+  "expression": "一緒",
+  "reading": "いっしょ",
+  "meanings": [
+   "together"
+  ],
+  "kanjiUsed": [
+   "一"
+  ],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.7"
+  ]
+ },
+ {
+  "id": "vocab:五つ:いつつ",
+  "expression": "五つ",
+  "reading": "いつつ",
+  "meanings": [
+   "five things"
+  ],
+  "kanjiUsed": [
+   "五"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.9"
+  ]
+ },
+ {
+  "id": "vocab:いつも:いつも",
+  "expression": "いつも",
+  "reading": "いつも",
+  "meanings": [
+   "always",
+   "usually",
+   "every time",
+   "never (with neg. verb)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.12"
+  ]
+ },
+ {
+  "id": "vocab:犬:いぬ",
+  "expression": "犬",
+  "reading": "いぬ",
+  "meanings": [
+   "dog"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:今:いま",
+  "expression": "今",
+  "reading": "いま",
+  "meanings": [
+   "now"
+  ],
+  "kanjiUsed": [
+   "今"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:意味:いみ",
+  "expression": "意味",
+  "reading": "いみ",
+  "meanings": [
+   "meaning",
+   "significance"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.12",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:妹:いもうと",
+  "expression": "妹",
+  "reading": "いもうと",
+  "meanings": [
+   "younger sister (humble)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.1",
+   "Genki_Ln.7"
+  ]
+ },
+ {
+  "id": "vocab:嫌:いや",
+  "expression": "嫌",
+  "reading": "いや",
+  "meanings": [
+   "disagreeable",
+   "detestable",
+   "unpleasant"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:入口:いりぐち",
+  "expression": "入口",
+  "reading": "いりぐち",
+  "meanings": [
+   "entrance"
+  ],
+  "kanjiUsed": [
+   "入"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:居る:いる",
+  "expression": "居る",
+  "reading": "いる",
+  "meanings": [
+   "(humble) to be (animate)",
+   "to exist"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:要る:いる",
+  "expression": "要る",
+  "reading": "いる",
+  "meanings": [
+   "to need"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:入れる:いれる",
+  "expression": "入れる",
+  "reading": "いれる",
+  "meanings": [
+   "to put in"
+  ],
+  "kanjiUsed": [
+   "入"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:色:いろ",
+  "expression": "色",
+  "reading": "いろ",
+  "meanings": [
+   "color"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.9",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.9"
+  ]
+ },
+ {
+  "id": "vocab:色々:いろいろ",
+  "expression": "色々",
+  "reading": "いろいろ",
+  "meanings": [
+   "various"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:上:うえ",
+  "expression": "上",
+  "reading": "うえ",
+  "meanings": [
+   "above (up",
+   "top",
+   "etc.)",
+   "over",
+   "on top of"
+  ],
+  "kanjiUsed": [
+   "上"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:後ろ:うしろ",
+  "expression": "後ろ",
+  "reading": "うしろ",
+  "meanings": [
+   "back",
+   "behind",
+   "rear"
+  ],
+  "kanjiUsed": [
+   "後"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:薄い:うすい",
+  "expression": "薄い",
+  "reading": "うすい",
+  "meanings": [
+   "thin",
+   "weak"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:歌:うた",
+  "expression": "歌",
+  "reading": "うた",
+  "meanings": [
+   "a song"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.7"
+  ]
+ },
+ {
+  "id": "vocab:歌う:うたう",
+  "expression": "歌う",
+  "reading": "うたう",
+  "meanings": [
+   "to sing"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.7",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.7"
+  ]
+ },
+ {
+  "id": "vocab:うち:うち",
+  "expression": "うち",
+  "reading": "うち",
+  "meanings": [
+   "home",
+   "house",
+   "my place"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:生まれる:うまれる",
+  "expression": "生まれる",
+  "reading": "うまれる",
+  "meanings": [
+   "to be born"
+  ],
+  "kanjiUsed": [
+   "生"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:海:うみ",
+  "expression": "海",
+  "reading": "うみ",
+  "meanings": [
+   "sea",
+   "beach"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.5"
+  ]
+ },
+ {
+  "id": "vocab:売る:うる",
+  "expression": "売る",
+  "reading": "うる",
+  "meanings": [
+   "to sell (v.t.)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.15",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.6"
+  ]
+ },
+ {
+  "id": "vocab:うるさい:うるさい",
+  "expression": "うるさい",
+  "reading": "うるさい",
+  "meanings": [
+   "noisy",
+   "annoying"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.22"
+  ]
+ },
+ {
+  "id": "vocab:上着:うわぎ",
+  "expression": "上着",
+  "reading": "うわぎ",
+  "meanings": [
+   "coat",
+   "jacket"
+  ],
+  "kanjiUsed": [
+   "上"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:絵:え",
+  "expression": "絵",
+  "reading": "え",
+  "meanings": [
+   "a painting",
+   "a picture",
+   "a drawing"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.15"
+  ]
+ },
+ {
+  "id": "vocab:映画:えいが",
+  "expression": "映画",
+  "reading": "えいが",
+  "meanings": [
+   "movie",
+   "film"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.3",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.7"
+  ]
+ },
+ {
+  "id": "vocab:映画館:えいがかん",
+  "expression": "映画館",
+  "reading": "えいがかん",
+  "meanings": [
+   "movie theater",
+   "cinema"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.15"
+  ]
+ },
+ {
+  "id": "vocab:英語:えいご",
+  "expression": "英語",
+  "reading": "えいご",
+  "meanings": [
+   "English (language)"
+  ],
+  "kanjiUsed": [
+   "語"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:ええ:ええ",
+  "expression": "ええ",
+  "reading": "ええ",
+  "meanings": [
+   "yes"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:駅:えき",
+  "expression": "駅",
+  "reading": "えき",
+  "meanings": [
+   "station"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.10"
+  ]
+ },
+ {
+  "id": "vocab:エレベーター:エレベーター",
+  "expression": "エレベーター",
+  "reading": "エレベーター",
+  "meanings": [
+   "elevator"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:～円:～えん",
+  "expression": "～円",
+  "reading": "～えん",
+  "meanings": [
+   "Yen"
+  ],
+  "kanjiUsed": [
+   "円"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:鉛筆:えんぴつ",
+  "expression": "鉛筆",
+  "reading": "えんぴつ",
+  "meanings": [
+   "pencil"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:お～:お～",
+  "expression": "お～",
+  "reading": "お～",
+  "meanings": [
+   "honorable ~ (honorific)"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:美味しい:おいしい",
+  "expression": "美味しい",
+  "reading": "おいしい",
+  "meanings": [
+   "delicious",
+   "tasty"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:多い:おおい",
+  "expression": "多い",
+  "reading": "おおい",
+  "meanings": [
+   "many",
+   "there are a lot"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:大きい:おおきい",
+  "expression": "大きい",
+  "reading": "おおきい",
+  "meanings": [
+   "big",
+   "large"
+  ],
+  "kanjiUsed": [
+   "大"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.5"
+  ]
+ },
+ {
+  "id": "vocab:大きな:おおきな",
+  "expression": "大きな",
+  "reading": "おおきな",
+  "meanings": [
+   "big"
+  ],
+  "kanjiUsed": [
+   "大"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:大勢:おおぜい",
+  "expression": "大勢",
+  "reading": "おおぜい",
+  "meanings": [
+   "great number of people"
+  ],
+  "kanjiUsed": [
+   "大"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:お母さん:おかあさん",
+  "expression": "お母さん",
+  "reading": "おかあさん",
+  "meanings": [
+   "mother (formal)"
+  ],
+  "kanjiUsed": [
+   "母"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.1",
+   "Genki_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:お菓子:おかし",
+  "expression": "お菓子",
+  "reading": "おかし",
+  "meanings": [
+   "confections",
+   "sweets",
+   "snack"
+  ],
+  "kanjiUsed": [
+   "子"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.11"
+  ]
+ },
+ {
+  "id": "vocab:お金:おかね",
+  "expression": "お金",
+  "reading": "おかね",
+  "meanings": [
+   "money"
+  ],
+  "kanjiUsed": [
+   "金"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.6"
+  ]
+ },
+ {
+  "id": "vocab:起きる:おきる",
+  "expression": "起きる",
+  "reading": "おきる",
+  "meanings": [
+   "to get up (e.g.",
+   "from sleeping)",
+   "to happen"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.3",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.12"
+  ]
+ },
+ {
+  "id": "vocab:置く:おく",
+  "expression": "置く",
+  "reading": "おく",
+  "meanings": [
+   "to put",
+   "to lay",
+   "to place"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.21"
+  ]
+ },
+ {
+  "id": "vocab:奥さん:おくさん",
+  "expression": "奥さん",
+  "reading": "おくさん",
+  "meanings": [
+   "(someone else's) wife (hon.)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.14",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.9"
+  ]
+ },
+ {
+  "id": "vocab:お酒:おさけ",
+  "expression": "お酒",
+  "reading": "おさけ",
+  "meanings": [
+   "sake",
+   "alcohol"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:お皿:おさら",
+  "expression": "お皿",
+  "reading": "おさら",
+  "meanings": [
+   "plate",
+   "dish"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:伯父; 叔父さん:おじさん",
+  "expression": "伯父; 叔父さん",
+  "reading": "おじさん",
+  "meanings": [
+   "uncle",
+   "middle-aged man"
+  ],
+  "kanjiUsed": [
+   "父",
+   "父"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:おじいさん:おじいさん",
+  "expression": "おじいさん",
+  "reading": "おじいさん",
+  "meanings": [
+   "grandfather",
+   "male senior citizen"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.13"
+  ]
+ },
+ {
+  "id": "vocab:教える:おしえる",
+  "expression": "教える",
+  "reading": "おしえる",
+  "meanings": [
+   "to teach",
+   "to inform",
+   "to instruct"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:押す:おす",
+  "expression": "押す",
+  "reading": "おす",
+  "meanings": [
+   "to push",
+   "to press",
+   "to stamp (e.g.",
+   "a passport)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.18"
+  ]
+ },
+ {
+  "id": "vocab:遅い:おそい",
+  "expression": "遅い",
+  "reading": "おそい",
+  "meanings": [
+   "slow",
+   "(to be) late"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.10",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.11"
+  ]
+ },
+ {
+  "id": "vocab:お茶:おちゃ",
+  "expression": "お茶",
+  "reading": "おちゃ",
+  "meanings": [
+   "(green) tea"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.3",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.6"
+  ]
+ },
+ {
+  "id": "vocab:お手洗い:おてあらい",
+  "expression": "お手洗い",
+  "reading": "おてあらい",
+  "meanings": [
+   "toilet",
+   "restroom",
+   "bathroom (lit.",
+   "a place to wash one's hands)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.2",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.13"
+  ]
+ },
+ {
+  "id": "vocab:お父さん:おとうさん",
+  "expression": "お父さん",
+  "reading": "おとうさん",
+  "meanings": [
+   "father (formal)"
+  ],
+  "kanjiUsed": [
+   "父"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.1",
+   "Genki_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:弟:おとうと",
+  "expression": "弟",
+  "reading": "おとうと",
+  "meanings": [
+   "younger brother"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.1",
+   "Genki_Ln.7"
+  ]
+ },
+ {
+  "id": "vocab:男:おとこ",
+  "expression": "男",
+  "reading": "おとこ",
+  "meanings": [
+   "man",
+   "male"
+  ],
+  "kanjiUsed": [
+   "男"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.17"
+  ]
+ },
+ {
+  "id": "vocab:男の子:おとこのこ",
+  "expression": "男の子",
+  "reading": "おとこのこ",
+  "meanings": [
+   "boy"
+  ],
+  "kanjiUsed": [
+   "男",
+   "子"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.11"
+  ]
+ },
+ {
+  "id": "vocab:一昨日:おととい",
+  "expression": "一昨日",
+  "reading": "おととい",
+  "meanings": [
+   "the day before yesterday"
+  ],
+  "kanjiUsed": [
+   "一",
+   "日"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.19"
+  ]
+ },
+ {
+  "id": "vocab:おととし:おととし",
+  "expression": "おととし",
+  "reading": "おととし",
+  "meanings": [
+   "year before last"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:大人:おとな",
+  "expression": "大人",
+  "reading": "おとな",
+  "meanings": [
+   "adult"
+  ],
+  "kanjiUsed": [
+   "大",
+   "人"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.13"
+  ]
+ },
+ {
+  "id": "vocab:お腹:おなか",
+  "expression": "お腹",
+  "reading": "おなか",
+  "meanings": [
+   "stomach"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:同じ:おなじ",
+  "expression": "同じ",
+  "reading": "おなじ",
+  "meanings": [
+   "same",
+   "identical"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.14",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:お兄さん:おにいさん",
+  "expression": "お兄さん",
+  "reading": "おにいさん",
+  "meanings": [
+   "(someone else's) older brother (formal)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.1",
+   "Genki_Ln.7",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:お姉さん:おねえさん",
+  "expression": "お姉さん",
+  "reading": "おねえさん",
+  "meanings": [
+   "older sister (formal)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.1",
+   "Genki_Ln.7"
+  ]
+ },
+ {
+  "id": "vocab:伯母さん; 叔母さん:おばさん",
+  "expression": "伯母さん; 叔母さん",
+  "reading": "おばさん",
+  "meanings": [
+   "aunt"
+  ],
+  "kanjiUsed": [
+   "母",
+   "母"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:おばあさん:おばあさん",
+  "expression": "おばあさん",
+  "reading": "おばあさん",
+  "meanings": [
+   "grandmother",
+   "female senior-citizen"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.6"
+  ]
+ },
+ {
+  "id": "vocab:お風呂:おふろ",
+  "expression": "お風呂",
+  "reading": "おふろ",
+  "meanings": [
+   "a bath"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:お弁当:おべんとう",
+  "expression": "お弁当",
+  "reading": "おべんとう",
+  "meanings": [
+   "a boxed lunch"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.9"
+  ]
+ },
+ {
+  "id": "vocab:覚える:おぼえる",
+  "expression": "覚える",
+  "reading": "おぼえる",
+  "meanings": [
+   "to learn",
+   "to commit to memory",
+   "to remember",
+   "to memorize"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:おまわりさん:おまわりさん",
+  "expression": "おまわりさん",
+  "reading": "おまわりさん",
+  "meanings": [
+   "policeman (friendly term)"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:重い:おもい",
+  "expression": "重い",
+  "reading": "おもい",
+  "meanings": [
+   "heavy",
+   "serious"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.20"
+  ]
+ },
+ {
+  "id": "vocab:面白い:おもしろい",
+  "expression": "面白い",
+  "reading": "おもしろい",
+  "meanings": [
+   "interesting",
+   "amusing"
+  ],
+  "kanjiUsed": [
+   "白"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.5",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:泳ぐ:およぐ",
+  "expression": "泳ぐ",
+  "reading": "およぐ",
+  "meanings": [
+   "to swim"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.5"
+  ]
+ },
+ {
+  "id": "vocab:降りる:おりる",
+  "expression": "降りる",
+  "reading": "おりる",
+  "meanings": [
+   "to get off"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:終る:おわる",
+  "expression": "終る",
+  "reading": "おわる",
+  "meanings": [
+   "to finish",
+   "to close"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:音楽:おんがく",
+  "expression": "音楽",
+  "reading": "おんがく",
+  "meanings": [
+   "Music"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.3",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:女:おんな",
+  "expression": "女",
+  "reading": "おんな",
+  "meanings": [
+   "woman",
+   "female"
+  ],
+  "kanjiUsed": [
+   "女"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.17"
+  ]
+ },
+ {
+  "id": "vocab:女の子:おんなのこ",
+  "expression": "女の子",
+  "reading": "おんなのこ",
+  "meanings": [
+   "girl"
+  ],
+  "kanjiUsed": [
+   "女",
+   "子"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.11"
+  ]
+ },
+ {
+  "id": "vocab:～回:～かい",
+  "expression": "～回",
+  "reading": "～かい",
+  "meanings": [
+   "counter for occurrences (~ times)"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:～階:～かい",
+  "expression": "～階",
+  "reading": "～かい",
+  "meanings": [
+   "counter for stories (floors) of a building"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:外国:がいこく",
+  "expression": "外国",
+  "reading": "がいこく",
+  "meanings": [
+   "foreign country",
+   "abroad"
+  ],
+  "kanjiUsed": [
+   "外",
+   "国"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.11",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.6"
+  ]
+ },
+ {
+  "id": "vocab:外国人:がいこくじん",
+  "expression": "外国人",
+  "reading": "がいこくじん",
+  "meanings": [
+   "foreigner"
+  ],
+  "kanjiUsed": [
+   "外",
+   "国",
+   "人"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.15"
+  ]
+ },
+ {
+  "id": "vocab:会社:かいしゃ",
+  "expression": "会社",
+  "reading": "かいしゃ",
+  "meanings": [
+   "company",
+   "corporation"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.7"
+  ]
+ },
+ {
+  "id": "vocab:階段:かいだん",
+  "expression": "階段",
+  "reading": "かいだん",
+  "meanings": [
+   "stairs"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:買い物:かいもの",
+  "expression": "買い物",
+  "reading": "かいもの",
+  "meanings": [
+   "shopping"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:買う:かう",
+  "expression": "買う",
+  "reading": "かう",
+  "meanings": [
+   "to buy"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:返す:かえす",
+  "expression": "返す",
+  "reading": "かえす",
+  "meanings": [
+   "to return something"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:帰る:かえる",
+  "expression": "帰る",
+  "reading": "かえる",
+  "meanings": [
+   "to go back",
+   "to go home",
+   "to return"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:顔:かお",
+  "expression": "顔",
+  "reading": "かお",
+  "meanings": [
+   "face (body part)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.10",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:かかる:かかる",
+  "expression": "かかる",
+  "reading": "かかる",
+  "meanings": [
+   "it takes (amount of time",
+   "money) (v.i.)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.10",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:鍵:かぎ",
+  "expression": "鍵",
+  "reading": "かぎ",
+  "meanings": [
+   "a lock",
+   "a key"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.17"
+  ]
+ },
+ {
+  "id": "vocab:書く:かく",
+  "expression": "書く",
+  "reading": "かく",
+  "meanings": [
+   "to write"
+  ],
+  "kanjiUsed": [
+   "書"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:学生:がくせい",
+  "expression": "学生",
+  "reading": "がくせい",
+  "meanings": [
+   "student"
+  ],
+  "kanjiUsed": [
+   "学",
+   "生"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:～か月:～かげつ",
+  "expression": "～か月",
+  "reading": "～かげつ",
+  "meanings": [
+   "(number of) months"
+  ],
+  "kanjiUsed": [
+   "月"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:掛ける:かける",
+  "expression": "掛ける",
+  "reading": "かける",
+  "meanings": [
+   "to put on (e.g.",
+   "glasses)",
+   "to hang (e.g.",
+   "on a wall)"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:かける:かける",
+  "expression": "かける",
+  "reading": "かける",
+  "meanings": [
+   "to dial/call (e.g.",
+   "phone)",
+   "to sit down"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.19"
+  ]
+ },
+ {
+  "id": "vocab:傘:かさ",
+  "expression": "傘",
+  "reading": "かさ",
+  "meanings": [
+   "umbrella",
+   "parasol"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:貸す:かす",
+  "expression": "貸す",
+  "reading": "かす",
+  "meanings": [
+   "to lend"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:風:かぜ",
+  "expression": "風",
+  "reading": "かぜ",
+  "meanings": [
+   "wind",
+   "breeze"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.22"
+  ]
+ },
+ {
+  "id": "vocab:風邪:かぜ",
+  "expression": "風邪",
+  "reading": "かぜ",
+  "meanings": [
+   "cold",
+   "flu"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.12"
+  ]
+ },
+ {
+  "id": "vocab:方:かた",
+  "expression": "方",
+  "reading": "かた",
+  "meanings": [
+   "-- honorific form for 人 (ひと) --",
+   "way of doing"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:家族:かぞく",
+  "expression": "家族",
+  "reading": "かぞく",
+  "meanings": [
+   "family",
+   "members of a family"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.7",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:片仮名:かたかな",
+  "expression": "片仮名",
+  "reading": "かたかな",
+  "meanings": [
+   "katakana"
+  ],
+  "kanjiUsed": [
+   "名"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:～月:～がつ",
+  "expression": "～月",
+  "reading": "～がつ",
+  "meanings": [
+   "month of year"
+  ],
+  "kanjiUsed": [
+   "月"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:学校:がっこう",
+  "expression": "学校",
+  "reading": "がっこう",
+  "meanings": [
+   "a school"
+  ],
+  "kanjiUsed": [
+   "学",
+   "校"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:カップ:カップ",
+  "expression": "カップ",
+  "reading": "カップ",
+  "meanings": [
+   "cup"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:家庭:かてい",
+  "expression": "家庭",
+  "reading": "かてい",
+  "meanings": [
+   "home",
+   "family"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:角:かど",
+  "expression": "角",
+  "reading": "かど",
+  "meanings": [
+   "corner (e.g.",
+   "desk",
+   "pavement)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.20"
+  ]
+ },
+ {
+  "id": "vocab:かばん:かばん",
+  "expression": "かばん",
+  "reading": "かばん",
+  "meanings": [
+   "bag",
+   "basket"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:花瓶:かびん",
+  "expression": "花瓶",
+  "reading": "かびん",
+  "meanings": [
+   "(flower) vase"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:かぶる:かぶる",
+  "expression": "かぶる",
+  "reading": "かぶる",
+  "meanings": [
+   "to wear",
+   "to put on (e.g.",
+   "a hat on the head)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.7"
+  ]
+ },
+ {
+  "id": "vocab:紙:かみ",
+  "expression": "紙",
+  "reading": "かみ",
+  "meanings": [
+   "paper"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.17"
+  ]
+ },
+ {
+  "id": "vocab:カメラ:カメラ",
+  "expression": "カメラ",
+  "reading": "カメラ",
+  "meanings": [
+   "camera"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.8"
+  ]
+ },
+ {
+  "id": "vocab:火曜日:かようび",
+  "expression": "火曜日",
+  "reading": "かようび",
+  "meanings": [
+   "Tuesday"
+  ],
+  "kanjiUsed": [
+   "火",
+   "日"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:辛い:からい",
+  "expression": "辛い",
+  "reading": "からい",
+  "meanings": [
+   "hot and spicy",
+   "salty"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.13"
+  ]
+ },
+ {
+  "id": "vocab:体:からだ",
+  "expression": "体",
+  "reading": "からだ",
+  "meanings": [
+   "body",
+   "health"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.23",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:借りる:かりる",
+  "expression": "借りる",
+  "reading": "かりる",
+  "meanings": [
+   "to borrow",
+   "to owe"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:～がる:～がる",
+  "expression": "～がる",
+  "reading": "～がる",
+  "meanings": [
+   "feel"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:軽い:かるい",
+  "expression": "軽い",
+  "reading": "かるい",
+  "meanings": [
+   "light",
+   "non-serious",
+   "minor"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:カレー:カレー",
+  "expression": "カレー",
+  "reading": "カレー",
+  "meanings": [
+   "curry (abbr. for curry and rice)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.13"
+  ]
+ },
+ {
+  "id": "vocab:カレンダー:カレンダー",
+  "expression": "カレンダー",
+  "reading": "カレンダー",
+  "meanings": [
+   "calendar"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:川; 河:かわ",
+  "expression": "川; 河",
+  "reading": "かわ",
+  "meanings": [
+   "river"
+  ],
+  "kanjiUsed": [
+   "川"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:～側:～がわ",
+  "expression": "～側",
+  "reading": "～がわ",
+  "meanings": [
+   "~ side"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:可愛い:かわいい",
+  "expression": "可愛い",
+  "reading": "かわいい",
+  "meanings": [
+   "cute",
+   "adorable"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:漢字:かんじ",
+  "expression": "漢字",
+  "reading": "かんじ",
+  "meanings": [
+   "kanji",
+   "Chinese character"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.6",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:木:き",
+  "expression": "木",
+  "reading": "き",
+  "meanings": [
+   "tree",
+   "wood",
+   "timber"
+  ],
+  "kanjiUsed": [
+   "木"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.22"
+  ]
+ },
+ {
+  "id": "vocab:黄色:きいろ",
+  "expression": "黄色",
+  "reading": "きいろ",
+  "meanings": [
+   "yellow"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:黄色い:きいろい",
+  "expression": "黄色い",
+  "reading": "きいろい",
+  "meanings": [
+   "yellow"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:消える:きえる",
+  "expression": "消える",
+  "reading": "きえる",
+  "meanings": [
+   "to vanish",
+   "to disappear"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.18"
+  ]
+ },
+ {
+  "id": "vocab:聞く:きく",
+  "expression": "聞く",
+  "reading": "きく",
+  "meanings": [
+   "to hear",
+   "to listen",
+   "to ask"
+  ],
+  "kanjiUsed": [
+   "聞"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:北:きた",
+  "expression": "北",
+  "reading": "きた",
+  "meanings": [
+   "north"
+  ],
+  "kanjiUsed": [
+   "北"
+  ],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.10"
+  ]
+ },
+ {
+  "id": "vocab:ギター:ギター",
+  "expression": "ギター",
+  "reading": "ギター",
+  "meanings": [
+   "guitar"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.9"
+  ]
+ },
+ {
+  "id": "vocab:汚い:きたない",
+  "expression": "汚い",
+  "reading": "きたない",
+  "meanings": [
+   "dirty",
+   "unclean",
+   "filthy"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.16"
+  ]
+ },
+ {
+  "id": "vocab:喫茶店:きっさてん",
+  "expression": "喫茶店",
+  "reading": "きっさてん",
+  "meanings": [
+   "café"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.2",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.11"
+  ]
+ },
+ {
+  "id": "vocab:切手:きって",
+  "expression": "切手",
+  "reading": "きって",
+  "meanings": [
+   "postal (postage) stamps"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.5",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:切符:きっぷ",
+  "expression": "切符",
+  "reading": "きっぷ",
+  "meanings": [
+   "a ticket"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.5",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.10"
+  ]
+ },
+ {
+  "id": "vocab:昨日:きのう",
+  "expression": "昨日",
+  "reading": "きのう",
+  "meanings": [
+   "yesterday"
+  ],
+  "kanjiUsed": [
+   "日"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:九:きゅう",
+  "expression": "九",
+  "reading": "きゅう",
+  "meanings": [
+   "nine"
+  ],
+  "kanjiUsed": [
+   "九"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:牛肉:ぎゅうにく",
+  "expression": "牛肉",
+  "reading": "ぎゅうにく",
+  "meanings": [
+   "beef"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:牛乳:ぎゅうにゅう",
+  "expression": "牛乳",
+  "reading": "ぎゅうにゅう",
+  "meanings": [
+   "milk"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.18"
+  ]
+ },
+ {
+  "id": "vocab:今日:きょう",
+  "expression": "今日",
+  "reading": "きょう",
+  "meanings": [
+   "today",
+   "this day"
+  ],
+  "kanjiUsed": [
+   "今",
+   "日"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:教室:きょうしつ",
+  "expression": "教室",
+  "reading": "きょうしつ",
+  "meanings": [
+   "classroom"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:兄弟:きょうだい",
+  "expression": "兄弟",
+  "reading": "きょうだい",
+  "meanings": [
+   "siblings (humble)",
+   "brothers and sisters"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.7"
+  ]
+ },
+ {
+  "id": "vocab:去年:きょねん",
+  "expression": "去年",
+  "reading": "きょねん",
+  "meanings": [
+   "last year"
+  ],
+  "kanjiUsed": [
+   "年"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.14",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:嫌い:きらい",
+  "expression": "嫌い",
+  "reading": "きらい",
+  "meanings": [
+   "dislike"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:切る:きる",
+  "expression": "切る",
+  "reading": "きる",
+  "meanings": [
+   "to cut",
+   "to hang up (a phone)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.8",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.12"
+  ]
+ },
+ {
+  "id": "vocab:着る:きる",
+  "expression": "着る",
+  "reading": "きる",
+  "meanings": [
+   "to put on (clothes above your waist)",
+   "to wear"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.7",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.9"
+  ]
+ },
+ {
+  "id": "vocab:綺麗:きれい",
+  "expression": "綺麗",
+  "reading": "きれい",
+  "meanings": [
+   "pretty",
+   "clean",
+   "tidy"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:キロ; キログラム:キロ; キログラム",
+  "expression": "キロ; キログラム",
+  "reading": "キロ; キログラム",
+  "meanings": [
+   "(abbr.) kilo (kilogram)"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:キロ; キロメートル:キロ; キロメートル",
+  "expression": "キロ; キロメートル",
+  "reading": "キロ; キロメートル",
+  "meanings": [
+   "(abbr.) kilo (kilometer)"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:銀行:ぎんこう",
+  "expression": "銀行",
+  "reading": "ぎんこう",
+  "meanings": [
+   "bank"
+  ],
+  "kanjiUsed": [
+   "行"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:金曜日:きんようび",
+  "expression": "金曜日",
+  "reading": "きんようび",
+  "meanings": [
+   "Friday"
+  ],
+  "kanjiUsed": [
+   "金",
+   "日"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:九:く",
+  "expression": "九",
+  "reading": "く",
+  "meanings": [
+   "nine"
+  ],
+  "kanjiUsed": [
+   "九"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:薬:くすり",
+  "expression": "薬",
+  "reading": "くすり",
+  "meanings": [
+   "medicine"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.9",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.12"
+  ]
+ },
+ {
+  "id": "vocab:下さい:ください",
+  "expression": "下さい",
+  "reading": "ください",
+  "meanings": [
+   "(with te-form verb) please do for me"
+  ],
+  "kanjiUsed": [
+   "下"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:果物:くだもの",
+  "expression": "果物",
+  "reading": "くだもの",
+  "meanings": [
+   "fruit"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.9"
+  ]
+ },
+ {
+  "id": "vocab:口:くち",
+  "expression": "口",
+  "reading": "くち",
+  "meanings": [
+   "job opening",
+   "mouth"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.11",
+   "Intermediate_Japanese_Ln.8"
+  ]
+ },
+ {
+  "id": "vocab:靴:くつ",
+  "expression": "靴",
+  "reading": "くつ",
+  "meanings": [
+   "shoes",
+   "footwear"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:靴下:くつした",
+  "expression": "靴下",
+  "reading": "くつした",
+  "meanings": [
+   "socks"
+  ],
+  "kanjiUsed": [
+   "下"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.23"
+  ]
+ },
+ {
+  "id": "vocab:国:くに",
+  "expression": "国",
+  "reading": "くに",
+  "meanings": [
+   "country",
+   "place of origin"
+  ],
+  "kanjiUsed": [
+   "国"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.7"
+  ]
+ },
+ {
+  "id": "vocab:曇り:くもり",
+  "expression": "曇り",
+  "reading": "くもり",
+  "meanings": [
+   "cloudiness",
+   "cloudy weather"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.12"
+  ]
+ },
+ {
+  "id": "vocab:曇る:くもる",
+  "expression": "曇る",
+  "reading": "くもる",
+  "meanings": [
+   "to become cloudy",
+   "to become dim"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:暗い:くらい",
+  "expression": "暗い",
+  "reading": "くらい",
+  "meanings": [
+   "dark",
+   "gloomy"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:～くらい; ぐらい:～くらい; ぐらい",
+  "expression": "～くらい; ぐらい",
+  "reading": "～くらい; ぐらい",
+  "meanings": [
+   "approximate (quantity)"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:クラス:クラス",
+  "expression": "クラス",
+  "reading": "クラス",
+  "meanings": [
+   "a class"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:グラム:グラム",
+  "expression": "グラム",
+  "reading": "グラム",
+  "meanings": [
+   "gram"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:来る:くる",
+  "expression": "来る",
+  "reading": "くる",
+  "meanings": [
+   "to come"
+  ],
+  "kanjiUsed": [
+   "来"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:車:くるま",
+  "expression": "車",
+  "reading": "くるま",
+  "meanings": [
+   "car",
+   "vehicle"
+  ],
+  "kanjiUsed": [
+   "車"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.7"
+  ]
+ },
+ {
+  "id": "vocab:黒:くろ",
+  "expression": "黒",
+  "reading": "くろ",
+  "meanings": [
+   "black"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:黒い:くろい",
+  "expression": "黒い",
+  "reading": "くろい",
+  "meanings": [
+   "black",
+   "dark"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.9"
+  ]
+ },
+ {
+  "id": "vocab:警官:けいかん",
+  "expression": "警官",
+  "reading": "けいかん",
+  "meanings": [
+   "police officer"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:今朝:けさ",
+  "expression": "今朝",
+  "reading": "けさ",
+  "meanings": [
+   "this morning"
+  ],
+  "kanjiUsed": [
+   "今"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.8",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:消す:けす",
+  "expression": "消す",
+  "reading": "けす",
+  "meanings": [
+   "to erase",
+   "to delete",
+   "to turn off power"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:結構:けっこう",
+  "expression": "結構",
+  "reading": "けっこう",
+  "meanings": [
+   "splendid",
+   "enough",
+   "tolerably"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:結婚:けっこん (する)",
+  "expression": "結婚",
+  "reading": "けっこん (する)",
+  "meanings": [
+   "marriage (get married)"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:月曜日:げつようび",
+  "expression": "月曜日",
+  "reading": "げつようび",
+  "meanings": [
+   "Monday"
+  ],
+  "kanjiUsed": [
+   "月",
+   "日"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:玄関:げんかん",
+  "expression": "玄関",
+  "reading": "げんかん",
+  "meanings": [
+   "entrance (to a house or a building)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.5"
+  ]
+ },
+ {
+  "id": "vocab:元気:げんき",
+  "expression": "元気",
+  "reading": "げんき",
+  "meanings": [
+   "health(y)",
+   "energetic"
+  ],
+  "kanjiUsed": [
+   "気"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:～個:～こ",
+  "expression": "～個",
+  "reading": "～こ",
+  "meanings": [
+   "counter for small items (e.g.",
+   "fruits",
+   "cups)"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:五:ご",
+  "expression": "五",
+  "reading": "ご",
+  "meanings": [
+   "five"
+  ],
+  "kanjiUsed": [
+   "五"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:～語:～ご",
+  "expression": "～語",
+  "reading": "～ご",
+  "meanings": [
+   "word",
+   "language"
+  ],
+  "kanjiUsed": [
+   "語"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:公園:こうえん",
+  "expression": "公園",
+  "reading": "こうえん",
+  "meanings": [
+   "a park"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:交差点:こうさてん",
+  "expression": "交差点",
+  "reading": "こうさてん",
+  "meanings": [
+   "intersection"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:紅茶:こうちゃ",
+  "expression": "紅茶",
+  "reading": "こうちゃ",
+  "meanings": [
+   "black tea"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.13"
+  ]
+ },
+ {
+  "id": "vocab:交番:こうばん",
+  "expression": "交番",
+  "reading": "こうばん",
+  "meanings": [
+   "police box"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:声:こえ",
+  "expression": "声",
+  "reading": "こえ",
+  "meanings": [
+   "voice"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:コート:コート",
+  "expression": "コート",
+  "reading": "コート",
+  "meanings": [
+   "coat",
+   "court (e.g.",
+   "tennis)"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:コーヒー:コーヒー",
+  "expression": "コーヒー",
+  "reading": "コーヒー",
+  "meanings": [
+   "coffee"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:ここ:ここ",
+  "expression": "ここ",
+  "reading": "ここ",
+  "meanings": [
+   "here",
+   "this place"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:午後:ごご",
+  "expression": "午後",
+  "reading": "ごご",
+  "meanings": [
+   "afternoon",
+   "P.M."
+  ],
+  "kanjiUsed": [
+   "午",
+   "後"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:九日:ここのか",
+  "expression": "九日",
+  "reading": "ここのか",
+  "meanings": [
+   "nine days",
+   "ninth day of the month"
+  ],
+  "kanjiUsed": [
+   "九",
+   "日"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.13"
+  ]
+ },
+ {
+  "id": "vocab:九つ:ここのつ",
+  "expression": "九つ",
+  "reading": "ここのつ",
+  "meanings": [
+   "nine things"
+  ],
+  "kanjiUsed": [
+   "九"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.9"
+  ]
+ },
+ {
+  "id": "vocab:午前:ごぜん",
+  "expression": "午前",
+  "reading": "ごぜん",
+  "meanings": [
+   "morning",
+   "A.M."
+  ],
+  "kanjiUsed": [
+   "午",
+   "前"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:答える:こたえる",
+  "expression": "答える",
+  "reading": "こたえる",
+  "meanings": [
+   "to answer",
+   "to reply"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:こちら:こちら",
+  "expression": "こちら",
+  "reading": "こちら",
+  "meanings": [
+   "this person (polite)",
+   "this way (polite)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.11",
+   "Genki_Ln.19"
+  ]
+ },
+ {
+  "id": "vocab:こっち:こっち",
+  "expression": "こっち",
+  "reading": "こっち",
+  "meanings": [
+   "this person",
+   "this direction",
+   "this side"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:コップ:コップ",
+  "expression": "コップ",
+  "reading": "コップ",
+  "meanings": [
+   "a tumbler",
+   "a glass"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.14"
+  ]
+ },
+ {
+  "id": "vocab:今年:ことし",
+  "expression": "今年",
+  "reading": "ことし",
+  "meanings": [
+   "this year"
+  ],
+  "kanjiUsed": [
+   "今",
+   "年"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.10"
+  ]
+ },
+ {
+  "id": "vocab:言葉:ことば",
+  "expression": "言葉",
+  "reading": "ことば",
+  "meanings": [
+   "language",
+   "word(s)",
+   "expression(s)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.13",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:子供:こども",
+  "expression": "子供",
+  "reading": "こども",
+  "meanings": [
+   "child(ren)"
+  ],
+  "kanjiUsed": [
+   "子"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.4",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:この:この",
+  "expression": "この",
+  "reading": "この",
+  "meanings": [
+   "this"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:御飯:ごはん",
+  "expression": "御飯",
+  "reading": "ごはん",
+  "meanings": [
+   "rice (cooked)",
+   "meal"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:コピーする:コピーする",
+  "expression": "コピーする",
+  "reading": "コピーする",
+  "meanings": [
+   "to copy"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:困る:こまる",
+  "expression": "困る",
+  "reading": "こまる",
+  "meanings": [
+   "to be bothered",
+   "to have difficulty"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.16"
+  ]
+ },
+ {
+  "id": "vocab:これ:これ",
+  "expression": "これ",
+  "reading": "これ",
+  "meanings": [
+   "this one"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:～ころ; ～ごろ:～ころ; ～ごろ",
+  "expression": "～ころ; ～ごろ",
+  "reading": "～ころ; ～ごろ",
+  "meanings": [
+   "about",
+   "toward",
+   "approximately (time)"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:今月:こんげつ",
+  "expression": "今月",
+  "reading": "こんげつ",
+  "meanings": [
+   "this month"
+  ],
+  "kanjiUsed": [
+   "今",
+   "月"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.8"
+  ]
+ },
+ {
+  "id": "vocab:今週:こんしゅう",
+  "expression": "今週",
+  "reading": "こんしゅう",
+  "meanings": [
+   "this week"
+  ],
+  "kanjiUsed": [
+   "今"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.6"
+  ]
+ },
+ {
+  "id": "vocab:こんな:こんな",
+  "expression": "こんな",
+  "reading": "こんな",
+  "meanings": [
+   "such",
+   "like this"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:今晩:こんばん",
+  "expression": "今晩",
+  "reading": "こんばん",
+  "meanings": [
+   "tonight",
+   "this evening"
+  ],
+  "kanjiUsed": [
+   "今"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.3",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:さあ:さあ",
+  "expression": "さあ",
+  "reading": "さあ",
+  "meanings": [
+   "come now",
+   "well"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:～歳:～さい",
+  "expression": "～歳",
+  "reading": "～さい",
+  "meanings": [
+   "~ years old"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:財布:さいふ",
+  "expression": "財布",
+  "reading": "さいふ",
+  "meanings": [
+   "wallet"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.2",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:魚:さかな",
+  "expression": "魚",
+  "reading": "さかな",
+  "meanings": [
+   "fish"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:先:さき",
+  "expression": "先",
+  "reading": "さき",
+  "meanings": [
+   "future",
+   "recent",
+   "previous"
+  ],
+  "kanjiUsed": [
+   "先"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:咲く:さく",
+  "expression": "咲く",
+  "reading": "さく",
+  "meanings": [
+   "to bloom"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.18"
+  ]
+ },
+ {
+  "id": "vocab:作文:さくぶん",
+  "expression": "作文",
+  "reading": "さくぶん",
+  "meanings": [
+   "essay",
+   "composition"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.9"
+  ]
+ },
+ {
+  "id": "vocab:差す:さす",
+  "expression": "差す",
+  "reading": "さす",
+  "meanings": [
+   "to raise (stretch out) hands",
+   "to raise (e.g.",
+   "umbrella)"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:～冊:～さつ",
+  "expression": "～冊",
+  "reading": "～さつ",
+  "meanings": [
+   "counter for books"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:雑誌:ざっし",
+  "expression": "雑誌",
+  "reading": "ざっし",
+  "meanings": [
+   "magazine",
+   "journal"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.3",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.8"
+  ]
+ },
+ {
+  "id": "vocab:砂糖:さとう",
+  "expression": "砂糖",
+  "reading": "さとう",
+  "meanings": [
+   "sugar"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.16"
+  ]
+ },
+ {
+  "id": "vocab:寒い:さむい",
+  "expression": "寒い",
+  "reading": "さむい",
+  "meanings": [
+   "cold (in reference to weather)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.5",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:さ来年:さらいねん",
+  "expression": "さ来年",
+  "reading": "さらいねん",
+  "meanings": [
+   "year after next"
+  ],
+  "kanjiUsed": [
+   "来",
+   "年"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:～さん:～さん",
+  "expression": "～さん",
+  "reading": "～さん",
+  "meanings": [
+   "Mr. ~",
+   "Ms. ~"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:三:さん",
+  "expression": "三",
+  "reading": "さん",
+  "meanings": [
+   "three"
+  ],
+  "kanjiUsed": [
+   "三"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:散歩:さんぽ (する)",
+  "expression": "散歩",
+  "reading": "さんぽ (する)",
+  "meanings": [
+   "walk",
+   "stroll"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:四:し",
+  "expression": "四",
+  "reading": "し",
+  "meanings": [
+   "four"
+  ],
+  "kanjiUsed": [
+   "四"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:～時:～じ",
+  "expression": "～時",
+  "reading": "～じ",
+  "meanings": [
+   "~ o'clock (time)"
+  ],
+  "kanjiUsed": [
+   "時"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:塩:しお",
+  "expression": "塩",
+  "reading": "しお",
+  "meanings": [
+   "salt"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:しかし:しかし",
+  "expression": "しかし",
+  "reading": "しかし",
+  "meanings": [
+   "however",
+   "but"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:時間:じかん",
+  "expression": "時間",
+  "reading": "じかん",
+  "meanings": [
+   "time"
+  ],
+  "kanjiUsed": [
+   "時",
+   "間"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.14"
+  ]
+ },
+ {
+  "id": "vocab:～時間:～じかん",
+  "expression": "～時間",
+  "reading": "～じかん",
+  "meanings": [
+   "~ hours"
+  ],
+  "kanjiUsed": [
+   "時",
+   "間"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:仕事:しごと",
+  "expression": "仕事",
+  "reading": "しごと",
+  "meanings": [
+   "work",
+   "job",
+   "occupation",
+   "employment"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.1",
+   "Genki_Ln.8"
+  ]
+ },
+ {
+  "id": "vocab:辞書:じしょ",
+  "expression": "辞書",
+  "reading": "じしょ",
+  "meanings": [
+   "dictionary"
+  ],
+  "kanjiUsed": [
+   "書"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:静か:しずか",
+  "expression": "静か",
+  "reading": "しずか",
+  "meanings": [
+   "quiet",
+   "calm"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:下:した",
+  "expression": "下",
+  "reading": "した",
+  "meanings": [
+   "under",
+   "below",
+   "beneath"
+  ],
+  "kanjiUsed": [
+   "下"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:七:しち",
+  "expression": "七",
+  "reading": "しち",
+  "meanings": [
+   "seven"
+  ],
+  "kanjiUsed": [
+   "七"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:質問:しつもん",
+  "expression": "質問",
+  "reading": "しつもん",
+  "meanings": [
+   "question",
+   "inquiry"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:自転車:じてんしゃ",
+  "expression": "自転車",
+  "reading": "じてんしゃ",
+  "meanings": [
+   "bicycle"
+  ],
+  "kanjiUsed": [
+   "車"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:自動車:じどうしゃ",
+  "expression": "自動車",
+  "reading": "じどうしゃ",
+  "meanings": [
+   "automobile"
+  ],
+  "kanjiUsed": [
+   "車"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:死ぬ:しぬ",
+  "expression": "死ぬ",
+  "reading": "しぬ",
+  "meanings": [
+   "to die"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.6"
+  ]
+ },
+ {
+  "id": "vocab:字引:じびき",
+  "expression": "字引",
+  "reading": "じびき",
+  "meanings": [
+   "dictionary"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:自分:じぶん",
+  "expression": "自分",
+  "reading": "じぶん",
+  "meanings": [
+   "myself",
+   "oneself"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.17",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:閉まる:しまる",
+  "expression": "閉まる",
+  "reading": "しまる",
+  "meanings": [
+   "to close",
+   "to be closed"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:閉める:しめる",
+  "expression": "閉める",
+  "reading": "しめる",
+  "meanings": [
+   "to close",
+   "to shut"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:締める:しめる",
+  "expression": "締める",
+  "reading": "しめる",
+  "meanings": [
+   "to tie",
+   "to fasten",
+   "to tighten"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:じゃ; じゃあ:じゃ; じゃあ",
+  "expression": "じゃ; じゃあ",
+  "reading": "じゃ; じゃあ",
+  "meanings": [
+   "well",
+   "well then"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:写真:しゃしん",
+  "expression": "写真",
+  "reading": "しゃしん",
+  "meanings": [
+   "a picture",
+   "a photograph"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.4",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:シャツ:シャツ",
+  "expression": "シャツ",
+  "reading": "シャツ",
+  "meanings": [
+   "shirt"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.10"
+  ]
+ },
+ {
+  "id": "vocab:シャワー:シャワー",
+  "expression": "シャワー",
+  "reading": "シャワー",
+  "meanings": [
+   "shower"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:十:じゅう",
+  "expression": "十",
+  "reading": "じゅう",
+  "meanings": [
+   "ten"
+  ],
+  "kanjiUsed": [
+   "十"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:～中:～じゅう",
+  "expression": "～中",
+  "reading": "～じゅう",
+  "meanings": [
+   "during",
+   "while"
+  ],
+  "kanjiUsed": [
+   "中"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:～週間:～しゅうかん",
+  "expression": "～週間",
+  "reading": "～しゅうかん",
+  "meanings": [
+   "~ weeks"
+  ],
+  "kanjiUsed": [
+   "間"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:授業:じゅぎょう",
+  "expression": "授業",
+  "reading": "じゅぎょう",
+  "meanings": [
+   "a class (of school)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.11",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:宿題:しゅくだい",
+  "expression": "宿題",
+  "reading": "しゅくだい",
+  "meanings": [
+   "homework"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.5",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:上手:じょうず",
+  "expression": "上手",
+  "reading": "じょうず",
+  "meanings": [
+   "be good at",
+   "skillful"
+  ],
+  "kanjiUsed": [
+   "上"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:丈夫:じょうぶ",
+  "expression": "丈夫",
+  "reading": "じょうぶ",
+  "meanings": [
+   "strong",
+   "solid",
+   "durable"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:醤油:しょうゆ",
+  "expression": "醤油",
+  "reading": "しょうゆ",
+  "meanings": [
+   "soy sauce"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.18"
+  ]
+ },
+ {
+  "id": "vocab:食堂:しょくどう",
+  "expression": "食堂",
+  "reading": "しょくどう",
+  "meanings": [
+   "cafeteria",
+   "dining hall"
+  ],
+  "kanjiUsed": [
+   "食"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.7"
+  ]
+ },
+ {
+  "id": "vocab:知る:しる",
+  "expression": "知る",
+  "reading": "しる",
+  "meanings": [
+   "to know",
+   "to understand"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.7"
+  ]
+ },
+ {
+  "id": "vocab:白:しろ",
+  "expression": "白",
+  "reading": "しろ",
+  "meanings": [
+   "white"
+  ],
+  "kanjiUsed": [
+   "白"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:白い:しろい",
+  "expression": "白い",
+  "reading": "しろい",
+  "meanings": [
+   "white"
+  ],
+  "kanjiUsed": [
+   "白"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.9"
+  ]
+ },
+ {
+  "id": "vocab:～人:～じん",
+  "expression": "～人",
+  "reading": "～じん",
+  "meanings": [
+   "counter for people"
+  ],
+  "kanjiUsed": [
+   "人"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:新聞:しんぶん",
+  "expression": "新聞",
+  "reading": "しんぶん",
+  "meanings": [
+   "newspaper"
+  ],
+  "kanjiUsed": [
+   "聞"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:水曜日:すいようび",
+  "expression": "水曜日",
+  "reading": "すいようび",
+  "meanings": [
+   "Wednesday"
+  ],
+  "kanjiUsed": [
+   "水",
+   "日"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:吸う:すう",
+  "expression": "吸う",
+  "reading": "すう",
+  "meanings": [
+   "to breathe in",
+   "to suck"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:スカート:スカート",
+  "expression": "スカート",
+  "reading": "スカート",
+  "meanings": [
+   "skirt"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.18"
+  ]
+ },
+ {
+  "id": "vocab:好き:すき",
+  "expression": "好き",
+  "reading": "すき",
+  "meanings": [
+   "liking",
+   "fondness",
+   "love"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:～すぎ:～すぎ",
+  "expression": "～すぎ",
+  "reading": "～すぎ",
+  "meanings": [
+   "past",
+   "to exceed",
+   "~ too much"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:少ない:すくない",
+  "expression": "少ない",
+  "reading": "すくない",
+  "meanings": [
+   "a little",
+   "a few"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.17"
+  ]
+ },
+ {
+  "id": "vocab:すぐに:すぐに",
+  "expression": "すぐに",
+  "reading": "すぐに",
+  "meanings": [
+   "immediately",
+   "soon"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:少し:すこし",
+  "expression": "少し",
+  "reading": "すこし",
+  "meanings": [
+   "little",
+   "few"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.21"
+  ]
+ },
+ {
+  "id": "vocab:涼しい:すずしい",
+  "expression": "涼しい",
+  "reading": "すずしい",
+  "meanings": [
+   "cool",
+   "refreshing (in reference to weather)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.10"
+  ]
+ },
+ {
+  "id": "vocab:～ずつ:～ずつ",
+  "expression": "～ずつ",
+  "reading": "～ずつ",
+  "meanings": [
+   "at a time"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:ストーブ:ストーブ",
+  "expression": "ストーブ",
+  "reading": "ストーブ",
+  "meanings": [
+   "heater (lit: stove)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.17"
+  ]
+ },
+ {
+  "id": "vocab:スプーン:スプーン",
+  "expression": "スプーン",
+  "reading": "スプーン",
+  "meanings": [
+   "spoon"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:スポーツ:スポーツ",
+  "expression": "スポーツ",
+  "reading": "スポーツ",
+  "meanings": [
+   "sport(s)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:ズボン:ズボン",
+  "expression": "ズボン",
+  "reading": "ズボン",
+  "meanings": [
+   "trousers"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:住む:すむ",
+  "expression": "住む",
+  "reading": "すむ",
+  "meanings": [
+   "to reside",
+   "to live in"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:する:する",
+  "expression": "する",
+  "reading": "する",
+  "meanings": [
+   "to do",
+   "to try",
+   "to wear small items (e.g.",
+   "necktie",
+   "watch",
+   "etc.)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.17"
+  ]
+ },
+ {
+  "id": "vocab:座る:すわる",
+  "expression": "座る",
+  "reading": "すわる",
+  "meanings": [
+   "to sit"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:背:せい",
+  "expression": "背",
+  "reading": "せい",
+  "meanings": [
+   "(one's) height",
+   "stature"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:生徒:せいと",
+  "expression": "生徒",
+  "reading": "せいと",
+  "meanings": [
+   "student",
+   "pupil"
+  ],
+  "kanjiUsed": [
+   "生"
+  ],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.5"
+  ]
+ },
+ {
+  "id": "vocab:セーター:セーター",
+  "expression": "セーター",
+  "reading": "セーター",
+  "meanings": [
+   "sweater"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.13"
+  ]
+ },
+ {
+  "id": "vocab:石鹸:せっけん",
+  "expression": "石鹸",
+  "reading": "せっけん",
+  "meanings": [
+   "soap"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:背広:せびろ",
+  "expression": "背広",
+  "reading": "せびろ",
+  "meanings": [
+   "men's suit"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.9"
+  ]
+ },
+ {
+  "id": "vocab:狭い:せまい",
+  "expression": "狭い",
+  "reading": "せまい",
+  "meanings": [
+   "narrow",
+   "not spacious"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.12",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.15"
+  ]
+ },
+ {
+  "id": "vocab:ゼロ:ゼロ",
+  "expression": "ゼロ",
+  "reading": "ゼロ",
+  "meanings": [
+   "zero"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:千:せん",
+  "expression": "千",
+  "reading": "せん",
+  "meanings": [
+   "thousand"
+  ],
+  "kanjiUsed": [
+   "千"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:先月:せんげつ",
+  "expression": "先月",
+  "reading": "せんげつ",
+  "meanings": [
+   "last month"
+  ],
+  "kanjiUsed": [
+   "先",
+   "月"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.9",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:先週:せんしゅう",
+  "expression": "先週",
+  "reading": "せんしゅう",
+  "meanings": [
+   "last week"
+  ],
+  "kanjiUsed": [
+   "先"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:先生:せんせい",
+  "expression": "先生",
+  "reading": "せんせい",
+  "meanings": [
+   "teacher",
+   "professor",
+   "master",
+   "doctor"
+  ],
+  "kanjiUsed": [
+   "先",
+   "生"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:洗濯:せんたく",
+  "expression": "洗濯",
+  "reading": "せんたく",
+  "meanings": [
+   "washing",
+   "laundry"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.11"
+  ]
+ },
+ {
+  "id": "vocab:全部:ぜんぶ",
+  "expression": "全部",
+  "reading": "ぜんぶ",
+  "meanings": [
+   "all",
+   "entire",
+   "whole"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.13",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:そう; そうです:そう; そうです",
+  "expression": "そう; そうです",
+  "reading": "そう; そうです",
+  "meanings": [
+   "yes",
+   "appears",
+   "to be the case"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:掃除:そうじ (する)",
+  "expression": "掃除",
+  "reading": "そうじ (する)",
+  "meanings": [
+   "cleaning",
+   "sweeping"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:そうして; そして:そうして; そして",
+  "expression": "そうして; そして",
+  "reading": "そうして; そして",
+  "meanings": [
+   "and",
+   "like that"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:そこ:そこ",
+  "expression": "そこ",
+  "reading": "そこ",
+  "meanings": [
+   "that place",
+   "there",
+   "bottom",
+   "sole"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:そちら:そちら",
+  "expression": "そちら",
+  "reading": "そちら",
+  "meanings": [
+   "over there"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:そっち:そっち",
+  "expression": "そっち",
+  "reading": "そっち",
+  "meanings": [
+   "over there"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:外:そと",
+  "expression": "外",
+  "reading": "そと",
+  "meanings": [
+   "outside",
+   "exterior"
+  ],
+  "kanjiUsed": [
+   "外"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.18",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:その:その",
+  "expression": "その",
+  "reading": "その",
+  "meanings": [
+   "that"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:そば:そば",
+  "expression": "そば",
+  "reading": "そば",
+  "meanings": [
+   "near",
+   "close",
+   "beside",
+   "Japanese traditional buckwheat noodle"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.15"
+  ]
+ },
+ {
+  "id": "vocab:空:そら",
+  "expression": "空",
+  "reading": "そら",
+  "meanings": [
+   "sky"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:それ:それ",
+  "expression": "それ",
+  "reading": "それ",
+  "meanings": [
+   "that one"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:それから:それから",
+  "expression": "それから",
+  "reading": "それから",
+  "meanings": [
+   "and then",
+   "after that"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:それでは:それでは",
+  "expression": "それでは",
+  "reading": "それでは",
+  "meanings": [
+   "in that situation",
+   "well then..."
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:～台:～だい",
+  "expression": "～台",
+  "reading": "～だい",
+  "meanings": [
+   "counter for vehicles",
+   "machines"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:大学:だいがく",
+  "expression": "大学",
+  "reading": "だいがく",
+  "meanings": [
+   "college",
+   "university"
+  ],
+  "kanjiUsed": [
+   "大",
+   "学"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:大使館:たいしかん",
+  "expression": "大使館",
+  "reading": "たいしかん",
+  "meanings": [
+   "embassy"
+  ],
+  "kanjiUsed": [
+   "大"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:大丈夫:だいじょうぶ",
+  "expression": "大丈夫",
+  "reading": "だいじょうぶ",
+  "meanings": [
+   "It's ok (all right)",
+   "No need to worry",
+   "Everything is under control"
+  ],
+  "kanjiUsed": [
+   "大"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.5",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:大好き:だいすき",
+  "expression": "大好き",
+  "reading": "だいすき",
+  "meanings": [
+   "very like-able",
+   "like very much"
+  ],
+  "kanjiUsed": [
+   "大"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:大切:たいせつ",
+  "expression": "大切",
+  "reading": "たいせつ",
+  "meanings": [
+   "important"
+  ],
+  "kanjiUsed": [
+   "大"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:台所:だいどころ",
+  "expression": "台所",
+  "reading": "だいどころ",
+  "meanings": [
+   "kitchen"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:大変:たいへん",
+  "expression": "大変",
+  "reading": "たいへん",
+  "meanings": [
+   "very",
+   "difficult",
+   "hard"
+  ],
+  "kanjiUsed": [
+   "大"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:高い:たかい",
+  "expression": "高い",
+  "reading": "たかい",
+  "meanings": [
+   "tall",
+   "high",
+   "expensive"
+  ],
+  "kanjiUsed": [
+   "高"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:～だけ:～だけ",
+  "expression": "～だけ",
+  "reading": "～だけ",
+  "meanings": [
+   "only ~",
+   "just ~",
+   "as ~"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:沢山:たくさん",
+  "expression": "沢山",
+  "reading": "たくさん",
+  "meanings": [
+   "many",
+   "much"
+  ],
+  "kanjiUsed": [
+   "山"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:タクシー:タクシー",
+  "expression": "タクシー",
+  "reading": "タクシー",
+  "meanings": [
+   "taxi"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:出す:だす",
+  "expression": "出す",
+  "reading": "だす",
+  "meanings": [
+   "to take (something) out",
+   "to hand in (something)"
+  ],
+  "kanjiUsed": [
+   "出"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.16"
+  ]
+ },
+ {
+  "id": "vocab:～たち:～たち",
+  "expression": "～たち",
+  "reading": "～たち",
+  "meanings": [
+   "plural suffix"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:立つ:たつ",
+  "expression": "立つ",
+  "reading": "たつ",
+  "meanings": [
+   "to stand up"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.6"
+  ]
+ },
+ {
+  "id": "vocab:たて:たて",
+  "expression": "たて",
+  "reading": "たて",
+  "meanings": [
+   "length",
+   "height"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:建物:たてもの",
+  "expression": "建物",
+  "reading": "たてもの",
+  "meanings": [
+   "building"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.5"
+  ]
+ },
+ {
+  "id": "vocab:楽しい:たのしい",
+  "expression": "楽しい",
+  "reading": "たのしい",
+  "meanings": [
+   "enjoyable",
+   "fun"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.5"
+  ]
+ },
+ {
+  "id": "vocab:頼む:たのむ",
+  "expression": "頼む",
+  "reading": "たのむ",
+  "meanings": [
+   "to request",
+   "to ask (a favor)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.18",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:たばこ:たばこ",
+  "expression": "たばこ",
+  "reading": "たばこ",
+  "meanings": [
+   "tobacco",
+   "cigarettes"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:多分:たぶん",
+  "expression": "多分",
+  "reading": "たぶん",
+  "meanings": [
+   "perhaps",
+   "probably",
+   "maybe"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.12",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:食べ物:たべもの",
+  "expression": "食べ物",
+  "reading": "たべもの",
+  "meanings": [
+   "food"
+  ],
+  "kanjiUsed": [
+   "食"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.5"
+  ]
+ },
+ {
+  "id": "vocab:食べる:たべる",
+  "expression": "食べる",
+  "reading": "たべる",
+  "meanings": [
+   "to eat"
+  ],
+  "kanjiUsed": [
+   "食"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:卵:たまご",
+  "expression": "卵",
+  "reading": "たまご",
+  "meanings": [
+   "egg"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.6"
+  ]
+ },
+ {
+  "id": "vocab:誰:だれ",
+  "expression": "誰",
+  "reading": "だれ",
+  "meanings": [
+   "who"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:誰か:だれか",
+  "expression": "誰か",
+  "reading": "だれか",
+  "meanings": [
+   "someone"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:誕生日:たんじょうび",
+  "expression": "誕生日",
+  "reading": "たんじょうび",
+  "meanings": [
+   "birthday"
+  ],
+  "kanjiUsed": [
+   "生",
+   "日"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.5"
+  ]
+ },
+ {
+  "id": "vocab:段々:だんだん",
+  "expression": "段々",
+  "reading": "だんだん",
+  "meanings": [
+   "gradually",
+   "by degrees"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:小さい:ちいさい",
+  "expression": "小さい",
+  "reading": "ちいさい",
+  "meanings": [
+   "small",
+   "little"
+  ],
+  "kanjiUsed": [
+   "小"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.5"
+  ]
+ },
+ {
+  "id": "vocab:小さな:ちいさな",
+  "expression": "小さな",
+  "reading": "ちいさな",
+  "meanings": [
+   "small",
+   "little"
+  ],
+  "kanjiUsed": [
+   "小"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:近い:ちかい",
+  "expression": "近い",
+  "reading": "ちかい",
+  "meanings": [
+   "near",
+   "close by",
+   "short"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.13"
+  ]
+ },
+ {
+  "id": "vocab:違う:ちがう",
+  "expression": "違う",
+  "reading": "ちがう",
+  "meanings": [
+   "to be different",
+   "to differ",
+   "wrong"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.23",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:近く:ちかく",
+  "expression": "近く",
+  "reading": "ちかく",
+  "meanings": [
+   "nearby",
+   "in the neighborhood"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:地下鉄:ちかてつ",
+  "expression": "地下鉄",
+  "reading": "ちかてつ",
+  "meanings": [
+   "underground train",
+   "subway"
+  ],
+  "kanjiUsed": [
+   "下"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.10"
+  ]
+ },
+ {
+  "id": "vocab:地図:ちず",
+  "expression": "地図",
+  "reading": "ちず",
+  "meanings": [
+   "a map"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.15",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.12"
+  ]
+ },
+ {
+  "id": "vocab:父:ちち",
+  "expression": "父",
+  "reading": "ちち",
+  "meanings": [
+   "(my) father"
+  ],
+  "kanjiUsed": [
+   "父"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.7"
+  ]
+ },
+ {
+  "id": "vocab:茶色:ちゃいろ",
+  "expression": "茶色",
+  "reading": "ちゃいろ",
+  "meanings": [
+   "brown"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:茶碗:ちゃわん",
+  "expression": "茶碗",
+  "reading": "ちゃわん",
+  "meanings": [
+   "rice bowl"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:～中:～ちゅう",
+  "expression": "～中",
+  "reading": "～ちゅう",
+  "meanings": [
+   "during",
+   "while ~ing"
+  ],
+  "kanjiUsed": [
+   "中"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:丁度:ちょうど",
+  "expression": "丁度",
+  "reading": "ちょうど",
+  "meanings": [
+   "just",
+   "right",
+   "exactly"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:ちょっと:ちょっと",
+  "expression": "ちょっと",
+  "reading": "ちょっと",
+  "meanings": [
+   "a little",
+   "somewhat",
+   "just a little",
+   "somewhat"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:一日:ついたち",
+  "expression": "一日",
+  "reading": "ついたち",
+  "meanings": [
+   "one day",
+   "first day of the month"
+  ],
+  "kanjiUsed": [
+   "一",
+   "日"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:使う:つかう",
+  "expression": "使う",
+  "reading": "つかう",
+  "meanings": [
+   "to use"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:疲れる:つかれる",
+  "expression": "疲れる",
+  "reading": "つかれる",
+  "meanings": [
+   "to get (become) tired",
+   "to become fatigued"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.11",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.10"
+  ]
+ },
+ {
+  "id": "vocab:次:つぎ",
+  "expression": "次",
+  "reading": "つぎ",
+  "meanings": [
+   "next"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.6"
+  ]
+ },
+ {
+  "id": "vocab:着く:つく",
+  "expression": "着く",
+  "reading": "つく",
+  "meanings": [
+   "to arrive at",
+   "to reach"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:机:つくえ",
+  "expression": "机",
+  "reading": "つくえ",
+  "meanings": [
+   "desk"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.4",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.10"
+  ]
+ },
+ {
+  "id": "vocab:作る:つくる",
+  "expression": "作る",
+  "reading": "つくる",
+  "meanings": [
+   "to make",
+   "to create"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.8"
+  ]
+ },
+ {
+  "id": "vocab:つける:つける",
+  "expression": "つける",
+  "reading": "つける",
+  "meanings": [
+   "to turn on (e.g.",
+   "a light)",
+   "to take"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:勤める:つとめる",
+  "expression": "勤める",
+  "reading": "つとめる",
+  "meanings": [
+   "to work (for)"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:つまらない:つまらない",
+  "expression": "つまらない",
+  "reading": "つまらない",
+  "meanings": [
+   "boring",
+   "dull",
+   "insignificant"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.5"
+  ]
+ },
+ {
+  "id": "vocab:冷たい:つめたい",
+  "expression": "冷たい",
+  "reading": "つめたい",
+  "meanings": [
+   "cold (things",
+   "people)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.10"
+  ]
+ },
+ {
+  "id": "vocab:強い:つよい",
+  "expression": "強い",
+  "reading": "つよい",
+  "meanings": [
+   "strong",
+   "powerful"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.17",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.13"
+  ]
+ },
+ {
+  "id": "vocab:手:て",
+  "expression": "手",
+  "reading": "て",
+  "meanings": [
+   "hand"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:テープ:テープ",
+  "expression": "テープ",
+  "reading": "テープ",
+  "meanings": [
+   "tape"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:テープレコーダー:テープレコーダー",
+  "expression": "テープレコーダー",
+  "reading": "テープレコーダー",
+  "meanings": [
+   "tape recorder"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:テーブル:テーブル",
+  "expression": "テーブル",
+  "reading": "テーブル",
+  "meanings": [
+   "table"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:出かける:でかける",
+  "expression": "出かける",
+  "reading": "でかける",
+  "meanings": [
+   "to go out",
+   "to depart"
+  ],
+  "kanjiUsed": [
+   "出"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.5"
+  ]
+ },
+ {
+  "id": "vocab:手紙:てがみ",
+  "expression": "手紙",
+  "reading": "てがみ",
+  "meanings": [
+   "letter"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:できる:できる",
+  "expression": "できる",
+  "reading": "できる",
+  "meanings": [
+   "to be able to (to accomplish)"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:出口:でぐち",
+  "expression": "出口",
+  "reading": "でぐち",
+  "meanings": [
+   "an exit"
+  ],
+  "kanjiUsed": [
+   "出"
+  ],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.7"
+  ]
+ },
+ {
+  "id": "vocab:テスト:テスト",
+  "expression": "テスト",
+  "reading": "テスト",
+  "meanings": [
+   "test"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.5"
+  ]
+ },
+ {
+  "id": "vocab:では:では",
+  "expression": "では",
+  "reading": "では",
+  "meanings": [
+   "then",
+   "well",
+   "so"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:デパート:デパート",
+  "expression": "デパート",
+  "reading": "デパート",
+  "meanings": [
+   "(abbr.) department store"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:でも:でも",
+  "expression": "でも",
+  "reading": "でも",
+  "meanings": [
+   "but",
+   "however"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:出る:でる",
+  "expression": "出る",
+  "reading": "でる",
+  "meanings": [
+   "to appear",
+   "to leave"
+  ],
+  "kanjiUsed": [
+   "出"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:テレビ:テレビ",
+  "expression": "テレビ",
+  "reading": "テレビ",
+  "meanings": [
+   "television",
+   "TV"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:天気:てんき",
+  "expression": "天気",
+  "reading": "てんき",
+  "meanings": [
+   "weather"
+  ],
+  "kanjiUsed": [
+   "天",
+   "気"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.5"
+  ]
+ },
+ {
+  "id": "vocab:電気:でんき",
+  "expression": "電気",
+  "reading": "でんき",
+  "meanings": [
+   "electricity",
+   "(electric) light"
+  ],
+  "kanjiUsed": [
+   "電",
+   "気"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.6"
+  ]
+ },
+ {
+  "id": "vocab:電車:でんしゃ",
+  "expression": "電車",
+  "reading": "でんしゃ",
+  "meanings": [
+   "electric train"
+  ],
+  "kanjiUsed": [
+   "電",
+   "車"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.6"
+  ]
+ },
+ {
+  "id": "vocab:電話:でんわ",
+  "expression": "電話",
+  "reading": "でんわ",
+  "meanings": [
+   "a telephone"
+  ],
+  "kanjiUsed": [
+   "電",
+   "話"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:戸:と",
+  "expression": "戸",
+  "reading": "と",
+  "meanings": [
+   "door (Japanese style)"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:～度:～ど",
+  "expression": "～度",
+  "reading": "～ど",
+  "meanings": [
+   "counter for occurrences",
+   "~ degree",
+   "~ point"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:ドア:ドア",
+  "expression": "ドア",
+  "reading": "ドア",
+  "meanings": [
+   "door (Western style)"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:トイレ:トイレ",
+  "expression": "トイレ",
+  "reading": "トイレ",
+  "meanings": [
+   "bathroom",
+   "toilet"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.10"
+  ]
+ },
+ {
+  "id": "vocab:どう:どう",
+  "expression": "どう",
+  "reading": "どう",
+  "meanings": [
+   "how",
+   "in what way"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:どうして:どうして",
+  "expression": "どうして",
+  "reading": "どうして",
+  "meanings": [
+   "why",
+   "for what reason"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:どうぞ:どうぞ",
+  "expression": "どうぞ",
+  "reading": "どうぞ",
+  "meanings": [
+   "please",
+   "kindly",
+   "by all means"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:動物:どうぶつ",
+  "expression": "動物",
+  "reading": "どうぶつ",
+  "meanings": [
+   "animal"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.10"
+  ]
+ },
+ {
+  "id": "vocab:どうも:どうも",
+  "expression": "どうも",
+  "reading": "どうも",
+  "meanings": [
+   "Thank you",
+   "somehow",
+   "no matter how hard one may try"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.2",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:十:(〜を) とお",
+  "expression": "十",
+  "reading": "(〜を) とお",
+  "meanings": [
+   "ten (~)"
+  ],
+  "kanjiUsed": [
+   "十"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.9"
+  ]
+ },
+ {
+  "id": "vocab:遠い:とおい",
+  "expression": "遠い",
+  "reading": "とおい",
+  "meanings": [
+   "far (away)",
+   "distant"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.21"
+  ]
+ },
+ {
+  "id": "vocab:十日:とおか",
+  "expression": "十日",
+  "reading": "とおか",
+  "meanings": [
+   "ten days",
+   "tenth day of the month"
+  ],
+  "kanjiUsed": [
+   "十",
+   "日"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.13"
+  ]
+ },
+ {
+  "id": "vocab:～時:～とき",
+  "expression": "～時",
+  "reading": "～とき",
+  "meanings": [
+   "at the time of ~"
+  ],
+  "kanjiUsed": [
+   "時"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:時々:ときどき",
+  "expression": "時々",
+  "reading": "ときどき",
+  "meanings": [
+   "sometimes"
+  ],
+  "kanjiUsed": [
+   "時"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:時計:とけい",
+  "expression": "時計",
+  "reading": "とけい",
+  "meanings": [
+   "a watch",
+   "a clock"
+  ],
+  "kanjiUsed": [
+   "時"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.2",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:どこ:どこ",
+  "expression": "どこ",
+  "reading": "どこ",
+  "meanings": [
+   "where",
+   "what place"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:所:ところ",
+  "expression": "所",
+  "reading": "ところ",
+  "meanings": [
+   "place"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.8",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:年:とし",
+  "expression": "年",
+  "reading": "とし",
+  "meanings": [
+   "year",
+   "age"
+  ],
+  "kanjiUsed": [
+   "年"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:図書館:としょかん",
+  "expression": "図書館",
+  "reading": "としょかん",
+  "meanings": [
+   "library"
+  ],
+  "kanjiUsed": [
+   "書"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.2",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.5"
+  ]
+ },
+ {
+  "id": "vocab:どちら:どちら",
+  "expression": "どちら",
+  "reading": "どちら",
+  "meanings": [
+   "which (one) (way)",
+   "where (polite)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.10",
+   "Genki_Ln.19"
+  ]
+ },
+ {
+  "id": "vocab:どっち:どっち",
+  "expression": "どっち",
+  "reading": "どっち",
+  "meanings": [
+   "which one",
+   "which way"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.10"
+  ]
+ },
+ {
+  "id": "vocab:とても:とても",
+  "expression": "とても",
+  "reading": "とても",
+  "meanings": [
+   "very (much)",
+   "greatly",
+   "exceedingly"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.5",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:どなた:どなた",
+  "expression": "どなた",
+  "reading": "どなた",
+  "meanings": [
+   "who"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:隣:となり",
+  "expression": "隣",
+  "reading": "となり",
+  "meanings": [
+   "next to",
+   "next door to"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:どの:どの",
+  "expression": "どの",
+  "reading": "どの",
+  "meanings": [
+   "which"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:飛ぶ:とぶ",
+  "expression": "飛ぶ",
+  "reading": "とぶ",
+  "meanings": [
+   "to fly",
+   "to hop"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:止まる:とまる",
+  "expression": "止まる",
+  "reading": "とまる",
+  "meanings": [
+   "to come to a halt"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:友達:ともだち",
+  "expression": "友達",
+  "reading": "ともだち",
+  "meanings": [
+   "friend"
+  ],
+  "kanjiUsed": [
+   "友"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.1",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:土曜日:どようび",
+  "expression": "土曜日",
+  "reading": "どようび",
+  "meanings": [
+   "Saturday"
+  ],
+  "kanjiUsed": [
+   "土",
+   "日"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:鳥:とり",
+  "expression": "鳥",
+  "reading": "とり",
+  "meanings": [
+   "chicken (lit.",
+   "bird)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.6"
+  ]
+ },
+ {
+  "id": "vocab:鶏肉:とりにく",
+  "expression": "鶏肉",
+  "reading": "とりにく",
+  "meanings": [
+   "chicken meat"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:取る:とる",
+  "expression": "取る",
+  "reading": "とる",
+  "meanings": [
+   "to take (a class)",
+   "to get (a grade)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.11",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:撮る:とる",
+  "expression": "撮る",
+  "reading": "とる",
+  "meanings": [
+   "to take (a photo)",
+   "to make (a film)"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:どれ:どれ",
+  "expression": "どれ",
+  "reading": "どれ",
+  "meanings": [
+   "which one"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:どんな:どんな",
+  "expression": "どんな",
+  "reading": "どんな",
+  "meanings": [
+   "what",
+   "what kind of"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:ない:ない",
+  "expression": "ない",
+  "reading": "ない",
+  "meanings": [
+   "there isn't",
+   "doesn't have"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:ナイフ:ナイフ",
+  "expression": "ナイフ",
+  "reading": "ナイフ",
+  "meanings": [
+   "knife"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:中:なか",
+  "expression": "中",
+  "reading": "なか",
+  "meanings": [
+   "inside",
+   "middle",
+   "among"
+  ],
+  "kanjiUsed": [
+   "中"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:長い:ながい",
+  "expression": "長い",
+  "reading": "ながい",
+  "meanings": [
+   "long",
+   "lengthy"
+  ],
+  "kanjiUsed": [
+   "長"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.7",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:鳴く:なく",
+  "expression": "鳴く",
+  "reading": "なく",
+  "meanings": [
+   "to make sound (animal)"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:無くす:なくす",
+  "expression": "無くす",
+  "reading": "なくす",
+  "meanings": [
+   "to lose something"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:なぜ:なぜ",
+  "expression": "なぜ",
+  "reading": "なぜ",
+  "meanings": [
+   "why (same as どうして)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.19"
+  ]
+ },
+ {
+  "id": "vocab:夏:なつ",
+  "expression": "夏",
+  "reading": "なつ",
+  "meanings": [
+   "summer"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.8",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:夏休み:なつやすみ",
+  "expression": "夏休み",
+  "reading": "なつやすみ",
+  "meanings": [
+   "summer vacation"
+  ],
+  "kanjiUsed": [
+   "休"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:～など:～など",
+  "expression": "～など",
+  "reading": "～など",
+  "meanings": [
+   "et cetera"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:七つ:ななつ",
+  "expression": "七つ",
+  "reading": "ななつ",
+  "meanings": [
+   "seven things"
+  ],
+  "kanjiUsed": [
+   "七"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.9"
+  ]
+ },
+ {
+  "id": "vocab:何:なん; なに",
+  "expression": "何",
+  "reading": "なん; なに",
+  "meanings": [
+   "what"
+  ],
+  "kanjiUsed": [
+   "何"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:七日:なのか",
+  "expression": "七日",
+  "reading": "なのか",
+  "meanings": [
+   "seven days",
+   "seventh day (of the month)"
+  ],
+  "kanjiUsed": [
+   "七",
+   "日"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.13"
+  ]
+ },
+ {
+  "id": "vocab:名前:なまえ",
+  "expression": "名前",
+  "reading": "なまえ",
+  "meanings": [
+   "name"
+  ],
+  "kanjiUsed": [
+   "名",
+   "前"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:習う:ならう",
+  "expression": "習う",
+  "reading": "ならう",
+  "meanings": [
+   "to learn"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.11"
+  ]
+ },
+ {
+  "id": "vocab:並ぶ:ならぶ",
+  "expression": "並ぶ",
+  "reading": "ならぶ",
+  "meanings": [
+   "to line up",
+   "to stand in a line (v.i.)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.7"
+  ]
+ },
+ {
+  "id": "vocab:並べる:ならべる",
+  "expression": "並べる",
+  "reading": "ならべる",
+  "meanings": [
+   "to put (things) side by side",
+   "to line up"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.15"
+  ]
+ },
+ {
+  "id": "vocab:なる:なる",
+  "expression": "なる",
+  "reading": "なる",
+  "meanings": [
+   "to become"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.10"
+  ]
+ },
+ {
+  "id": "vocab:何～:なん～",
+  "expression": "何～",
+  "reading": "なん～",
+  "meanings": [
+   "what sort of ~"
+  ],
+  "kanjiUsed": [
+   "何"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:二:に",
+  "expression": "二",
+  "reading": "に",
+  "meanings": [
+   "two"
+  ],
+  "kanjiUsed": [
+   "二"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:にぎやか:にぎやか",
+  "expression": "にぎやか",
+  "reading": "にぎやか",
+  "meanings": [
+   "bustling",
+   "busy"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:肉:にく",
+  "expression": "肉",
+  "reading": "にく",
+  "meanings": [
+   "meat"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:西:にし",
+  "expression": "西",
+  "reading": "にし",
+  "meanings": [
+   "west"
+  ],
+  "kanjiUsed": [
+   "西"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:～日:～にち",
+  "expression": "～日",
+  "reading": "～にち",
+  "meanings": [
+   "~ day of the month",
+   "for ~ days"
+  ],
+  "kanjiUsed": [
+   "日"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:日曜日:にちようび",
+  "expression": "日曜日",
+  "reading": "にちようび",
+  "meanings": [
+   "Sunday"
+  ],
+  "kanjiUsed": [
+   "日",
+   "日"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:荷物:にもつ",
+  "expression": "荷物",
+  "reading": "にもつ",
+  "meanings": [
+   "luggage",
+   "baggage"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.6",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.6"
+  ]
+ },
+ {
+  "id": "vocab:ニュース:ニュース",
+  "expression": "ニュース",
+  "reading": "ニュース",
+  "meanings": [
+   "news"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.17"
+  ]
+ },
+ {
+  "id": "vocab:庭:にわ",
+  "expression": "庭",
+  "reading": "にわ",
+  "meanings": [
+   "garden"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.15"
+  ]
+ },
+ {
+  "id": "vocab:～人:～にん",
+  "expression": "～人",
+  "reading": "～にん",
+  "meanings": [
+   "counter for people"
+  ],
+  "kanjiUsed": [
+   "人"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:脱ぐ:ぬぐ",
+  "expression": "脱ぐ",
+  "reading": "ぬぐ",
+  "meanings": [
+   "to take off (clothes)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.17"
+  ]
+ },
+ {
+  "id": "vocab:温い:ぬるい",
+  "expression": "温い",
+  "reading": "ぬるい",
+  "meanings": [
+   "lukewarm"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:ネクタイ:ネクタイ",
+  "expression": "ネクタイ",
+  "reading": "ネクタイ",
+  "meanings": [
+   "tie",
+   "necktie"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.14"
+  ]
+ },
+ {
+  "id": "vocab:猫:ねこ",
+  "expression": "猫",
+  "reading": "ねこ",
+  "meanings": [
+   "cat"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:寝る:ねる",
+  "expression": "寝る",
+  "reading": "ねる",
+  "meanings": [
+   "to sleep",
+   "to go to sleep",
+   "to go to bed"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.3",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:～年:～ねん",
+  "expression": "～年",
+  "reading": "～ねん",
+  "meanings": [
+   "~ years"
+  ],
+  "kanjiUsed": [
+   "年"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:ノート:ノート",
+  "expression": "ノート",
+  "reading": "ノート",
+  "meanings": [
+   "notebook"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:登る:のぼる",
+  "expression": "登る",
+  "reading": "のぼる",
+  "meanings": [
+   "to climb"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:飲み物:のみもの",
+  "expression": "飲み物",
+  "reading": "のみもの",
+  "meanings": [
+   "drink",
+   "beverage"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.5"
+  ]
+ },
+ {
+  "id": "vocab:飲む:のむ",
+  "expression": "飲む",
+  "reading": "のむ",
+  "meanings": [
+   "to drink"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:乗る:のる",
+  "expression": "乗る",
+  "reading": "のる",
+  "meanings": [
+   "to get on",
+   "to ride in",
+   "to board"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:歯:は",
+  "expression": "歯",
+  "reading": "は",
+  "meanings": [
+   "tooth"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.12",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.12"
+  ]
+ },
+ {
+  "id": "vocab:パーティー:パーティー",
+  "expression": "パーティー",
+  "reading": "パーティー",
+  "meanings": [
+   "a party"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.8"
+  ]
+ },
+ {
+  "id": "vocab:はい:はい",
+  "expression": "はい",
+  "reading": "はい",
+  "meanings": [
+   "yes"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:～杯:～はい",
+  "expression": "～杯",
+  "reading": "～はい",
+  "meanings": [
+   "counter for cupfuls"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:灰皿:はいざら",
+  "expression": "灰皿",
+  "reading": "はいざら",
+  "meanings": [
+   "ashtray"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:入る:はいる",
+  "expression": "入る",
+  "reading": "はいる",
+  "meanings": [
+   "to enter",
+   "to contain",
+   "to hold"
+  ],
+  "kanjiUsed": [
+   "入"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:葉書:はがき",
+  "expression": "葉書",
+  "reading": "はがき",
+  "meanings": [
+   "postcard"
+  ],
+  "kanjiUsed": [
+   "書"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.5"
+  ]
+ },
+ {
+  "id": "vocab:はく:はく",
+  "expression": "はく",
+  "reading": "はく",
+  "meanings": [
+   "to put on (items below your waist)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.7"
+  ]
+ },
+ {
+  "id": "vocab:箱:はこ",
+  "expression": "箱",
+  "reading": "はこ",
+  "meanings": [
+   "box"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:橋:はし",
+  "expression": "橋",
+  "reading": "はし",
+  "meanings": [
+   "bridge"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:箸:はし",
+  "expression": "箸",
+  "reading": "はし",
+  "meanings": [
+   "chopsticks"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.8"
+  ]
+ },
+ {
+  "id": "vocab:始まる:はじまる",
+  "expression": "始まる",
+  "reading": "はじまる",
+  "meanings": [
+   "(something) begins"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.9"
+  ]
+ },
+ {
+  "id": "vocab:初め; 始め:はじめ",
+  "expression": "初め; 始め",
+  "reading": "はじめ",
+  "meanings": [
+   "beginning",
+   "start"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:初めて:はじめて",
+  "expression": "初めて",
+  "reading": "はじめて",
+  "meanings": [
+   "for the first time"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.12",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:走る:はしる",
+  "expression": "走る",
+  "reading": "はしる",
+  "meanings": [
+   "to run"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.22",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.10"
+  ]
+ },
+ {
+  "id": "vocab:バス:バス",
+  "expression": "バス",
+  "reading": "バス",
+  "meanings": [
+   "bus",
+   "bath",
+   "bass"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.5",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.10"
+  ]
+ },
+ {
+  "id": "vocab:バター:バター",
+  "expression": "バター",
+  "reading": "バター",
+  "meanings": [
+   "butter"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:二十歳:はたち",
+  "expression": "二十歳",
+  "reading": "はたち",
+  "meanings": [
+   "20 years old"
+  ],
+  "kanjiUsed": [
+   "二",
+   "十"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:働く:はたらく",
+  "expression": "働く",
+  "reading": "はたらく",
+  "meanings": [
+   "to work"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.11",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.9"
+  ]
+ },
+ {
+  "id": "vocab:八:はち",
+  "expression": "八",
+  "reading": "はち",
+  "meanings": [
+   "eight"
+  ],
+  "kanjiUsed": [
+   "八"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:二十日:はつか",
+  "expression": "二十日",
+  "reading": "はつか",
+  "meanings": [
+   "twenty days",
+   "twentieth (day of the month)"
+  ],
+  "kanjiUsed": [
+   "二",
+   "十",
+   "日"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:花:はな",
+  "expression": "花",
+  "reading": "はな",
+  "meanings": [
+   "flower"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:鼻:はな",
+  "expression": "鼻",
+  "reading": "はな",
+  "meanings": [
+   "nose"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:話:はなし",
+  "expression": "話",
+  "reading": "はなし",
+  "meanings": [
+   "talk (chat)",
+   "story"
+  ],
+  "kanjiUsed": [
+   "話"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.19"
+  ]
+ },
+ {
+  "id": "vocab:話す:はなす",
+  "expression": "話す",
+  "reading": "はなす",
+  "meanings": [
+   "to speak"
+  ],
+  "kanjiUsed": [
+   "話"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:母:はは",
+  "expression": "母",
+  "reading": "はは",
+  "meanings": [
+   "(my) mother"
+  ],
+  "kanjiUsed": [
+   "母"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.14"
+  ]
+ },
+ {
+  "id": "vocab:早い:はやい",
+  "expression": "早い",
+  "reading": "はやい",
+  "meanings": [
+   "early"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:速い:はやい",
+  "expression": "速い",
+  "reading": "はやい",
+  "meanings": [
+   "fast",
+   "quick"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.7",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:春:はる",
+  "expression": "春",
+  "reading": "はる",
+  "meanings": [
+   "spring"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.10",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:貼る:はる",
+  "expression": "貼る",
+  "reading": "はる",
+  "meanings": [
+   "to post",
+   "to paste",
+   "to attach"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.21",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:晴れ:はれ",
+  "expression": "晴れ",
+  "reading": "はれ",
+  "meanings": [
+   "clear (sunny) weather"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.12"
+  ]
+ },
+ {
+  "id": "vocab:晴れる:はれる",
+  "expression": "晴れる",
+  "reading": "はれる",
+  "meanings": [
+   "to be sunny"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.19"
+  ]
+ },
+ {
+  "id": "vocab:半:はん",
+  "expression": "半",
+  "reading": "はん",
+  "meanings": [
+   "half (e.g.",
+   "にじはん | half-past two)"
+  ],
+  "kanjiUsed": [
+   "半"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:晩:ばん",
+  "expression": "晩",
+  "reading": "ばん",
+  "meanings": [
+   "evening"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:～番:～ばん",
+  "expression": "～番",
+  "reading": "～ばん",
+  "meanings": [
+   "~st",
+   "~th best"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:パン:パン",
+  "expression": "パン",
+  "reading": "パン",
+  "meanings": [
+   "bread"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:ハンカチ:ハンカチ",
+  "expression": "ハンカチ",
+  "reading": "ハンカチ",
+  "meanings": [
+   "handkerchief"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:番号:ばんごう",
+  "expression": "番号",
+  "reading": "ばんごう",
+  "meanings": [
+   "number",
+   "series of digits"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:晩御飯:ばんごはん",
+  "expression": "晩御飯",
+  "reading": "ばんごはん",
+  "meanings": [
+   "dinner",
+   "evening meal"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:半分:はんぶん",
+  "expression": "半分",
+  "reading": "はんぶん",
+  "meanings": [
+   "half"
+  ],
+  "kanjiUsed": [
+   "半"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:東:ひがし",
+  "expression": "東",
+  "reading": "ひがし",
+  "meanings": [
+   "east"
+  ],
+  "kanjiUsed": [
+   "東"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:～匹:～ひき",
+  "expression": "～匹",
+  "reading": "～ひき",
+  "meanings": [
+   "counter for small animals"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:引く:ひく",
+  "expression": "引く",
+  "reading": "ひく",
+  "meanings": [
+   "to pull",
+   "to draw",
+   "subtract"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:弾く:ひく",
+  "expression": "弾く",
+  "reading": "ひく",
+  "meanings": [
+   "to play (a string instrument or piano)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.9"
+  ]
+ },
+ {
+  "id": "vocab:低い:ひくい",
+  "expression": "低い",
+  "reading": "ひくい",
+  "meanings": [
+   "short",
+   "low"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:飛行機:ひこうき",
+  "expression": "飛行機",
+  "reading": "ひこうき",
+  "meanings": [
+   "airplane"
+  ],
+  "kanjiUsed": [
+   "行"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.5",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:左:ひだり",
+  "expression": "左",
+  "reading": "ひだり",
+  "meanings": [
+   "left hand side"
+  ],
+  "kanjiUsed": [
+   "左"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:人:ひと",
+  "expression": "人",
+  "reading": "ひと",
+  "meanings": [
+   "man",
+   "person"
+  ],
+  "kanjiUsed": [
+   "人"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:一つ:ひとつ",
+  "expression": "一つ",
+  "reading": "ひとつ",
+  "meanings": [
+   "one thing"
+  ],
+  "kanjiUsed": [
+   "一"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.9"
+  ]
+ },
+ {
+  "id": "vocab:一月:ひとつき",
+  "expression": "一月",
+  "reading": "ひとつき",
+  "meanings": [
+   "one month"
+  ],
+  "kanjiUsed": [
+   "一",
+   "月"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:一人:ひとり",
+  "expression": "一人",
+  "reading": "ひとり",
+  "meanings": [
+   "one person"
+  ],
+  "kanjiUsed": [
+   "一",
+   "人"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.7"
+  ]
+ },
+ {
+  "id": "vocab:暇:ひま",
+  "expression": "暇",
+  "reading": "ひま",
+  "meanings": [
+   "free time",
+   "leisure"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:百:ひゃく",
+  "expression": "百",
+  "reading": "ひゃく",
+  "meanings": [
+   "hundred"
+  ],
+  "kanjiUsed": [
+   "百"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:病院:びょういん",
+  "expression": "病院",
+  "reading": "びょういん",
+  "meanings": [
+   "hospital"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:病気:びょうき",
+  "expression": "病気",
+  "reading": "びょうき",
+  "meanings": [
+   "illness",
+   "sickness"
+  ],
+  "kanjiUsed": [
+   "気"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.9",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:平仮名:ひらがな",
+  "expression": "平仮名",
+  "reading": "ひらがな",
+  "meanings": [
+   "hiragana"
+  ],
+  "kanjiUsed": [
+   "名"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:昼:ひる",
+  "expression": "昼",
+  "reading": "ひる",
+  "meanings": [
+   "noon",
+   "daytime"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:昼御飯:ひるごはん",
+  "expression": "昼御飯",
+  "reading": "ひるごはん",
+  "meanings": [
+   "lunch",
+   "midday meal"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:広い:ひろい",
+  "expression": "広い",
+  "reading": "ひろい",
+  "meanings": [
+   "spacious",
+   "wide",
+   "broad"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.15",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.15"
+  ]
+ },
+ {
+  "id": "vocab:フィルム:フィルム",
+  "expression": "フィルム",
+  "reading": "フィルム",
+  "meanings": [
+   "film (roll of)"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:封筒:ふうとう",
+  "expression": "封筒",
+  "reading": "ふうとう",
+  "meanings": [
+   "envelope"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:プール:プール",
+  "expression": "プール",
+  "reading": "プール",
+  "meanings": [
+   "swimming pool"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.15"
+  ]
+ },
+ {
+  "id": "vocab:フォーク:フォーク",
+  "expression": "フォーク",
+  "reading": "フォーク",
+  "meanings": [
+   "fork"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:吹く:ふく",
+  "expression": "吹く",
+  "reading": "ふく",
+  "meanings": [
+   "to blow (wind",
+   "etc.)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.22"
+  ]
+ },
+ {
+  "id": "vocab:服:ふく",
+  "expression": "服",
+  "reading": "ふく",
+  "meanings": [
+   "clothes"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.12"
+  ]
+ },
+ {
+  "id": "vocab:二つ:ふたつ",
+  "expression": "二つ",
+  "reading": "ふたつ",
+  "meanings": [
+   "two things"
+  ],
+  "kanjiUsed": [
+   "二"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.9"
+  ]
+ },
+ {
+  "id": "vocab:豚肉:ぶたにく",
+  "expression": "豚肉",
+  "reading": "ぶたにく",
+  "meanings": [
+   "pork"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:二人:ふたり",
+  "expression": "二人",
+  "reading": "ふたり",
+  "meanings": [
+   "two people"
+  ],
+  "kanjiUsed": [
+   "二",
+   "人"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.7"
+  ]
+ },
+ {
+  "id": "vocab:二日:ふつか",
+  "expression": "二日",
+  "reading": "ふつか",
+  "meanings": [
+   "two days",
+   "second day of the month"
+  ],
+  "kanjiUsed": [
+   "二",
+   "日"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.13"
+  ]
+ },
+ {
+  "id": "vocab:太い:ふとい",
+  "expression": "太い",
+  "reading": "ふとい",
+  "meanings": [
+   "fat",
+   "thick"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:冬:ふゆ",
+  "expression": "冬",
+  "reading": "ふゆ",
+  "meanings": [
+   "winter"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.8",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:降る:ふる",
+  "expression": "降る",
+  "reading": "ふる",
+  "meanings": [
+   "to precipitate",
+   "to fall (e.g.",
+   "rain",
+   "snow",
+   "etc.)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:古い:ふるい",
+  "expression": "古い",
+  "reading": "ふるい",
+  "meanings": [
+   "old (in reference to objects",
+   "not people)",
+   "aged",
+   "ancient"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.5"
+  ]
+ },
+ {
+  "id": "vocab:～分:～ふん",
+  "expression": "～分",
+  "reading": "～ふん",
+  "meanings": [
+   "~ minutes"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:文章:ぶんしょう",
+  "expression": "文章",
+  "reading": "ぶんしょう",
+  "meanings": [
+   "sentence",
+   "text"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:ページ:ページ",
+  "expression": "ページ",
+  "reading": "ページ",
+  "meanings": [
+   "a page"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.6"
+  ]
+ },
+ {
+  "id": "vocab:下手:へた",
+  "expression": "下手",
+  "reading": "へた",
+  "meanings": [
+   "unskillful",
+   "poor"
+  ],
+  "kanjiUsed": [
+   "下"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:ベッド:ベッド",
+  "expression": "ベッド",
+  "reading": "ベッド",
+  "meanings": [
+   "bed"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:ペット:ペット",
+  "expression": "ペット",
+  "reading": "ペット",
+  "meanings": [
+   "pet"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.15"
+  ]
+ },
+ {
+  "id": "vocab:部屋:へや",
+  "expression": "部屋",
+  "reading": "へや",
+  "meanings": [
+   "a room"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.5",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:辺:へん",
+  "expression": "辺",
+  "reading": "へん",
+  "meanings": [
+   "area",
+   "vicinity"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:ペン:ペン",
+  "expression": "ペン",
+  "reading": "ペン",
+  "meanings": [
+   "pen"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:勉強:べんきょう (する)",
+  "expression": "勉強",
+  "reading": "べんきょう (する)",
+  "meanings": [
+   "study"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:便利:べんり",
+  "expression": "便利",
+  "reading": "べんり",
+  "meanings": [
+   "convenient",
+   "handy"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:帽子:ぼうし",
+  "expression": "帽子",
+  "reading": "ぼうし",
+  "meanings": [
+   "hat",
+   "cap"
+  ],
+  "kanjiUsed": [
+   "子"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:ボールペン:ボールペン",
+  "expression": "ボールペン",
+  "reading": "ボールペン",
+  "meanings": [
+   "ball-point pen"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:外:ほか",
+  "expression": "外",
+  "reading": "ほか",
+  "meanings": [
+   "other",
+   "the rest"
+  ],
+  "kanjiUsed": [
+   "外"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:ポケット:ポケット",
+  "expression": "ポケット",
+  "reading": "ポケット",
+  "meanings": [
+   "pocket"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:欲しい:ほしい",
+  "expression": "欲しい",
+  "reading": "ほしい",
+  "meanings": [
+   "to want",
+   "in need of"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:ポスト:ポスト",
+  "expression": "ポスト",
+  "reading": "ポスト",
+  "meanings": [
+   "mailbox",
+   "post",
+   "position"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:細い:ほそい",
+  "expression": "細い",
+  "reading": "ほそい",
+  "meanings": [
+   "thin",
+   "slender",
+   "fine"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:ボタン:ボタン",
+  "expression": "ボタン",
+  "reading": "ボタン",
+  "meanings": [
+   "button"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:ホテル:ホテル",
+  "expression": "ホテル",
+  "reading": "ホテル",
+  "meanings": [
+   "hotel"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:本:ほん",
+  "expression": "本",
+  "reading": "ほん",
+  "meanings": [
+   "book"
+  ],
+  "kanjiUsed": [
+   "本"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:～本:～ほん",
+  "expression": "～本",
+  "reading": "～ほん",
+  "meanings": [
+   "counter for long cylindrical things"
+  ],
+  "kanjiUsed": [
+   "本"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:本棚:ほんだな",
+  "expression": "本棚",
+  "reading": "ほんだな",
+  "meanings": [
+   "bookshelf"
+  ],
+  "kanjiUsed": [
+   "本"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:本当:ほんとう",
+  "expression": "本当",
+  "reading": "ほんとう",
+  "meanings": [
+   "real",
+   "true"
+  ],
+  "kanjiUsed": [
+   "本"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:～枚:～まい",
+  "expression": "～枚",
+  "reading": "～まい",
+  "meanings": [
+   "counter for flat things"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:毎朝:まいあさ",
+  "expression": "毎朝",
+  "reading": "まいあさ",
+  "meanings": [
+   "every morning"
+  ],
+  "kanjiUsed": [
+   "毎"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.19"
+  ]
+ },
+ {
+  "id": "vocab:毎月:まいげつ; まいつき",
+  "expression": "毎月",
+  "reading": "まいげつ; まいつき",
+  "meanings": [
+   "every month",
+   "monthly"
+  ],
+  "kanjiUsed": [
+   "毎",
+   "月"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:毎週:まいしゅう",
+  "expression": "毎週",
+  "reading": "まいしゅう",
+  "meanings": [
+   "every week"
+  ],
+  "kanjiUsed": [
+   "毎"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.8"
+  ]
+ },
+ {
+  "id": "vocab:毎日:まいにち",
+  "expression": "毎日",
+  "reading": "まいにち",
+  "meanings": [
+   "every day"
+  ],
+  "kanjiUsed": [
+   "毎",
+   "日"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:毎年:まいねん; まいとし",
+  "expression": "毎年",
+  "reading": "まいねん; まいとし",
+  "meanings": [
+   "every year",
+   "yearly",
+   "annually"
+  ],
+  "kanjiUsed": [
+   "毎",
+   "年"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:毎晩:まいばん",
+  "expression": "毎晩",
+  "reading": "まいばん",
+  "meanings": [
+   "every night"
+  ],
+  "kanjiUsed": [
+   "毎"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:前:まえ",
+  "expression": "前",
+  "reading": "まえ",
+  "meanings": [
+   "before",
+   "in front"
+  ],
+  "kanjiUsed": [
+   "前"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.17"
+  ]
+ },
+ {
+  "id": "vocab:～前:～まえ",
+  "expression": "～前",
+  "reading": "～まえ",
+  "meanings": [
+   "in front of ~"
+  ],
+  "kanjiUsed": [
+   "前"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:曲る:まがる",
+  "expression": "曲る",
+  "reading": "まがる",
+  "meanings": [
+   "to turn",
+   "to bend"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:まずい:まずい",
+  "expression": "まずい",
+  "reading": "まずい",
+  "meanings": [
+   "terrible (in reference to food)",
+   "unappetizing",
+   "unpleasant (taste)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.23"
+  ]
+ },
+ {
+  "id": "vocab:また:また",
+  "expression": "また",
+  "reading": "また",
+  "meanings": [
+   "and",
+   "furthermore"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.20",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.5"
+  ]
+ },
+ {
+  "id": "vocab:まだ:まだ",
+  "expression": "まだ",
+  "reading": "まだ",
+  "meanings": [
+   "yet",
+   "still",
+   "besides"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.19"
+  ]
+ },
+ {
+  "id": "vocab:町:まち",
+  "expression": "町",
+  "reading": "まち",
+  "meanings": [
+   "town",
+   "city"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.4",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:待つ:まつ",
+  "expression": "待つ",
+  "reading": "まつ",
+  "meanings": [
+   "to wait"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:まっすぐ:まっすぐ",
+  "expression": "まっすぐ",
+  "reading": "まっすぐ",
+  "meanings": [
+   "straight (ahead)",
+   "direct"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:マッチ:マッチ",
+  "expression": "マッチ",
+  "reading": "マッチ",
+  "meanings": [
+   "match"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:窓:まど",
+  "expression": "窓",
+  "reading": "まど",
+  "meanings": [
+   "window"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.6"
+  ]
+ },
+ {
+  "id": "vocab:丸い; 円い:まるい",
+  "expression": "丸い; 円い",
+  "reading": "まるい",
+  "meanings": [
+   "round",
+   "circular"
+  ],
+  "kanjiUsed": [
+   "円"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:万:まん",
+  "expression": "万",
+  "reading": "まん",
+  "meanings": [
+   "ten thousand"
+  ],
+  "kanjiUsed": [
+   "万"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:万年筆:まんねんひつ",
+  "expression": "万年筆",
+  "reading": "まんねんひつ",
+  "meanings": [
+   "fountain pen"
+  ],
+  "kanjiUsed": [
+   "万",
+   "年"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:磨く:みがく",
+  "expression": "磨く",
+  "reading": "みがく",
+  "meanings": [
+   "to brush (teeth)",
+   "to polish"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.13"
+  ]
+ },
+ {
+  "id": "vocab:右:みぎ",
+  "expression": "右",
+  "reading": "みぎ",
+  "meanings": [
+   "right hand side"
+  ],
+  "kanjiUsed": [
+   "右"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:短い:みじかい",
+  "expression": "短い",
+  "reading": "みじかい",
+  "meanings": [
+   "short (length)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.7",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.11"
+  ]
+ },
+ {
+  "id": "vocab:水:みず",
+  "expression": "水",
+  "reading": "みず",
+  "meanings": [
+   "water"
+  ],
+  "kanjiUsed": [
+   "水"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:店:みせ",
+  "expression": "店",
+  "reading": "みせ",
+  "meanings": [
+   "store",
+   "shop"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.13",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.6"
+  ]
+ },
+ {
+  "id": "vocab:見せる:みせる",
+  "expression": "見せる",
+  "reading": "みせる",
+  "meanings": [
+   "to show",
+   "to display"
+  ],
+  "kanjiUsed": [
+   "見"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.16"
+  ]
+ },
+ {
+  "id": "vocab:道:みち",
+  "expression": "道",
+  "reading": "みち",
+  "meanings": [
+   "road",
+   "street",
+   "way",
+   "directions"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.16"
+  ]
+ },
+ {
+  "id": "vocab:三日:みっか",
+  "expression": "三日",
+  "reading": "みっか",
+  "meanings": [
+   "three days",
+   "third day of the month"
+  ],
+  "kanjiUsed": [
+   "三",
+   "日"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.13"
+  ]
+ },
+ {
+  "id": "vocab:三つ:みっつ",
+  "expression": "三つ",
+  "reading": "みっつ",
+  "meanings": [
+   "three things"
+  ],
+  "kanjiUsed": [
+   "三"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.9"
+  ]
+ },
+ {
+  "id": "vocab:緑:みどり",
+  "expression": "緑",
+  "reading": "みどり",
+  "meanings": [
+   "green"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:皆さん:みなさん",
+  "expression": "皆さん",
+  "reading": "みなさん",
+  "meanings": [
+   "all of you",
+   "everyone"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:南:みなみ",
+  "expression": "南",
+  "reading": "みなみ",
+  "meanings": [
+   "South"
+  ],
+  "kanjiUsed": [
+   "南"
+  ],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.10"
+  ]
+ },
+ {
+  "id": "vocab:耳:みみ",
+  "expression": "耳",
+  "reading": "みみ",
+  "meanings": [
+   "ear"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.5"
+  ]
+ },
+ {
+  "id": "vocab:見る:みる",
+  "expression": "見る",
+  "reading": "みる",
+  "meanings": [
+   "to see",
+   "to look"
+  ],
+  "kanjiUsed": [
+   "見"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:みんな:みんな",
+  "expression": "みんな",
+  "reading": "みんな",
+  "meanings": [
+   "all",
+   "everyone",
+   "everybody"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.9"
+  ]
+ },
+ {
+  "id": "vocab:六日:むいか",
+  "expression": "六日",
+  "reading": "むいか",
+  "meanings": [
+   "six days",
+   "sixth day of month"
+  ],
+  "kanjiUsed": [
+   "六",
+   "日"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.13"
+  ]
+ },
+ {
+  "id": "vocab:向こう:むこう",
+  "expression": "向こう",
+  "reading": "むこう",
+  "meanings": [
+   "beyond",
+   "over there"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:難しい:むずかしい",
+  "expression": "難しい",
+  "reading": "むずかしい",
+  "meanings": [
+   "difficult"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.5",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:六つ:むっつ",
+  "expression": "六つ",
+  "reading": "むっつ",
+  "meanings": [
+   "six things"
+  ],
+  "kanjiUsed": [
+   "六"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.9"
+  ]
+ },
+ {
+  "id": "vocab:村:むら",
+  "expression": "村",
+  "reading": "むら",
+  "meanings": [
+   "village"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.10"
+  ]
+ },
+ {
+  "id": "vocab:目:め",
+  "expression": "目",
+  "reading": "め",
+  "meanings": [
+   "eye(s)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.7"
+  ]
+ },
+ {
+  "id": "vocab:メートル:メートル",
+  "expression": "メートル",
+  "reading": "メートル",
+  "meanings": [
+   "meter"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:眼鏡:めがね",
+  "expression": "眼鏡",
+  "reading": "めがね",
+  "meanings": [
+   "eye glasses"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.7"
+  ]
+ },
+ {
+  "id": "vocab:もう:もう",
+  "expression": "もう",
+  "reading": "もう",
+  "meanings": [
+   "already",
+   "again",
+   "more"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.9"
+  ]
+ },
+ {
+  "id": "vocab:木曜日:もくようび",
+  "expression": "木曜日",
+  "reading": "もくようび",
+  "meanings": [
+   "Thursday"
+  ],
+  "kanjiUsed": [
+   "木",
+   "日"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:もしもし:もしもし",
+  "expression": "もしもし",
+  "reading": "もしもし",
+  "meanings": [
+   "Hello? (used on the phone)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:持つ:もつ",
+  "expression": "持つ",
+  "reading": "もつ",
+  "meanings": [
+   "to hold",
+   "to carry",
+   "to possess"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:もっと:もっと",
+  "expression": "もっと",
+  "reading": "もっと",
+  "meanings": [
+   "more"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.11"
+  ]
+ },
+ {
+  "id": "vocab:物:もの",
+  "expression": "物",
+  "reading": "もの",
+  "meanings": [
+   "thing (concrete object)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.12"
+  ]
+ },
+ {
+  "id": "vocab:門:もん",
+  "expression": "門",
+  "reading": "もん",
+  "meanings": [
+   "gate"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:問題:もんだい",
+  "expression": "問題",
+  "reading": "もんだい",
+  "meanings": [
+   "a problem"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.11"
+  ]
+ },
+ {
+  "id": "vocab:～屋:～や",
+  "expression": "～屋",
+  "reading": "～や",
+  "meanings": [
+   "~ shop"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:八百屋:やおや",
+  "expression": "八百屋",
+  "reading": "やおや",
+  "meanings": [
+   "greengrocer"
+  ],
+  "kanjiUsed": [
+   "八",
+   "百"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:野菜:やさい",
+  "expression": "野菜",
+  "reading": "やさい",
+  "meanings": [
+   "vegetable"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:易しい:やさしい",
+  "expression": "易しい",
+  "reading": "やさしい",
+  "meanings": [
+   "easy",
+   "plain",
+   "simple"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:安い:やすい",
+  "expression": "安い",
+  "reading": "やすい",
+  "meanings": [
+   "inexpensive",
+   "cheap (things)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.5"
+  ]
+ },
+ {
+  "id": "vocab:休み:やすみ",
+  "expression": "休み",
+  "reading": "やすみ",
+  "meanings": [
+   "holiday",
+   "day off",
+   "absence"
+  ],
+  "kanjiUsed": [
+   "休"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.5"
+  ]
+ },
+ {
+  "id": "vocab:休む:やすむ",
+  "expression": "休む",
+  "reading": "やすむ",
+  "meanings": [
+   "to rest",
+   "to have a break",
+   "to get time off"
+  ],
+  "kanjiUsed": [
+   "休"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:八つ:やっつ",
+  "expression": "八つ",
+  "reading": "やっつ",
+  "meanings": [
+   "eight things"
+  ],
+  "kanjiUsed": [
+   "八"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.9"
+  ]
+ },
+ {
+  "id": "vocab:山:やま",
+  "expression": "山",
+  "reading": "やま",
+  "meanings": [
+   "mountain"
+  ],
+  "kanjiUsed": [
+   "山"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.11"
+  ]
+ },
+ {
+  "id": "vocab:やる:やる",
+  "expression": "やる",
+  "reading": "やる",
+  "meanings": [
+   "to do",
+   "to give (to pets",
+   "parents",
+   "siblings",
+   "etc.)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.21"
+  ]
+ },
+ {
+  "id": "vocab:夕方:ゆうがた",
+  "expression": "夕方",
+  "reading": "ゆうがた",
+  "meanings": [
+   "late afternoon (typically just before dinner time)",
+   "evening"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.18",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.10"
+  ]
+ },
+ {
+  "id": "vocab:夕飯:ゆうはん",
+  "expression": "夕飯",
+  "reading": "ゆうはん",
+  "meanings": [
+   "dinner",
+   "supper",
+   "evening meal"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:郵便局:ゆうびんきょく",
+  "expression": "郵便局",
+  "reading": "ゆうびんきょく",
+  "meanings": [
+   "post office"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.2"
+  ]
+ },
+ {
+  "id": "vocab:昨夜:ゆうべ",
+  "expression": "昨夜",
+  "reading": "ゆうべ",
+  "meanings": [
+   "last night"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:有名:ゆうめい",
+  "expression": "有名",
+  "reading": "ゆうめい",
+  "meanings": [
+   "famous"
+  ],
+  "kanjiUsed": [
+   "名"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:雪:ゆき",
+  "expression": "雪",
+  "reading": "ゆき",
+  "meanings": [
+   "snow"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.12"
+  ]
+ },
+ {
+  "id": "vocab:ゆっくりと:ゆっくりと",
+  "expression": "ゆっくりと",
+  "reading": "ゆっくりと",
+  "meanings": [
+   "slowly",
+   "at ease"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:八日:ようか",
+  "expression": "八日",
+  "reading": "ようか",
+  "meanings": [
+   "eight days",
+   "eighth day of the month"
+  ],
+  "kanjiUsed": [
+   "八",
+   "日"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.13"
+  ]
+ },
+ {
+  "id": "vocab:洋服:ようふく",
+  "expression": "洋服",
+  "reading": "ようふく",
+  "meanings": [
+   "Western-style clothes"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:よく:よく",
+  "expression": "よく",
+  "reading": "よく",
+  "meanings": [
+   "frequently",
+   "often (much)",
+   "well",
+   "skillfully"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.14",
+   "Genki_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:横:よこ",
+  "expression": "横",
+  "reading": "よこ",
+  "meanings": [
+   "beside",
+   "side",
+   "width"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.11"
+  ]
+ },
+ {
+  "id": "vocab:四日:よっか",
+  "expression": "四日",
+  "reading": "よっか",
+  "meanings": [
+   "four days",
+   "fourth day of the month"
+  ],
+  "kanjiUsed": [
+   "四",
+   "日"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.13"
+  ]
+ },
+ {
+  "id": "vocab:四つ:よっつ",
+  "expression": "四つ",
+  "reading": "よっつ",
+  "meanings": [
+   "four things"
+  ],
+  "kanjiUsed": [
+   "四"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.9"
+  ]
+ },
+ {
+  "id": "vocab:呼ぶ:よぶ",
+  "expression": "呼ぶ",
+  "reading": "よぶ",
+  "meanings": [
+   "to call (one's name)",
+   "to invite"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.19"
+  ]
+ },
+ {
+  "id": "vocab:読む:よむ",
+  "expression": "読む",
+  "reading": "よむ",
+  "meanings": [
+   "to read"
+  ],
+  "kanjiUsed": [
+   "読"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:夜:よる",
+  "expression": "夜",
+  "reading": "よる",
+  "meanings": [
+   "evening",
+   "night"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.6"
+  ]
+ },
+ {
+  "id": "vocab:弱い:よわい",
+  "expression": "弱い",
+  "reading": "よわい",
+  "meanings": [
+   "weak"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:来月:らいげつ",
+  "expression": "来月",
+  "reading": "らいげつ",
+  "meanings": [
+   "next month"
+  ],
+  "kanjiUsed": [
+   "来",
+   "月"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.8"
+  ]
+ },
+ {
+  "id": "vocab:来週:らいしゅう",
+  "expression": "来週",
+  "reading": "らいしゅう",
+  "meanings": [
+   "next week"
+  ],
+  "kanjiUsed": [
+   "来"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.6"
+  ]
+ },
+ {
+  "id": "vocab:来年:らいねん",
+  "expression": "来年",
+  "reading": "らいねん",
+  "meanings": [
+   "next year"
+  ],
+  "kanjiUsed": [
+   "来",
+   "年"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.6"
+  ]
+ },
+ {
+  "id": "vocab:ラジオ:ラジオ",
+  "expression": "ラジオ",
+  "reading": "ラジオ",
+  "meanings": [
+   "radio"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.14"
+  ]
+ },
+ {
+  "id": "vocab:ラジオカセ:ラジオカセ",
+  "expression": "ラジオカセ",
+  "reading": "ラジオカセ",
+  "meanings": [
+   "radio cassette player"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:りっぱ:りっぱ",
+  "expression": "りっぱ",
+  "reading": "りっぱ",
+  "meanings": [
+   "splendid",
+   "fine"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:留学生:りゅうがくせい",
+  "expression": "留学生",
+  "reading": "りゅうがくせい",
+  "meanings": [
+   "international student"
+  ],
+  "kanjiUsed": [
+   "学",
+   "生"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:両親:りょうしん",
+  "expression": "両親",
+  "reading": "りょうしん",
+  "meanings": [
+   "parents (lit.",
+   "both parents)"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.14",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:料理:りょうり",
+  "expression": "料理",
+  "reading": "りょうり",
+  "meanings": [
+   "cooking",
+   "cuisine"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:旅行:りょこう",
+  "expression": "旅行",
+  "reading": "りょこう",
+  "meanings": [
+   "travel",
+   "trip"
+  ],
+  "kanjiUsed": [
+   "行"
+  ],
+  "tags": [
+   "Genki",
+   "Genki_Ln.5"
+  ]
+ },
+ {
+  "id": "vocab:零:れい",
+  "expression": "零",
+  "reading": "れい",
+  "meanings": [
+   "zero",
+   "nought"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:冷蔵庫:れいぞうこ",
+  "expression": "冷蔵庫",
+  "reading": "れいぞうこ",
+  "meanings": [
+   "refrigerator"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.18"
+  ]
+ },
+ {
+  "id": "vocab:レコード:レコード",
+  "expression": "レコード",
+  "reading": "レコード",
+  "meanings": [
+   "record"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:レストラン:レストラン",
+  "expression": "レストラン",
+  "reading": "レストラン",
+  "meanings": [
+   "restaurant"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.4"
+  ]
+ },
+ {
+  "id": "vocab:練習:れんしゅう (する)",
+  "expression": "練習",
+  "reading": "れんしゅう (する)",
+  "meanings": [
+   "(to) practice"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:廊下:ろうか",
+  "expression": "廊下",
+  "reading": "ろうか",
+  "meanings": [
+   "corridor"
+  ],
+  "kanjiUsed": [
+   "下"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:六:ろく",
+  "expression": "六",
+  "reading": "ろく",
+  "meanings": [
+   "six"
+  ],
+  "kanjiUsed": [
+   "六"
+  ],
+  "tags": []
+ },
+ {
+  "id": "vocab:ワイシャツ:ワイシャツ",
+  "expression": "ワイシャツ",
+  "reading": "ワイシャツ",
+  "meanings": [
+   "shirt (lit: white shirt)",
+   "business shirt"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:若い:わかい",
+  "expression": "若い",
+  "reading": "わかい",
+  "meanings": [
+   "young"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.9",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:分かる:わかる",
+  "expression": "分かる",
+  "reading": "わかる",
+  "meanings": [
+   "to understand"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:忘れる:わすれる",
+  "expression": "忘れる",
+  "reading": "わすれる",
+  "meanings": [
+   "to forget"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.3"
+  ]
+ },
+ {
+  "id": "vocab:私:わたし",
+  "expression": "私",
+  "reading": "わたし",
+  "meanings": [
+   "I",
+   "myself"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.1"
+  ]
+ },
+ {
+  "id": "vocab:私:わたくし",
+  "expression": "私",
+  "reading": "わたくし",
+  "meanings": [
+   "I (formal)",
+   "myself",
+   "private affairs"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.13"
+  ]
+ },
+ {
+  "id": "vocab:渡す:わたす",
+  "expression": "渡す",
+  "reading": "わたす",
+  "meanings": [
+   "to hand (something) over (v.t.)",
+   "to get across"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.6"
+  ]
+ },
+ {
+  "id": "vocab:渡る:わたる",
+  "expression": "渡る",
+  "reading": "わたる",
+  "meanings": [
+   "to cross over",
+   "to go across"
+  ],
+  "kanjiUsed": [],
+  "tags": []
+ },
+ {
+  "id": "vocab:悪い:わるい",
+  "expression": "悪い",
+  "reading": "わるい",
+  "meanings": [
+   "bad",
+   "sinful",
+   "inferior"
+  ],
+  "kanjiUsed": [],
+  "tags": [
+   "Genki",
+   "Genki_Ln.12",
+   "Intermediate_Japanese",
+   "Intermediate_Japanese_Ln.3"
+  ]
+ }
+]

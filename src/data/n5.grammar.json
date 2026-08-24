@@ -1,0 +1,1052 @@
+[
+ {
+  "id": "grammar:desu",
+  "title": "〜です",
+  "structure": "Noun / na-adj + です",
+  "meaning": "to be (polite)",
+  "explanation": "The polite copula. Attaches to nouns and na-adjectives to state what something is. Negative: じゃないです / ではありません. Past: でした.",
+  "examples": [
+   {
+    "jp": "わたしは学生です。",
+    "en": "I am a student."
+   },
+   {
+    "jp": "田中さんは先生じゃないです。",
+    "en": "Tanaka-san is not a teacher."
+   }
+  ]
+ },
+ {
+  "id": "grammar:wa",
+  "title": "〜は",
+  "structure": "Noun + は",
+  "meaning": "topic marker",
+  "explanation": "Marks what the sentence is about. Pronounced わ. The rest of the sentence is a comment on the topic.",
+  "examples": [
+   {
+    "jp": "これは本です。",
+    "en": "This is a book."
+   },
+   {
+    "jp": "今日は暑いです。",
+    "en": "As for today, it's hot."
+   }
+  ]
+ },
+ {
+  "id": "grammar:ga",
+  "title": "〜が",
+  "structure": "Noun + が",
+  "meaning": "subject marker",
+  "explanation": "Marks the grammatical subject, meaning who or what does or is something. Used for new information, and with あります/います, 好き, 上手, わかる.",
+  "examples": [
+   {
+    "jp": "雨が降っています。",
+    "en": "It is raining."
+   },
+   {
+    "jp": "日本語がわかります。",
+    "en": "I understand Japanese."
+   }
+  ]
+ },
+ {
+  "id": "grammar:o",
+  "title": "〜を",
+  "structure": "Noun + を + verb",
+  "meaning": "direct object marker",
+  "explanation": "Marks the thing the verb acts on. Also marks the place you move through or leave (公園を歩く, 家を出る).",
+  "examples": [
+   {
+    "jp": "パンを食べます。",
+    "en": "I eat bread."
+   },
+   {
+    "jp": "毎朝コーヒーを飲みます。",
+    "en": "I drink coffee every morning."
+   }
+  ]
+ },
+ {
+  "id": "grammar:ni-time",
+  "title": "〜に（時間）",
+  "structure": "Time + に",
+  "meaning": "at / on / in (a time)",
+  "explanation": "Pins an action to a specific point in time. Used with clock times, days, and months, but not with relative words like 今日 or 明日.",
+  "examples": [
+   {
+    "jp": "七時に起きます。",
+    "en": "I get up at seven."
+   },
+   {
+    "jp": "日曜日に映画を見ます。",
+    "en": "I watch a movie on Sunday."
+   }
+  ]
+ },
+ {
+  "id": "grammar:ni-destination",
+  "title": "〜に（行き先）",
+  "structure": "Place + に + 行く／来る／帰る",
+  "meaning": "to (a destination)",
+  "explanation": "Marks the destination of movement verbs. へ is nearly interchangeable here; に emphasizes the arrival point.",
+  "examples": [
+   {
+    "jp": "学校に行きます。",
+    "en": "I go to school."
+   },
+   {
+    "jp": "何時に家に帰りますか。",
+    "en": "What time do you go home?"
+   }
+  ]
+ },
+ {
+  "id": "grammar:ni-existence",
+  "title": "〜に（存在）",
+  "structure": "Place + に + ある／いる",
+  "meaning": "in / at (existence)",
+  "explanation": "Marks where something or someone exists, with あります (things) and います (people, animals).",
+  "examples": [
+   {
+    "jp": "駅の前に銀行があります。",
+    "en": "There is a bank in front of the station."
+   },
+   {
+    "jp": "部屋に猫がいます。",
+    "en": "There is a cat in the room."
+   }
+  ]
+ },
+ {
+  "id": "grammar:de-location",
+  "title": "〜で（場所）",
+  "structure": "Place + で + action verb",
+  "meaning": "at / in (place of action)",
+  "explanation": "Marks where an action happens. Contrast with に, which marks where something merely exists.",
+  "examples": [
+   {
+    "jp": "図書館で勉強します。",
+    "en": "I study at the library."
+   },
+   {
+    "jp": "レストランで昼ご飯を食べました。",
+    "en": "I ate lunch at a restaurant."
+   }
+  ]
+ },
+ {
+  "id": "grammar:de-means",
+  "title": "〜で（手段）",
+  "structure": "Noun + で",
+  "meaning": "by / with (means, tool)",
+  "explanation": "Marks the tool, method, or material used to do something: transport, language, instrument.",
+  "examples": [
+   {
+    "jp": "電車で会社に行きます。",
+    "en": "I go to work by train."
+   },
+   {
+    "jp": "日本語で話してください。",
+    "en": "Please speak in Japanese."
+   }
+  ]
+ },
+ {
+  "id": "grammar:e",
+  "title": "〜へ",
+  "structure": "Place + へ",
+  "meaning": "toward (direction)",
+  "explanation": "Marks the direction of movement. Pronounced え. Slightly more 'toward' in nuance than に, which stresses the destination itself.",
+  "examples": [
+   {
+    "jp": "来月日本へ行きます。",
+    "en": "I'm going to Japan next month."
+   },
+   {
+    "jp": "どこへ行きますか。",
+    "en": "Where are you going?"
+   }
+  ]
+ },
+ {
+  "id": "grammar:to-and",
+  "title": "〜と（並列）",
+  "structure": "Noun + と + Noun",
+  "meaning": "and (exhaustive list)",
+  "explanation": "Joins nouns in a complete list where you name everything. For open-ended lists use や instead. Also marks 'together with' a person.",
+  "examples": [
+   {
+    "jp": "パンと卵を買いました。",
+    "en": "I bought bread and eggs."
+   },
+   {
+    "jp": "友だちと映画を見ます。",
+    "en": "I watch a movie with a friend."
+   }
+  ]
+ },
+ {
+  "id": "grammar:ya",
+  "title": "〜や",
+  "structure": "Noun + や + Noun",
+  "meaning": "and, among others",
+  "explanation": "Joins nouns in a non-exhaustive list, so there are other items you're not naming. Often paired with など (etcetera).",
+  "examples": [
+   {
+    "jp": "机の上に本やペンがあります。",
+    "en": "There are books, pens, and such on the desk."
+   },
+   {
+    "jp": "休みに京都や大阪に行きました。",
+    "en": "During the holidays I went to Kyoto, Osaka, and other places."
+   }
+  ]
+ },
+ {
+  "id": "grammar:mo",
+  "title": "〜も",
+  "structure": "Noun + も",
+  "meaning": "also, too",
+  "explanation": "Replaces は or が to say 'also'. With numbers it means 'as many as'; with negatives, 'not either / none at all' (何も, だれも).",
+  "examples": [
+   {
+    "jp": "わたしも学生です。",
+    "en": "I am also a student."
+   },
+   {
+    "jp": "何も食べませんでした。",
+    "en": "I didn't eat anything."
+   }
+  ]
+ },
+ {
+  "id": "grammar:no-possessive",
+  "title": "〜の",
+  "structure": "Noun + の + Noun",
+  "meaning": "possessive / noun linker",
+  "explanation": "Links two nouns: possession (わたしの本), description (日本語の先生), or origin (日本の車). Can stand in for a noun already understood: それはわたしのです.",
+  "examples": [
+   {
+    "jp": "これは母の車です。",
+    "en": "This is my mother's car."
+   },
+   {
+    "jp": "日本語の本を読みます。",
+    "en": "I read a Japanese book."
+   }
+  ]
+ },
+ {
+  "id": "grammar:ka-question",
+  "title": "〜か",
+  "structure": "Sentence + か",
+  "meaning": "question marker",
+  "explanation": "Turns a statement into a question. No word-order change is needed. Rising intonation; the ? mark is optional in Japanese.",
+  "examples": [
+   {
+    "jp": "山田さんは学生ですか。",
+    "en": "Is Yamada-san a student?"
+   },
+   {
+    "jp": "これは何ですか。",
+    "en": "What is this?"
+   }
+  ]
+ },
+ {
+  "id": "grammar:ne",
+  "title": "〜ね",
+  "structure": "Sentence + ね",
+  "meaning": "isn't it? (seeking agreement)",
+  "explanation": "Sentence-ending particle that invites the listener's agreement or confirms shared feeling, like English 'right?' or 'isn't it?'.",
+  "examples": [
+   {
+    "jp": "今日は寒いですね。",
+    "en": "It's cold today, isn't it?"
+   },
+   {
+    "jp": "いい天気ですね。",
+    "en": "Nice weather, isn't it?"
+   }
+  ]
+ },
+ {
+  "id": "grammar:yo",
+  "title": "〜よ",
+  "structure": "Sentence + よ",
+  "meaning": "you know (new information)",
+  "explanation": "Sentence-ending particle marking information the speaker thinks the listener doesn't know, so it adds emphasis or assurance.",
+  "examples": [
+   {
+    "jp": "この店は安いですよ。",
+    "en": "This shop is cheap, you know."
+   },
+   {
+    "jp": "電車が来ますよ。",
+    "en": "The train is coming!"
+   }
+  ]
+ },
+ {
+  "id": "grammar:kara-from",
+  "title": "〜から（起点）",
+  "structure": "Noun + から",
+  "meaning": "from (starting point)",
+  "explanation": "Marks the starting point in space or time. Frequently paired with まで (until).",
+  "examples": [
+   {
+    "jp": "九時から働きます。",
+    "en": "I work from nine."
+   },
+   {
+    "jp": "駅から家まで歩きます。",
+    "en": "I walk from the station to my house."
+   }
+  ]
+ },
+ {
+  "id": "grammar:made",
+  "title": "〜まで",
+  "structure": "Noun + まで",
+  "meaning": "until, as far as",
+  "explanation": "Marks the end point in space or time. から〜まで expresses a range.",
+  "examples": [
+   {
+    "jp": "五時まで勉強します。",
+    "en": "I study until five."
+   },
+   {
+    "jp": "会社まで電車で三十分です。",
+    "en": "It's thirty minutes to the office by train."
+   }
+  ]
+ },
+ {
+  "id": "grammar:kara-because",
+  "title": "〜から（理由）",
+  "structure": "Clause + から",
+  "meaning": "because, so",
+  "explanation": "Gives a reason; the reason clause comes first. Polite or plain forms both work before から.",
+  "examples": [
+   {
+    "jp": "時間がないから、タクシーで行きます。",
+    "en": "Because there's no time, I'll go by taxi."
+   },
+   {
+    "jp": "高いですから、買いません。",
+    "en": "It's expensive, so I won't buy it."
+   }
+  ]
+ },
+ {
+  "id": "grammar:i-adjectives",
+  "title": "い形容詞",
+  "structure": "〜い + Noun / 〜くない / 〜かった",
+  "meaning": "i-adjectives",
+  "explanation": "Adjectives ending in い conjugate themselves: negative 〜くない, past 〜かった, past-negative 〜くなかった. いい is irregular (よくない, よかった).",
+  "examples": [
+   {
+    "jp": "この映画は面白かったです。",
+    "en": "This movie was interesting."
+   },
+   {
+    "jp": "今日は寒くないです。",
+    "en": "It's not cold today."
+   }
+  ],
+  "clozeToken": "面白かった"
+ },
+ {
+  "id": "grammar:na-adjectives",
+  "title": "な形容詞",
+  "structure": "〜な + Noun / 〜じゃない / 〜でした",
+  "meaning": "na-adjectives",
+  "explanation": "Na-adjectives take な before a noun (静かな部屋) and conjugate with the copula: じゃない, でした, じゃなかった.",
+  "examples": [
+   {
+    "jp": "ここは静かな町です。",
+    "en": "This is a quiet town."
+   },
+   {
+    "jp": "この問題は簡単じゃないです。",
+    "en": "This problem is not simple."
+   }
+  ],
+  "clozeToken": "静かな"
+ },
+ {
+  "id": "grammar:masu",
+  "title": "〜ます",
+  "structure": "Verb stem + ます",
+  "meaning": "polite present / future",
+  "explanation": "The polite verb ending. Covers both present habit and future: 行きます = I go / I will go. Negative 〜ません, past 〜ました, past-negative 〜ませんでした.",
+  "examples": [
+   {
+    "jp": "毎日日本語を勉強します。",
+    "en": "I study Japanese every day."
+   },
+   {
+    "jp": "昨日は何も買いませんでした。",
+    "en": "I didn't buy anything yesterday."
+   }
+  ]
+ },
+ {
+  "id": "grammar:te-form",
+  "title": "〜て形",
+  "structure": "Verb て-form",
+  "meaning": "te-form (connecting form)",
+  "explanation": "The all-purpose connective form: chains actions (食べて、寝ます), forms requests (〜てください), and the progressive (〜ています). Formation depends on the verb's ending: う・つ・る→って, ぶ・む・ぬ→んで, く→いて, ぐ→いで, す→して.",
+  "examples": [
+   {
+    "jp": "朝起きて、シャワーを浴びます。",
+    "en": "I get up in the morning and take a shower."
+   },
+   {
+    "jp": "本を読んで、寝ました。",
+    "en": "I read a book and went to sleep."
+   }
+  ],
+  "clozeToken": "起きて"
+ },
+ {
+  "id": "grammar:te-kudasai",
+  "title": "〜てください",
+  "structure": "Verb て-form + ください",
+  "meaning": "please do",
+  "explanation": "A polite request to do something. For 'please don't', use 〜ないでください.",
+  "examples": [
+   {
+    "jp": "ここに名前を書いてください。",
+    "en": "Please write your name here."
+   },
+   {
+    "jp": "もう一度言ってください。",
+    "en": "Please say it one more time."
+   }
+  ]
+ },
+ {
+  "id": "grammar:naide-kudasai",
+  "title": "〜ないでください",
+  "structure": "Verb ない-form + でください",
+  "meaning": "please don't",
+  "explanation": "A polite request not to do something.",
+  "examples": [
+   {
+    "jp": "ここで写真を撮らないでください。",
+    "en": "Please don't take photos here."
+   },
+   {
+    "jp": "まだ食べないでください。",
+    "en": "Please don't eat yet."
+   }
+  ]
+ },
+ {
+  "id": "grammar:te-imasu",
+  "title": "〜ています",
+  "structure": "Verb て-form + います",
+  "meaning": "is doing / state",
+  "explanation": "Ongoing action (今食べています = eating now) or a continuing state/result (結婚しています, 東京に住んでいます).",
+  "examples": [
+   {
+    "jp": "今雨が降っています。",
+    "en": "It's raining now."
+   },
+   {
+    "jp": "兄は東京に住んでいます。",
+    "en": "My older brother lives in Tokyo."
+   }
+  ]
+ },
+ {
+  "id": "grammar:temo-ii",
+  "title": "〜てもいいです",
+  "structure": "Verb て-form + もいいです",
+  "meaning": "may, it's okay to",
+  "explanation": "Grants or asks permission. As a question: 〜てもいいですか (May I…?).",
+  "examples": [
+   {
+    "jp": "ここに座ってもいいですか。",
+    "en": "May I sit here?"
+   },
+   {
+    "jp": "写真を撮ってもいいですよ。",
+    "en": "You may take photos."
+   }
+  ]
+ },
+ {
+  "id": "grammar:tewa-ikemasen",
+  "title": "〜てはいけません",
+  "structure": "Verb て-form + はいけません",
+  "meaning": "must not",
+  "explanation": "Prohibition, stronger than 〜ないでください. Common on signs and rules.",
+  "examples": [
+   {
+    "jp": "ここでたばこを吸ってはいけません。",
+    "en": "You must not smoke here."
+   },
+   {
+    "jp": "教室で食べてはいけません。",
+    "en": "You must not eat in the classroom."
+   }
+  ]
+ },
+ {
+  "id": "grammar:mashou",
+  "title": "〜ましょう",
+  "structure": "Verb stem + ましょう",
+  "meaning": "let's",
+  "explanation": "Suggests doing something together. 〜ましょうか offers help or asks 'shall we?'.",
+  "examples": [
+   {
+    "jp": "一緒に昼ご飯を食べましょう。",
+    "en": "Let's eat lunch together."
+   },
+   {
+    "jp": "手伝いましょうか。",
+    "en": "Shall I help you?"
+   }
+  ]
+ },
+ {
+  "id": "grammar:masen-ka",
+  "title": "〜ませんか",
+  "structure": "Verb stem + ませんか",
+  "meaning": "won't you? (invitation)",
+  "explanation": "A softer invitation than 〜ましょう, literally 'won't you…?'. Gives the listener room to decline.",
+  "examples": [
+   {
+    "jp": "今晩一緒に映画を見ませんか。",
+    "en": "Won't you watch a movie with me tonight?"
+   },
+   {
+    "jp": "お茶を飲みませんか。",
+    "en": "Would you like to have some tea?"
+   }
+  ]
+ },
+ {
+  "id": "grammar:arimasu-imasu",
+  "title": "あります／います",
+  "structure": "Place に Noun が あります／います",
+  "meaning": "there is / there are",
+  "explanation": "Existence verbs: あります for inanimate things and plants, います for people and animals. Also expresses possession: 車があります = I have a car.",
+  "examples": [
+   {
+    "jp": "机の上に本があります。",
+    "en": "There is a book on the desk."
+   },
+   {
+    "jp": "公園に子どもがいます。",
+    "en": "There are children in the park."
+   }
+  ]
+ },
+ {
+  "id": "grammar:ga-hoshii",
+  "title": "〜がほしい",
+  "structure": "Noun + が + ほしい",
+  "meaning": "to want (a thing)",
+  "explanation": "Expresses wanting an object. ほしい conjugates like an i-adjective. For wanting to do an action, use 〜たい instead.",
+  "examples": [
+   {
+    "jp": "新しい電話がほしいです。",
+    "en": "I want a new phone."
+   },
+   {
+    "jp": "今は何もほしくないです。",
+    "en": "I don't want anything right now."
+   }
+  ]
+ },
+ {
+  "id": "grammar:tai",
+  "title": "〜たい",
+  "structure": "Verb stem + たい",
+  "meaning": "want to do",
+  "explanation": "Expresses the speaker's desire to do something; conjugates like an i-adjective (たくない, たかった). The object can take が or を.",
+  "examples": [
+   {
+    "jp": "日本に行きたいです。",
+    "en": "I want to go to Japan."
+   },
+   {
+    "jp": "今日は何も食べたくないです。",
+    "en": "I don't want to eat anything today."
+   }
+  ]
+ },
+ {
+  "id": "grammar:ga-suki",
+  "title": "〜が好き／嫌い",
+  "structure": "Noun + が + 好き／嫌い",
+  "meaning": "like / dislike",
+  "explanation": "好き (like) and 嫌い (dislike) are na-adjectives; the liked thing takes が. Intensify with 大好き / 大嫌い.",
+  "examples": [
+   {
+    "jp": "わたしは犬が好きです。",
+    "en": "I like dogs."
+   },
+   {
+    "jp": "野菜が嫌いです。",
+    "en": "I dislike vegetables."
+   }
+  ]
+ },
+ {
+  "id": "grammar:ga-jouzu",
+  "title": "〜が上手／下手",
+  "structure": "Noun + が + 上手／下手",
+  "meaning": "good at / bad at",
+  "explanation": "上手 (skilled) and 下手 (unskilled) are na-adjectives taking が. 上手 is used about others, not yourself. For yourself use 得意 or just 好き.",
+  "examples": [
+   {
+    "jp": "田中さんは料理が上手です。",
+    "en": "Tanaka-san is good at cooking."
+   },
+   {
+    "jp": "わたしは歌が下手です。",
+    "en": "I'm bad at singing."
+   }
+  ]
+ },
+ {
+  "id": "grammar:ta-form",
+  "title": "〜た形",
+  "structure": "Verb た-form",
+  "meaning": "plain past",
+  "explanation": "The plain past tense: same sound changes as the て-form but with た/だ (飲んで→飲んだ). Basis for 〜たことがある and 〜たり.",
+  "examples": [
+   {
+    "jp": "昨日映画を見た。",
+    "en": "I watched a movie yesterday."
+   },
+   {
+    "jp": "もう昼ご飯を食べた？",
+    "en": "Did you already eat lunch?"
+   }
+  ],
+  "clozeToken": "見た"
+ },
+ {
+  "id": "grammar:ta-koto-ga-aru",
+  "title": "〜たことがある",
+  "structure": "Verb た-form + ことがある",
+  "meaning": "have done before (experience)",
+  "explanation": "States a life experience, as in 'I have (at some point) done'. Negative: 〜たことがない (never have).",
+  "examples": [
+   {
+    "jp": "日本に行ったことがありますか。",
+    "en": "Have you ever been to Japan?"
+   },
+   {
+    "jp": "すしを食べたことがないです。",
+    "en": "I have never eaten sushi."
+   }
+  ],
+  "clozeToken": "行ったことがあります"
+ },
+ {
+  "id": "grammar:tari-tari",
+  "title": "〜たり〜たりする",
+  "structure": "Verb た-form + り、Verb た-form + り + する",
+  "meaning": "do things like A and B",
+  "explanation": "Lists representative activities without implying order or completeness, as in 'I did things like reading and watching TV'.",
+  "examples": [
+   {
+    "jp": "日曜日は本を読んだり、テレビを見たりします。",
+    "en": "On Sundays I do things like read books and watch TV."
+   },
+   {
+    "jp": "休みに買い物したり、友だちに会ったりしました。",
+    "en": "During the break I went shopping, met friends, and so on."
+   }
+  ],
+  "clozeToken": "読んだり"
+ },
+ {
+  "id": "grammar:mae-ni",
+  "title": "〜前に",
+  "structure": "Verb dictionary form / Noun の + 前に",
+  "meaning": "before",
+  "explanation": "Marks that one action happens before another. The verb before 前に is always dictionary form, regardless of tense.",
+  "examples": [
+   {
+    "jp": "寝る前に本を読みます。",
+    "en": "I read a book before sleeping."
+   },
+   {
+    "jp": "食事の前に手を洗ってください。",
+    "en": "Please wash your hands before the meal."
+   }
+  ]
+ },
+ {
+  "id": "grammar:te-kara",
+  "title": "〜てから",
+  "structure": "Verb て-form + から",
+  "meaning": "after doing, and then",
+  "explanation": "Marks sequence: after finishing the first action, the second happens. Different from the reason-から.",
+  "examples": [
+   {
+    "jp": "宿題をしてから、遊びます。",
+    "en": "I'll play after doing my homework."
+   },
+   {
+    "jp": "日本に来てから、日本語を始めました。",
+    "en": "I started Japanese after coming to Japan."
+   }
+  ]
+ },
+ {
+  "id": "grammar:ato-de",
+  "title": "〜た後で",
+  "structure": "Verb た-form / Noun の + 後で",
+  "meaning": "after",
+  "explanation": "Marks that something happens after another action or event. The verb before 後で is always た-form.",
+  "examples": [
+   {
+    "jp": "仕事が終わった後で、飲みに行きました。",
+    "en": "After work ended, we went for a drink."
+   },
+   {
+    "jp": "授業の後で図書館に行きます。",
+    "en": "I go to the library after class."
+   }
+  ]
+ },
+ {
+  "id": "grammar:toki",
+  "title": "〜とき",
+  "structure": "Clause + とき",
+  "meaning": "when",
+  "explanation": "Turns a clause into 'when …'. Plain form + とき: 日本に行くとき (when going), 日本に行ったとき (when I went).",
+  "examples": [
+   {
+    "jp": "子どものとき、川で泳ぎました。",
+    "en": "When I was a child, I swam in the river."
+   },
+   {
+    "jp": "暇なとき、音楽を聞きます。",
+    "en": "When I'm free, I listen to music."
+   }
+  ]
+ },
+ {
+  "id": "grammar:nagara",
+  "title": "〜ながら",
+  "structure": "Verb stem + ながら",
+  "meaning": "while doing",
+  "explanation": "Two actions by the same person at the same time; the main action comes second.",
+  "examples": [
+   {
+    "jp": "音楽を聞きながら勉強します。",
+    "en": "I study while listening to music."
+   },
+   {
+    "jp": "テレビを見ながらご飯を食べました。",
+    "en": "I ate while watching TV."
+   }
+  ]
+ },
+ {
+  "id": "grammar:mou-mada",
+  "title": "もう／まだ",
+  "structure": "もう + past / まだ + negative",
+  "meaning": "already / not yet",
+  "explanation": "もう〜ました = already did. まだです / まだ〜ていません = not yet. まだ with affirmative means 'still' (まだ雨が降っています).",
+  "examples": [
+   {
+    "jp": "もう昼ご飯を食べましたか。",
+    "en": "Have you already eaten lunch?"
+   },
+   {
+    "jp": "いいえ、まだ食べていません。",
+    "en": "No, I haven't eaten yet."
+   }
+  ]
+ },
+ {
+  "id": "grammar:yori",
+  "title": "AはBより",
+  "structure": "A は B より + adjective",
+  "meaning": "A is more … than B",
+  "explanation": "Comparison: the thing after より is the losing side. Question form: AとBとどちらが〜ですか.",
+  "examples": [
+   {
+    "jp": "飛行機は電車より速いです。",
+    "en": "Planes are faster than trains."
+   },
+   {
+    "jp": "今日は昨日より寒いです。",
+    "en": "Today is colder than yesterday."
+   }
+  ],
+  "clozeToken": "より"
+ },
+ {
+  "id": "grammar:no-naka-de-ichiban",
+  "title": "〜の中で一番",
+  "structure": "Group の中で + 一番 + adjective",
+  "meaning": "the most … among",
+  "explanation": "Superlative: picks the top item out of a group. 一番 literally means 'number one'.",
+  "examples": [
+   {
+    "jp": "果物の中でりんごが一番好きです。",
+    "en": "Among fruits, I like apples the best."
+   },
+   {
+    "jp": "クラスの中で田中さんが一番背が高いです。",
+    "en": "Tanaka-san is the tallest in the class."
+   }
+  ],
+  "clozeToken": "一番"
+ },
+ {
+  "id": "grammar:hou-ga-ii",
+  "title": "〜ほうがいい",
+  "structure": "Verb た-form / ない-form + ほうがいい",
+  "meaning": "had better, should",
+  "explanation": "Gives advice. Affirmative advice uses the た-form (休んだほうがいい); negative advice uses ない-form (行かないほうがいい).",
+  "examples": [
+   {
+    "jp": "早く寝たほうがいいですよ。",
+    "en": "You'd better go to bed early."
+   },
+   {
+    "jp": "あまり食べないほうがいいです。",
+    "en": "You'd better not eat too much."
+   }
+  ]
+ },
+ {
+  "id": "grammar:deshou",
+  "title": "〜でしょう",
+  "structure": "Plain form + でしょう",
+  "meaning": "probably / right?",
+  "explanation": "Expresses probability ('probably') or, with rising intonation, seeks confirmation. Weather forecasts use it constantly.",
+  "examples": [
+   {
+    "jp": "明日は雨でしょう。",
+    "en": "It will probably rain tomorrow."
+   },
+   {
+    "jp": "この問題は難しいでしょう？",
+    "en": "This problem is hard, right?"
+   }
+  ]
+ },
+ {
+  "id": "grammar:tsumori",
+  "title": "〜つもり",
+  "structure": "Verb dictionary form / ない-form + つもりです",
+  "meaning": "intend to",
+  "explanation": "States a plan or intention. Negative intention: 〜ないつもりです.",
+  "examples": [
+   {
+    "jp": "来年日本に行くつもりです。",
+    "en": "I intend to go to Japan next year."
+   },
+   {
+    "jp": "もうたばこを吸わないつもりです。",
+    "en": "I intend not to smoke anymore."
+   }
+  ]
+ },
+ {
+  "id": "grammar:dake",
+  "title": "〜だけ",
+  "structure": "Noun / amount + だけ",
+  "meaning": "only, just",
+  "explanation": "Limits to exactly that amount. Neutral in tone and, works with affirmative sentences.",
+  "examples": [
+   {
+    "jp": "水だけ飲みました。",
+    "en": "I drank only water."
+   },
+   {
+    "jp": "少しだけわかります。",
+    "en": "I understand just a little."
+   }
+  ]
+ },
+ {
+  "id": "grammar:shika-nai",
+  "title": "〜しか〜ない",
+  "structure": "Noun + しか + negative verb",
+  "meaning": "nothing but, only (with negative)",
+  "explanation": "Also means 'only', but always pairs with a negative verb and implies the amount is less than expected.",
+  "examples": [
+   {
+    "jp": "百円しかありません。",
+    "en": "I have only 100 yen."
+   },
+   {
+    "jp": "ひらがなしか読めません。",
+    "en": "I can only read hiragana."
+   }
+  ],
+  "clozeToken": "しか"
+ },
+ {
+  "id": "grammar:kurai-goro",
+  "title": "〜ぐらい／〜ごろ",
+  "structure": "Amount + ぐらい / Time + ごろ",
+  "meaning": "about, approximately",
+  "explanation": "ぐらい(くらい) approximates amounts and durations; ごろ approximates points in time (三時ごろ = around 3 o'clock).",
+  "examples": [
+   {
+    "jp": "駅まで十分ぐらいかかります。",
+    "en": "It takes about ten minutes to the station."
+   },
+   {
+    "jp": "七時ごろ家に帰ります。",
+    "en": "I go home around seven."
+   }
+  ]
+ },
+ {
+  "id": "grammar:naru",
+  "title": "〜くなる／〜になる",
+  "structure": "i-adj くなる / na-adj・Noun になる",
+  "meaning": "to become",
+  "explanation": "Expresses change of state: i-adjectives drop い and add くなる (寒くなる); na-adjectives and nouns take になる (元気になる, 先生になる).",
+  "examples": [
+   {
+    "jp": "最近寒くなりましたね。",
+    "en": "It's gotten cold recently, hasn't it?"
+   },
+   {
+    "jp": "兄は医者になりました。",
+    "en": "My older brother became a doctor."
+   }
+  ],
+  "clozeToken": "寒くなりました"
+ },
+ {
+  "id": "grammar:kute-de",
+  "title": "〜くて／〜で（接続）",
+  "structure": "i-adj くて / na-adj・Noun で",
+  "meaning": "and (linking adjectives)",
+  "explanation": "Chains adjectives in one sentence: i-adjectives use 〜くて (安くて), na-adjectives and nouns use で (静かで).",
+  "examples": [
+   {
+    "jp": "この部屋は広くて明るいです。",
+    "en": "This room is spacious and bright."
+   },
+   {
+    "jp": "彼は親切で面白い人です。",
+    "en": "He is a kind and interesting person."
+   }
+  ]
+ },
+ {
+  "id": "grammar:issho-ni",
+  "title": "〜と一緒に",
+  "structure": "Person + と一緒に",
+  "meaning": "together with",
+  "explanation": "Explicitly marks doing something together with someone. と alone can carry the same meaning more briefly.",
+  "examples": [
+   {
+    "jp": "家族と一緒に晩ご飯を食べます。",
+    "en": "I eat dinner together with my family."
+   },
+   {
+    "jp": "友だちと一緒に帰りました。",
+    "en": "I went home together with my friend."
+   }
+  ]
+ },
+ {
+  "id": "grammar:counters",
+  "title": "助数詞（〜つ・〜人・〜枚…）",
+  "structure": "Number + counter",
+  "meaning": "counters",
+  "explanation": "Japanese counts with category words: 〜つ (general, up to ten), 〜人 (people), 〜枚 (flat things), 〜本 (long things), 〜匹 (small animals), 〜冊 (books), 〜回 (times). The counter phrase usually follows the noun: りんごを三つください.",
+  "examples": [
+   {
+    "jp": "りんごを三つください。",
+    "en": "Three apples, please."
+   },
+   {
+    "jp": "教室に学生が五人います。",
+    "en": "There are five students in the classroom."
+   }
+  ],
+  "clozeToken": "三つ"
+ },
+ {
+  "id": "grammar:kata",
+  "title": "〜方",
+  "structure": "Verb stem + 方",
+  "meaning": "how to, way of doing",
+  "explanation": "Turns a verb into 'the way of doing it': 読み方 (how to read), 作り方 (how to make).",
+  "examples": [
+   {
+    "jp": "この漢字の読み方を教えてください。",
+    "en": "Please tell me how to read this kanji."
+   },
+   {
+    "jp": "カレーの作り方を知っていますか。",
+    "en": "Do you know how to make curry?"
+   }
+  ]
+ },
+ {
+  "id": "grammar:ni-shuukan",
+  "title": "頻度：〜に〜回",
+  "structure": "Period + に + number of times",
+  "meaning": "times per (frequency)",
+  "explanation": "Expresses frequency: 週に二回 = twice a week, 月に一回 = once a month.",
+  "examples": [
+   {
+    "jp": "週に三回ジムに行きます。",
+    "en": "I go to the gym three times a week."
+   },
+   {
+    "jp": "年に一回国に帰ります。",
+    "en": "I return to my country once a year."
+   }
+  ],
+  "clozeToken": "三回"
+ },
+ {
+  "id": "grammar:donna",
+  "title": "どんな〜",
+  "structure": "どんな + Noun",
+  "meaning": "what kind of",
+  "explanation": "Asks about the nature or type of something. Answers typically use adjectives.",
+  "examples": [
+   {
+    "jp": "どんな音楽が好きですか。",
+    "en": "What kind of music do you like?"
+   },
+   {
+    "jp": "京都はどんな町ですか。",
+    "en": "What kind of town is Kyoto?"
+   }
+  ]
+ },
+ {
+  "id": "grammar:dare-nani-doko",
+  "title": "疑問詞（何・誰・どこ・いつ）",
+  "structure": "Question word + か / も",
+  "meaning": "question words",
+  "explanation": "何 (what), 誰 (who), どこ (where), いつ (when), どれ (which). With も + negative they mean 'no one / nothing / nowhere' (誰もいません).",
+  "examples": [
+   {
+    "jp": "誰と行きますか。",
+    "en": "Who are you going with?"
+   },
+   {
+    "jp": "教室には誰もいません。",
+    "en": "There is no one in the classroom."
+   }
+  ],
+  "clozeToken": "誰"
+ }
+]

@@ -1,0 +1,14 @@
+node_modules
+dist
+dist-ssr
+dev-dist
+*.local
+
+# Screenshots the browser test suites produce
+scripts/shots
+
+.DS_Store
+*.log
+.vscode/*
+!.vscode/extensions.json
+.idea

@@ -1,0 +1,124 @@
+@import 'tailwindcss';
+
+/*
+ * Tori design tokens — traditional Japanese colors on cool paper.
+ * 朱 (shu, hanko vermilion) is RESERVED: due counts, the stamp motif,
+ * destructive actions. Everything interactive is 藍 (ai, indigo).
+ */
+@theme {
+  --color-paper: #f6f5f1; /* 白練 shironeri — cool off-white */
+  --color-card: #fffefb;
+  --color-ink: #22303b; /* 墨 sumi — blue-black ink */
+  --color-ink-soft: #5f6e7a;
+  --color-ink-faint: #96a3ad;
+  --color-ai: #2c5b7c; /* 藍 indigo — interaction */
+  --color-ai-deep: #1e4560;
+  --color-ai-wash: #e8eef2; /* indigo wash for selected states */
+  --color-shu: #c33a32; /* 朱 hanko vermilion — reserved */
+  --color-mist: #dde1e4; /* borders, dividers */
+  --color-moss: #5a7247; /* 松葉 matsuba — learned/mastered */
+
+  /*
+   * Ordinal indigo ramp for charts: one hue, light to dark, validated for
+   * monotone lightness, step gaps, and a light end that clears 2:1 on paper.
+   * Do not hand-tune these; re-run the palette validator if they change.
+   */
+  --color-ramp-1: #8fb3cc;
+  --color-ramp-2: #5f8fb2;
+  --color-ramp-3: #3f7099;
+  --color-ramp-4: #2c5b7c;
+  /* No activity: a surface tint, deliberately outside the ramp. */
+  --color-ramp-0: #e6e9ea;
+
+  --font-display: 'Shippori Mincho B1', 'Hiragino Mincho ProN', serif;
+  --font-sans: 'Zen Kaku Gothic New', 'Hiragino Sans', system-ui, sans-serif;
+  --font-mono: 'IBM Plex Mono', ui-monospace, monospace;
+}
+
+/*
+ * Dark mode is a selected palette, not an inversion. The chart ramp has its
+ * own steps validated against the dark surface, running dim to bright so
+ * "more" still reads as stronger.
+ */
+@layer base {
+  :root[data-theme='dark'],
+  :root[data-theme='system'] {
+    color-scheme: light;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme='light']) {
+      color-scheme: dark;
+      --color-paper: #16191c;
+      --color-card: #1e2226;
+      --color-ink: #e8eaec;
+      --color-ink-soft: #a8b2ba;
+      --color-ink-faint: #6d7a84;
+      --color-ai: #7fa8c4;
+      --color-ai-deep: #a8c8dc;
+      --color-ai-wash: #24303a;
+      --color-mist: #2c333a;
+      --color-shu: #e0685f;
+      --color-moss: #8aa571;
+      --color-ramp-0: #232a30;
+      --color-ramp-1: #3a6a88;
+      --color-ramp-2: #5288ab;
+      --color-ramp-3: #79a6c4;
+      --color-ramp-4: #a8c8dc;
+    }
+  }
+
+  /* An explicit choice always wins over the system preference. */
+  :root[data-theme='dark'] {
+    color-scheme: dark;
+    --color-paper: #16191c;
+    --color-card: #1e2226;
+    --color-ink: #e8eaec;
+    --color-ink-soft: #a8b2ba;
+    --color-ink-faint: #6d7a84;
+    --color-ai: #7fa8c4;
+    --color-ai-deep: #a8c8dc;
+    --color-ai-wash: #24303a;
+    --color-mist: #2c333a;
+    --color-shu: #e0685f;
+    --color-moss: #8aa571;
+    --color-ramp-0: #232a30;
+    --color-ramp-1: #3a6a88;
+    --color-ramp-2: #5288ab;
+    --color-ramp-3: #79a6c4;
+    --color-ramp-4: #a8c8dc;
+  }
+}
+
+html {
+  background: var(--color-paper);
+}
+
+body {
+  font-family: var(--font-sans);
+  color: var(--color-ink);
+  -webkit-font-smoothing: antialiased;
+  /* iOS PWA: respect the notch */
+  padding-top: env(safe-area-inset-top);
+}
+
+/* Big Japanese display type never wants synthetic bolding or squished tracking */
+.glyph {
+  font-family: var(--font-display);
+  font-weight: 700;
+  line-height: 1;
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-ai);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
