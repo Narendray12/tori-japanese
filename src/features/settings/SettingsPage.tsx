@@ -14,12 +14,22 @@ import {
   parseBackup,
 } from '../../db/backup'
 import { applyTheme, storedTheme, type Theme } from '../../app/theme'
-import { japaneseVoice, watchVoices } from '../review/tts'
+import {
+  japaneseVoices,
+  setPreferredVoice,
+  setSpeechRate,
+  speakJapanese,
+  watchVoices,
+} from '../review/tts'
+
+/** Short, familiar, and uses a long vowel so speed differences are audible. */
+const SAMPLE = 'こんにちは'
 
 export function SettingsPage() {
   const [settings, setSettings] = useState<AppSettings | null>(null)
   const [theme, setTheme] = useState<Theme>(storedTheme)
-  const [tts, setTts] = useState(() => japaneseVoice() !== null)
+  const [tts, setTts] = useState(() => japaneseVoices().length > 0)
+  const [voices, setVoices] = useState(japaneseVoices)
   const [message, setMessage] = useState<string | null>(null)
   const [problem, setProblem] = useState<string | null>(null)
   const fileRef = useRef<HTMLInputElement>(null)
@@ -27,7 +37,14 @@ export function SettingsPage() {
   useEffect(() => {
     void getSettings().then(setSettings)
   }, [])
-  useEffect(() => watchVoices(setTts), [])
+  useEffect(
+    () =>
+      watchVoices((available) => {
+        setTts(available)
+        setVoices(japaneseVoices())
+      }),
+    [],
+  )
 
   const update = async <K extends keyof AppSettings>(
     key: K,
@@ -146,6 +163,76 @@ export function SettingsPage() {
           yourself.
         </p>
       </Group>
+
+      {tts && (
+        <Group title="Voice">
+          <Row
+            label="Speaking speed"
+            hint={`${settings.speechRate.toFixed(2)}x. Learners usually want this well below normal.`}
+          >
+            <input
+              type="range"
+              min={0.4}
+              max={1.2}
+              step={0.05}
+              value={settings.speechRate}
+              onChange={(e) => {
+                const v = Number(e.target.value)
+                setSpeechRate(v)
+                void update('speechRate', v)
+              }}
+              onMouseUp={() => speakJapanese(SAMPLE)}
+              onTouchEnd={() => speakJapanese(SAMPLE)}
+              className="w-32 accent-ai"
+              aria-label="Speaking speed"
+            />
+          </Row>
+
+          <div className="p-4">
+            <label
+              htmlFor="voice"
+              className="text-sm font-medium"
+            >
+              Japanese voice
+            </label>
+            <p className="mt-0.5 text-xs text-ink-soft">
+              Apple ships several joke voices alongside the real ones. Kyoko and
+              Otoya are the voices meant for Japanese.
+            </p>
+            <select
+              id="voice"
+              value={settings.voiceURI ?? ''}
+              onChange={(e) => {
+                const v = e.target.value || null
+                setPreferredVoice(v)
+                void update('voiceURI', v)
+                speakJapanese(SAMPLE)
+              }}
+              className="mt-2 w-full rounded-lg border border-mist bg-card px-3 py-2 text-sm"
+            >
+              <option value="">Best available ({voices[0]?.name})</option>
+              {voices.map((v) => (
+                <option key={v.voiceURI} value={v.voiceURI}>
+                  {v.name}
+                  {v.localService ? '' : ' (needs internet)'}
+                </option>
+              ))}
+            </select>
+            <button
+              onClick={() => speakJapanese(SAMPLE)}
+              className="mt-2 rounded-lg border border-mist px-3 py-1.5 text-xs font-medium text-ai"
+            >
+              ♪ Hear {SAMPLE}
+            </button>
+            <p className="mt-2 text-xs text-ink-faint">
+              Only one Japanese voice? On a Mac open System Settings,
+              Accessibility, Spoken Content, Manage Voices, and download Kyoko
+              (Enhanced or Premium). On iPhone it is Settings, Accessibility,
+              Spoken Content, Voices, Japanese. Both are free and work offline.
+            </p>
+          </div>
+        </Group>
+      )}
 
       <Group title="Appearance">
         <div className="flex gap-1 p-3">

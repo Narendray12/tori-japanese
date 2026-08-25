@@ -15,6 +15,7 @@ import { SettingsPage } from './features/settings/SettingsPage'
 import { applyTheme, storedTheme } from './app/theme'
 import { warmFontCache } from './app/offline'
 import { seedIfNeeded } from './db/seed'
+import { applySpeechSettings } from './db/settings'
 
 // Theme first, before anything paints, so there is no flash of the wrong one.
 applyTheme(storedTheme())
@@ -22,6 +23,7 @@ applyTheme(storedTheme())
 // Kick off seeding immediately; pages read via live queries so they
 // fill in as soon as the data lands.
 void seedIfNeeded()
+void applySpeechSettings()
 warmFontCache()
 
 const router = createBrowserRouter(
