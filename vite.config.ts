@@ -14,7 +14,13 @@ export default defineConfig({
     react(),
     tailwindcss(),
     VitePWA({
-      registerType: 'autoUpdate',
+      // 'prompt', not 'autoUpdate': autoUpdate bakes skipWaiting into the
+      // worker, so a new version never waits and the page is never told about
+      // it. Here the new worker waits, the app offers a Refresh button, and
+      // nothing reloads under someone who is mid-review.
+      registerType: 'prompt',
+      // Registered in src/app/updates.ts so the page can react to updates.
+      injectRegister: false,
       // Enabled in dev too, so offline behaviour can be tested without a build.
       devOptions: { enabled: true, type: 'module' },
       includeAssets: ['icons/apple-touch-icon.png', 'kanjivg/*.svg'],

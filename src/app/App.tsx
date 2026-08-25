@@ -1,4 +1,6 @@
+import { useEffect, useState } from 'react'
 import { NavLink, Outlet } from 'react-router-dom'
+import { applyUpdateNow, watchForUpdates } from './updates'
 
 const tabs = [
   { to: '/', label: 'Today', kanji: '今' },
@@ -8,8 +10,20 @@ const tabs = [
 ]
 
 export function App() {
+  const [updateReady, setUpdateReady] = useState(false)
+  useEffect(() => watchForUpdates(() => setUpdateReady(true)), [])
+
   return (
     <div className="mx-auto flex min-h-dvh max-w-xl flex-col">
+      {updateReady && (
+        <button
+          onClick={applyUpdateNow}
+          className="flex w-full items-center justify-center gap-2 bg-ai px-4 py-2 text-sm font-medium text-white"
+        >
+          A new version is ready
+          <span className="rounded bg-white/20 px-2 py-0.5 text-xs">Refresh</span>
+        </button>
+      )}
       <header className="flex items-baseline justify-between px-5 pt-5 pb-3">
         <h1 className="flex items-baseline gap-2">
           <span className="glyph text-3xl" lang="ja">
