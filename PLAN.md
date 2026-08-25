@@ -226,6 +226,11 @@ for m5, passing `PORT=`.
 - **One device.** Backup and restore move progress between devices by hand;
   there is no sync.
 
-### M6 — remaining stretch work
+### M6 — writing practice and richer cards
+Planned in detail in [PLAN-M6-writing.md](PLAN-M6-writing.md): draw kanji and get
+graded stroke by stroke, audio on everything, component breakdowns, and pitch
+accent.
+
+### Later
 FSRS parameter optimization from personal history · Anki .apkg import · optional
-cloud sync · mnemonics · an N4 content pack · handwriting input.
+cloud sync · an N4 content pack · kana writing practice.
