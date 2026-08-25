@@ -43,8 +43,16 @@ check(offlineOk, 'the library loads with the network off')
 const offline = await page.locator('main .glyph').count()
 check(offline >= online - 1, `same content offline (${offline} vs ${online} glyphs)`)
 
+// The library opens on Kana now, so あ is the first character.
 const first = await page.locator('main .glyph').first().textContent()
-check(first.trim() === '一', `kanji still in teaching order offline (starts with ${first.trim()})`)
+check(first.trim() === 'あ', `kana section loads offline (starts with ${first.trim()})`)
+await page.click('[role="tab"]:has-text("Kanji")')
+await page.waitForTimeout(700)
+const firstKanji = await page.locator('main .glyph').first().textContent()
+check(
+  firstKanji.trim() === '一',
+  `kanji still in teaching order offline (starts with ${firstKanji.trim()})`,
+)
 
 const svg = await page.evaluate(async () => (await fetch('/tori-japanese/kanjivg/04e00.svg')).ok)
 check(svg, 'stroke diagrams cached offline')
