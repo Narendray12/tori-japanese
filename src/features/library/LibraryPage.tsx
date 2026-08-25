@@ -10,6 +10,7 @@ import type {
   KanjiItem,
   VocabItem,
 } from '../../db/types'
+import { GROUP_LABEL, type Script } from '../../data/kana'
 import { filterItems, type LearnedFilter } from './search'
 import { AddToSetSheet } from './AddToSetSheet'
 
@@ -30,6 +31,8 @@ export function LibraryPage() {
   const [tab, setTab] = useState<ItemType>('kana')
   const [query, setQuery] = useState('')
   const [learned, setLearned] = useState<LearnedFilter>('all')
+  // 208 kana in one grid is a wall, so the two syllabaries are separate views.
+  const [script, setScript] = useState<Script>('hiragana')
   const [selected, setSelected] = useState<Set<string>>(new Set())
   const [sheetOpen, setSheetOpen] = useState(false)
 
@@ -45,8 +48,12 @@ export function LibraryPage() {
 
   const visible = useMemo(() => {
     if (!items || items[0]?.type !== tab) return null
-    return filterItems(items, query, learned, learnedIds ?? new Set())
-  }, [items, tab, query, learned, learnedIds])
+    const scoped =
+      tab === 'kana'
+        ? items.filter((i) => i.type === 'kana' && i.script === script)
+        : items
+    return filterItems(scoped, query, learned, learnedIds ?? new Set())
+  }, [items, tab, query, learned, learnedIds, script])
 
   const toggle = (id: string) =>
     setSelected((s) => {
@@ -78,6 +85,33 @@ export function LibraryPage() {
           </button>
         ))}
       </div>
+
+      {tab === 'kana' && (
+        <div
+          role="tablist"
+          aria-label="Syllabary"
+          className="mt-2 flex gap-1"
+        >
+          {(['hiragana', 'katakana'] as Script[]).map((s) => (
+            <button
+              key={s}
+              role="tab"
+              aria-selected={script === s}
+              onClick={() => setScript(s)}
+              className={`flex-1 rounded-lg border py-2 text-sm font-medium capitalize transition-colors ${
+                script === s
+                  ? 'border-ai bg-ai-wash text-ai-deep'
+                  : 'border-mist bg-card text-ink-soft hover:text-ink'
+              }`}
+            >
+              <span className="glyph mr-1.5 text-base" lang="ja" aria-hidden>
+                {s === 'hiragana' ? 'あ' : 'ア'}
+              </span>
+              {s}
+            </button>
+          ))}
+        </div>
+      )}
 
       <div className="mt-3 flex gap-2">
         <input
@@ -188,9 +222,30 @@ function SelectMark({ on }: { on: boolean }) {
   )
 }
 
+/** Basic, then voiced, then the small-ya combinations, each under a heading. */
 function KanaGrid({ items, selected, onToggle }: RowProps<KanaItem>) {
+  const groups = (['gojuon', 'dakuten', 'yoon'] as const)
+    .map((g) => ({ key: g, rows: items.filter((k) => k.kanaGroup === g) }))
+    .filter((g) => g.rows.length > 0)
+
   return (
-    <ul className="mt-4 grid grid-cols-5 gap-2 pb-16 sm:grid-cols-6">
+    <div className="pb-16">
+      {groups.map(({ key, rows }) => (
+        <section key={key} className="mt-5 first:mt-4">
+          <h2 className="flex items-baseline justify-between text-xs font-medium tracking-widest text-ink-faint uppercase">
+            {GROUP_LABEL[key]}
+            <span className="font-mono tabular-nums">{rows.length}</span>
+          </h2>
+          <KanaRows items={rows} selected={selected} onToggle={onToggle} />
+        </section>
+      ))}
+    </div>
+  )
+}
+
+function KanaRows({ items, selected, onToggle }: RowProps<KanaItem>) {
+  return (
+    <ul className="mt-2 grid grid-cols-5 gap-2 sm:grid-cols-6">
       {items.map((k) => {
         const on = selected.has(k.id)
         return (

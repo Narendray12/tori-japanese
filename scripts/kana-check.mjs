@@ -15,23 +15,30 @@ await page.goto(base + '/library')
 await page.waitForSelector('main .glyph', { timeout: 25000 })
 await page.waitForTimeout(1500)
 
-const tabs = await page.$$eval('[role="tab"]', (t) => t.map((x) => x.textContent.trim()))
+const tabs = await page.$$eval('[role="tablist"]:not([aria-label]) [role="tab"]', (t) =>
+  t.map((x) => x.textContent.trim()))
 check(tabs.join(',') === 'Kana,Kanji,Vocab,Grammar', `four sections: ${tabs.join(', ')}`)
 check(await page.getAttribute('[role="tab"]:has-text("Kana")', 'aria-selected') === 'true',
   'the library opens on Kana')
 
 const order = await page.$$eval('ul.grid > li .glyph', (e) => e.map((x) => x.textContent.trim()))
 check(order.slice(0, 5).join('') === 'あいうえお', `starts with あいうえお (${order.slice(0,5).join('')})`)
-check(order.length === 208, `all ${order.length} kana listed`)
-const firstKata = order.findIndex((c) => /[゠-ヿ]/.test(c))
-check(order.slice(0, firstKata).every((c) => !/[゠-ヿ]/.test(c)), 'hiragana all come before katakana')
+// The two syllabaries are separate views now, so one view holds half of them.
+check(order.length === 104, `the hiragana view lists ${order.length} characters`)
+check(order.every((c) => !/[゠-ヿ]/.test(c)), 'the hiragana view holds no katakana')
 await page.screenshot({ path: `${OUT}/kana-library.png` })
 
 // Romaji search must find the kana.
 await page.fill('input[type="search"]', 'shi')
 await page.waitForTimeout(500)
 const found = await page.$$eval('ul.grid > li .glyph', (e) => e.map((x) => x.textContent.trim()))
-check(found.includes('し') && found.includes('シ'), `searching "shi" finds し and シ (${found.slice(0,6).join(' ')})`)
+check(found.includes('し'), `searching "shi" finds し (${found.join(' ')})`)
+// Search stays inside the chosen syllabary, the way a tab should behave.
+await page.click('[aria-label="Syllabary"] [role="tab"]:has-text("katakana")')
+await page.waitForTimeout(500)
+const foundKata = await page.$$eval('ul.grid > li .glyph', (e) => e.map((x) => x.textContent.trim()))
+check(foundKata.includes('シ'), `the same search in katakana finds シ (${foundKata.join(' ')})`)
+await page.click('[aria-label="Syllabary"] [role="tab"]:has-text("hiragana")')
 await page.fill('input[type="search"]', '')
 
 // Detail page: stroke diagram must resolve.
