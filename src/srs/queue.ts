@@ -85,7 +85,7 @@ export function interleaveByType(items: Item[], budget: number): Item[] {
   for (const list of byType.values())
     list.sort((a, b) => a.orderIndex - b.orderIndex)
 
-  const order: ItemType[] = ['kanji', 'vocab', 'grammar']
+  const order: ItemType[] = ['kana', 'kanji', 'vocab', 'grammar']
   const picked: Item[] = []
   let exhausted = false
   while (picked.length < budget && !exhausted) {

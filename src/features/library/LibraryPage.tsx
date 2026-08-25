@@ -6,6 +6,7 @@ import type {
   GrammarItem,
   Item,
   ItemType,
+  KanaItem,
   KanjiItem,
   VocabItem,
 } from '../../db/types'
@@ -13,6 +14,7 @@ import { filterItems, type LearnedFilter } from './search'
 import { AddToSetSheet } from './AddToSetSheet'
 
 const tabs: { type: ItemType; label: string }[] = [
+  { type: 'kana', label: 'Kana' },
   { type: 'kanji', label: 'Kanji' },
   { type: 'vocab', label: 'Vocab' },
   { type: 'grammar', label: 'Grammar' },
@@ -25,7 +27,7 @@ const filters: { key: LearnedFilter; label: string }[] = [
 ]
 
 export function LibraryPage() {
-  const [tab, setTab] = useState<ItemType>('kanji')
+  const [tab, setTab] = useState<ItemType>('kana')
   const [query, setQuery] = useState('')
   const [learned, setLearned] = useState<LearnedFilter>('all')
   const [selected, setSelected] = useState<Set<string>>(new Set())
@@ -117,6 +119,8 @@ export function LibraryPage() {
         <p className="mt-10 text-center text-sm text-ink-soft">
           Nothing here matches "{query}". Try another spelling.
         </p>
+      ) : tab === 'kana' ? (
+        <KanaGrid items={visible as KanaItem[]} selected={selected} onToggle={toggle} />
       ) : tab === 'kanji' ? (
         <KanjiGrid items={visible as KanjiItem[]} selected={selected} onToggle={toggle} />
       ) : tab === 'vocab' ? (
@@ -181,6 +185,41 @@ function SelectMark({ on }: { on: boolean }) {
     >
       ✓
     </span>
+  )
+}
+
+function KanaGrid({ items, selected, onToggle }: RowProps<KanaItem>) {
+  return (
+    <ul className="mt-4 grid grid-cols-5 gap-2 pb-16 sm:grid-cols-6">
+      {items.map((k) => {
+        const on = selected.has(k.id)
+        return (
+          <li key={k.id} className="relative">
+            <button
+              onClick={() => onToggle(k.id)}
+              aria-pressed={on}
+              className={`flex w-full flex-col items-center rounded-lg border py-2.5 transition-colors ${
+                on ? 'border-ai bg-ai-wash' : 'border-mist bg-card'
+              }`}
+            >
+              <span className="glyph text-3xl" lang="ja">
+                {k.primary}
+              </span>
+              <span className="mt-1 font-mono text-[10px] text-ink-soft">
+                {k.romaji}
+              </span>
+            </button>
+            <Link
+              to={`/item/${encodeURIComponent(k.id)}`}
+              aria-label={`Details for ${k.romaji}`}
+              className="absolute top-0.5 right-1 text-[9px] text-ink-faint hover:text-ai"
+            >
+              ⓘ
+            </Link>
+          </li>
+        )
+      })}
+    </ul>
   )
 }
 

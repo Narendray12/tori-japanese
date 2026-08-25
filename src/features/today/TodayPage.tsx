@@ -38,17 +38,18 @@ export function TodayPage() {
 
   const data = useLiveQuery(async () => {
     const now = new Date()
-    const [due, lessonBudget, learned, kanji, vocab, grammar, activeSets] =
+    const [due, lessonBudget, learned, kana, kanji, vocab, grammar, activeSets] =
       await Promise.all([
         getDueCount(now, tts),
         getLessonBudget(now),
         db.cards.where('introduced').equals(1).count(),
+        db.items.where('type').equals('kana').count(),
         db.items.where('type').equals('kanji').count(),
         db.items.where('type').equals('vocab').count(),
         db.items.where('type').equals('grammar').count(),
         db.studySets.where('active').equals(1).toArray(),
       ])
-    return { due, lessonBudget, learned, kanji, vocab, grammar, activeSets }
+    return { due, lessonBudget, learned, kana, kanji, vocab, grammar, activeSets }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [tick, tts])
 
@@ -97,9 +98,10 @@ export function TodayPage() {
         </Link>
       </div>
 
-      <dl className="grid w-full grid-cols-3 gap-3">
+      <dl className="grid w-full grid-cols-4 gap-2">
         {(
           [
+            ['Kana', 'あ', data.kana],
             ['Kanji', '字', data.kanji],
             ['Vocab', '語', data.vocab],
             ['Grammar', '文', data.grammar],
@@ -107,15 +109,15 @@ export function TodayPage() {
         ).map(([label, kanji, n]) => (
           <div
             key={label}
-            className="rounded-lg border border-mist bg-card px-3 py-4 text-center"
+            className="rounded-lg border border-mist bg-card px-2 py-3 text-center"
           >
-            <dt className="flex items-center justify-center gap-1.5 text-xs font-medium text-ink-soft">
+            <dt className="flex flex-col items-center gap-0.5 text-[11px] font-medium text-ink-soft">
               <span className="glyph text-base text-ai" lang="ja" aria-hidden>
                 {kanji}
               </span>
               {label}
             </dt>
-            <dd className="glyph mt-1 text-2xl tabular-nums">{n}</dd>
+            <dd className="glyph mt-1 text-xl tabular-nums">{n}</dd>
           </div>
         ))}
       </dl>

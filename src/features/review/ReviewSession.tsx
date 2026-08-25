@@ -55,7 +55,7 @@ export function ReviewSession({
   const card = queue[idx]
   const item = card ? items.get(card.itemId) : undefined
   const done = idx >= queue.length
-  const mode = card ? resolveMode(card.facet, quiz, ttsAvailable) : 'flip'
+  const mode = card ? resolveMode(card.facet, quiz, ttsAvailable, card.itemType) : 'flip'
 
   useEffect(() => {
     shownAt.current = Date.now()
@@ -216,11 +216,15 @@ export function ReviewSession({
                 </p>
               )}
               <CardBack card={card} item={item} />
-              {item.type === 'vocab' && ttsAvailable && (
+              {(item.type === 'vocab' || item.type === 'kana') && ttsAvailable && (
                 <div className="text-center">
                   <button
                     type="button"
-                    onClick={() => speakJapanese(item.reading)}
+                    onClick={() =>
+                      speakJapanese(
+                        item.type === 'vocab' ? item.reading : item.primary,
+                      )
+                    }
                     className="text-xs font-medium text-ai"
                   >
                     ♪ Hear it

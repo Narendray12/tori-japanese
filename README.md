@@ -7,8 +7,10 @@ Built because AnkiMobile costs money on iOS and its interface fights you.
 
 ## What it does
 
-- **The whole N5 syllabus, already loaded.** 79 kanji with stroke-order
-  diagrams, 718 vocabulary words, and 61 grammar points with worked examples.
+- **Kana and the whole N5 syllabus, already loaded.** Both syllabaries in full
+  (208 characters including the voiced and combination sounds), 79 kanji with
+  stroke-order diagrams, 718 vocabulary words, and 61 grammar points with
+  worked examples.
 - **Modern scheduling.** Reviews are timed by [FSRS](https://github.com/open-spaced-repetition),
   the algorithm Anki adopted in 2023, which needs fewer reviews than the old
   SM-2 formula for the same recall. One slider sets how well you want to

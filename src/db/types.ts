@@ -1,6 +1,6 @@
 import type { Card as FsrsCard } from 'ts-fsrs'
 
-export type ItemType = 'kanji' | 'vocab' | 'grammar'
+export type ItemType = 'kana' | 'kanji' | 'vocab' | 'grammar'
 
 /** One testable facet of an item. Each facet gets its own scheduled card. */
 export type Facet =
@@ -20,6 +20,16 @@ interface BaseItem {
   tags: string[]
   /** Default learning order within its type (0-based). */
   orderIndex: number
+}
+
+export interface KanaItem extends BaseItem {
+  type: 'kana'
+  /** How the syllable is spelled in the Latin alphabet. */
+  romaji: string
+  script: 'hiragana' | 'katakana'
+  /** Consonant row: 'a' for あいうえお, 'k' for かきくけこ. */
+  row: string
+  kanaGroup: 'gojuon' | 'dakuten' | 'yoon'
 }
 
 export interface KanjiItem extends BaseItem {
@@ -50,7 +60,7 @@ export interface GrammarItem extends BaseItem {
   clozeToken?: string
 }
 
-export type Item = KanjiItem | VocabItem | GrammarItem
+export type Item = KanaItem | KanjiItem | VocabItem | GrammarItem
 
 /** A scheduled card: FSRS state for one facet of one item. */
 export interface StudyCard {
@@ -79,11 +89,12 @@ export interface ReviewLogRow {
   difficulty: number
 }
 
-export type SetGroup = 'Your sets' | 'Kanji' | 'Vocabulary' | 'Grammar'
+export type SetGroup = 'Your sets' | 'Kana' | 'Kanji' | 'Vocabulary' | 'Grammar'
 
 /** Order the Sets screen lists the groups in. */
 export const SET_GROUPS: SetGroup[] = [
   'Your sets',
+  'Kana',
   'Kanji',
   'Vocabulary',
   'Grammar',
@@ -116,6 +127,8 @@ export interface MetaRow {
 
 /** Which facets each item type generates cards for. */
 export const FACETS_BY_TYPE: Record<ItemType, Facet[]> = {
+  // Kana have no meaning to learn, only a sound: read it, write it, hear it.
+  kana: ['reading', 'recall', 'listening'],
   kanji: ['meaning', 'reading'],
   vocab: ['recognition', 'recall', 'listening'],
   grammar: ['meaning', 'cloze'],

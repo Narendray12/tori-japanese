@@ -23,6 +23,10 @@ interface Props {
 
 /** The answers a typed card accepts. */
 function acceptedAnswers(card: StudyCard, item: Item): string[] {
+  if (item.type === 'kana') {
+    // Reading a kana is answered in romaji; recalling one is answered in kana.
+    return card.facet === 'recall' ? [item.primary] : [item.romaji]
+  }
   switch (card.facet) {
     case 'reading':
       return item.type === 'kanji'
@@ -96,10 +100,16 @@ function TypedAnswer({
   const submit = () => {
     if (!value.trim()) return
     const accepted = acceptedAnswers(card, item)
-    const result =
-      card.facet === 'reading' || card.facet === 'recall' || card.facet === 'cloze'
-        ? checkReading(value, accepted)
-        : checkMeaning(value, accepted)
+    // Kana readings are romaji, so they grade as text, not as kana.
+    const asKana =
+      item.type === 'kana'
+        ? card.facet === 'recall'
+        : card.facet === 'reading' ||
+          card.facet === 'recall' ||
+          card.facet === 'cloze'
+    const result = asKana
+      ? checkReading(value, accepted)
+      : checkMeaning(value, accepted)
     onGraded({ correct: result.correct, given: value.trim() })
   }
 
@@ -149,7 +159,11 @@ function ChoiceAnswer({
   listen: boolean
   onGraded: (r: Graded) => void
 }) {
-  const label = (i: Item) => i.meanings[0] ?? i.primary
+  // For kana the choices are the characters themselves, not their romaji.
+  const label = (i: Item) =>
+    i.type === 'kana' && card.facet !== 'reading'
+      ? i.primary
+      : (i.meanings[0] ?? i.primary)
 
   const options = useMemo(
     () =>
@@ -167,7 +181,9 @@ function ChoiceAnswer({
 
   // Play the word as soon as a listening card appears.
   useEffect(() => {
-    if (listen && item.type === 'vocab') speakJapanese(item.reading)
+    if (!listen) return
+    if (item.type === 'vocab') speakJapanese(item.reading)
+    else if (item.type === 'kana') speakJapanese(item.primary)
   }, [listen, item, card.id])
 
   return (
@@ -176,7 +192,9 @@ function ChoiceAnswer({
         <button
           type="button"
           onClick={() =>
-            item.type === 'vocab' && speakJapanese((item as VocabItem).reading)
+            speakJapanese(
+              item.type === 'vocab' ? (item as VocabItem).reading : item.primary,
+            )
           }
           className="mb-3 flex w-full items-center justify-center gap-2 rounded-lg border border-mist bg-card py-3 text-sm font-medium text-ai"
         >

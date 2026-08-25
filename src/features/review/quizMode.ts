@@ -1,4 +1,4 @@
-import type { Facet } from '../../db/types'
+import type { Facet, ItemType } from '../../db/types'
 
 export type QuizMode =
   | 'flip' // read it, judge yourself
@@ -24,6 +24,16 @@ const PREFERRED: Record<Facet, QuizMode> = {
 }
 
 /**
+ * Kana invert two of those. Reading か means saying "ka", which is typed in
+ * the Latin alphabet, and recalling "ka" means producing か, which is typed
+ * with the kana IME.
+ */
+const KANA_PREFERRED: Partial<Record<Facet, QuizMode>> = {
+  reading: 'type-meaning',
+  recall: 'type-kana',
+}
+
+/**
  * Picks how to ask a card, falling back to a plain flip whenever the preferred
  * mode is switched off or unsupported. Every facet stays reviewable no matter
  * which modes the user disables.
@@ -32,8 +42,10 @@ export function resolveMode(
   facet: Facet,
   settings: QuizSettings,
   ttsAvailable: boolean,
+  itemType: ItemType = 'kanji',
 ): QuizMode {
-  const preferred = PREFERRED[facet]
+  const preferred =
+    (itemType === 'kana' ? KANA_PREFERRED[facet] : undefined) ?? PREFERRED[facet]
   if (preferred === 'choice' && !settings.multipleChoice) return 'flip'
   if (
     (preferred === 'type-kana' || preferred === 'type-meaning') &&

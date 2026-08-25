@@ -1,7 +1,7 @@
 # 鳥 Tori — A Free, Smarter Anki for Japanese (JLPT N5 → beyond)
 
 A local-first, installable web app (PWA) that replaces paid AnkiMobile for learning Japanese.
-Ships preloaded with the full JLPT N5 syllabus (kanji, vocabulary, grammar), uses the modern
+Ships preloaded with both kana syllabaries and the full JLPT N5 syllabus (kanji, vocabulary, grammar), uses the modern
 **FSRS** scheduling algorithm (the one Anki itself adopted in 2023), and is built around
 **scoped study** — you pick exactly which items you're working on (e.g. 10 kanji) and the app
 quizzes you from only those until you expand the set.

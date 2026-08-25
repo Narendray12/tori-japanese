@@ -1,5 +1,6 @@
-import type { Item, SetGroup, StudySet, VocabItem } from '../../db/types'
+import type { Item, KanaItem, SetGroup, StudySet, VocabItem } from '../../db/types'
 import { KANJI_GROUPS } from '../../data/kanjiOrder'
+import { GROUP_LABEL, type KanaGroup } from '../../data/kana'
 
 const KANJI_BATCH = 10
 
@@ -100,6 +101,41 @@ export function buildPresets(items: Item[], createdAt: Date): StudySet[] {
   const grammarIds = new Set(items.filter((i) => i.type === 'grammar').map((i) => i.id))
 
   const presets: StudySet[] = []
+
+  // Kana: whole syllabaries first, then the harder subsets on their own.
+  const kana = items.filter((i): i is KanaItem => i.type === 'kana')
+  for (const script of ['hiragana', 'katakana'] as const) {
+    const basic = kana.filter(
+      (k) => k.script === script && k.kanaGroup === 'gojuon',
+    )
+    if (basic.length)
+      presets.push(
+        set(
+          `preset:${script}`,
+          script === 'hiragana' ? 'Hiragana' : 'Katakana',
+          `The ${basic.length} basic ${script} syllables. Start here.`,
+          'Kana',
+          basic.map((k) => k.id),
+          createdAt,
+        ),
+      )
+  }
+  for (const group of ['dakuten', 'yoon'] as KanaGroup[]) {
+    const picked = kana.filter((k) => k.kanaGroup === group)
+    if (picked.length)
+      presets.push(
+        set(
+          `preset:kana-${group}`,
+          GROUP_LABEL[group],
+          group === 'dakuten'
+            ? `Voiced syllables in both scripts: が, ざ, ぱ and the rest. ${picked.length} of them.`
+            : `Combinations like きゃ and しゅ, in both scripts. ${picked.length} of them.`,
+          'Kana',
+          picked.map((k) => k.id),
+          createdAt,
+        ),
+      )
+  }
 
   // One set per teaching group, in the order they are meant to be learned.
   KANJI_GROUPS.forEach((group, i) => {

@@ -8,13 +8,13 @@ export function facetLabel(card: StudyCard): string {
     case 'meaning':
       return card.itemType === 'kanji' ? 'Kanji · Meaning' : 'Grammar · Meaning'
     case 'reading':
-      return 'Kanji · Reading'
+      return card.itemType === 'kana' ? 'Kana · Sound' : 'Kanji · Reading'
     case 'recognition':
       return 'Vocab · Meaning'
     case 'recall':
-      return 'Vocab · Recall'
+      return card.itemType === 'kana' ? 'Kana · Write it' : 'Vocab · Recall'
     case 'listening':
-      return 'Vocab · Listening'
+      return card.itemType === 'kana' ? 'Kana · Listening' : 'Vocab · Listening'
     case 'cloze':
       return 'Grammar · Fill in'
   }
@@ -25,11 +25,11 @@ export function facetPrompt(card: StudyCard): string {
     case 'meaning':
       return 'What does it mean?'
     case 'reading':
-      return 'How is it read?'
+      return card.itemType === 'kana' ? 'Which sound is this?' : 'How is it read?'
     case 'recognition':
       return 'What does it mean?'
     case 'recall':
-      return 'Say it in Japanese'
+      return card.itemType === 'kana' ? 'Which kana is this?' : 'Say it in Japanese'
     case 'cloze':
       return 'What fills the blank?'
     case 'listening':
@@ -40,6 +40,25 @@ export function facetPrompt(card: StudyCard): string {
 }
 
 export function CardFront({ card, item }: { card: StudyCard; item: Item }) {
+  if (item.type === 'kana') {
+    if (card.facet === 'listening') {
+      return (
+        <div className="text-center">
+          <p className="glyph text-6xl text-ink-faint" lang="ja" aria-hidden>
+            ♪
+          </p>
+          <p className="mt-2 text-sm text-ink-faint">Listen and choose</p>
+        </div>
+      )
+    }
+    return (
+      <div className="text-center">
+        <p className={card.facet === 'recall' ? 'font-mono text-5xl' : 'glyph text-8xl'} lang={card.facet === 'recall' ? 'en' : 'ja'}>
+          {card.facet === 'recall' ? item.romaji : item.primary}
+        </p>
+      </div>
+    )
+  }
   if (card.facet === 'cloze' && item.type === 'grammar') {
     return <ClozeSentence item={item} />
   }
@@ -78,6 +97,17 @@ export function CardFront({ card, item }: { card: StudyCard; item: Item }) {
 }
 
 export function CardBack({ card, item }: { card: StudyCard; item: Item }) {
+  if (item.type === 'kana') {
+    return (
+      <div className="space-y-2 text-center">
+        <p className="glyph text-6xl" lang="ja">
+          {item.primary}
+        </p>
+        <p className="font-mono text-2xl text-ink-soft">{item.romaji}</p>
+        <p className="text-xs text-ink-faint capitalize">{item.script}</p>
+      </div>
+    )
+  }
   switch (item.type) {
     case 'kanji':
       return <KanjiBack card={card} item={item} />

@@ -1,8 +1,10 @@
-import type { GrammarItem, Item, KanjiItem, VocabItem } from '../../db/types'
+import type { GrammarItem, Item, KanaItem, KanjiItem, VocabItem } from '../../db/types'
 
 /** Full teaching view of an item, used in lessons (and later, the library). */
 export function ItemDetail({ item }: { item: Item }) {
   switch (item.type) {
+    case 'kana':
+      return <KanaDetail item={item} />
     case 'kanji':
       return <KanjiDetail item={item} />
     case 'vocab':
@@ -16,6 +18,34 @@ function strokeOrderUrl(char: string): string {
   const hex = char.codePointAt(0)!.toString(16).padStart(5, '0')
   // BASE_URL so the diagrams resolve when the app is served from a subpath.
   return `${import.meta.env.BASE_URL}kanjivg/${hex}.svg`
+}
+
+function KanaDetail({ item }: { item: KanaItem }) {
+  return (
+    <div className="flex flex-col items-center gap-5 text-center">
+      <p className="glyph text-8xl" lang="ja">
+        {item.primary}
+      </p>
+      <p className="font-mono text-3xl text-ink-soft">{item.romaji}</p>
+      <p className="text-sm text-ink-soft capitalize">
+        {item.script}
+        <span className="text-ink-faint"> · {item.tags[1]}</span>
+      </p>
+      {/* Combinations are two characters, so there is no single diagram. */}
+      {[...item.primary].length === 1 && (
+        <figure className="mt-1">
+          <img
+            src={strokeOrderUrl(item.primary)}
+            alt={`Stroke order for ${item.romaji}`}
+            className="size-24 rounded-lg border border-mist bg-white p-2"
+          />
+          <figcaption className="mt-1 text-[10px] text-ink-faint">
+            stroke order
+          </figcaption>
+        </figure>
+      )}
+    </div>
+  )
 }
 
 function KanjiDetail({ item }: { item: KanjiItem }) {

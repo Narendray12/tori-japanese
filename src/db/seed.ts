@@ -2,6 +2,7 @@ import { createEmptyCard } from 'ts-fsrs'
 import { db } from './db'
 import {
   FACETS_BY_TYPE,
+  type KanaItem,
   type GrammarItem,
   type Item,
   type KanjiItem,
@@ -10,14 +11,29 @@ import {
 } from './types'
 import { buildPresets } from '../features/sets/presets'
 import { KANJI_GROUP_OF, KANJI_ORDER } from '../data/kanjiOrder'
+import { buildKanaRows, GROUP_LABEL } from '../data/kana'
 import kanjiSeed from '../data/n5.kanji.json'
 import vocabSeed from '../data/n5.vocab.json'
 import grammarSeed from '../data/n5.grammar.json'
 
 /** Bump when seed JSON shape or content changes in a way that requires re-seeding. */
-export const SEED_VERSION = 5
+export const SEED_VERSION = 6
 
 function buildItems(): Item[] {
+  const kana: KanaItem[] = buildKanaRows().map((k) => ({
+    id: k.id,
+    type: 'kana',
+    primary: k.char,
+    // The romaji is the answer, so it lives where every other item keeps it.
+    meanings: [k.romaji],
+    tags: [k.script, GROUP_LABEL[k.group]],
+    orderIndex: k.orderIndex,
+    romaji: k.romaji,
+    script: k.script,
+    row: k.row,
+    kanaGroup: k.group,
+  }))
+
   // Kanji are taught in curriculum order (numbers, then the calendar, and so
   // on), not the frequency order the source data ships in.
   const kanji: KanjiItem[] = (kanjiSeed as KanjiSeedRow[]).map((k) => ({
@@ -59,7 +75,7 @@ function buildItems(): Item[] {
     }),
   )
 
-  return [...kanji, ...vocab, ...grammar]
+  return [...kana, ...kanji, ...vocab, ...grammar]
 }
 
 function buildCards(items: Item[]): StudyCard[] {

@@ -12,6 +12,7 @@
  * Grammar (src/data/n5.grammar.json) is authored by hand in this repo, not generated.
  */
 import { mkdir, writeFile, readFile, access } from 'node:fs/promises'
+import { buildKanaRows } from '../src/data/kana'
 import { join, dirname } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
@@ -154,13 +155,13 @@ async function buildVocab(n5KanjiChars: Set<string>): Promise<VocabSeed[]> {
   return seeds
 }
 
-async function fetchKanjiVg(kanji: KanjiSeed[]) {
+async function fetchKanjiVg(chars: string[]) {
   console.log('Fetching KanjiVG stroke-order SVGs…')
   await mkdir(kanjivgDir, { recursive: true })
   let fetched = 0
   let skipped = 0
-  for (const k of kanji) {
-    const hex = k.char.codePointAt(0)!.toString(16).padStart(5, '0')
+  for (const char of chars) {
+    const hex = char.codePointAt(0)!.toString(16).padStart(5, '0')
     const dest = join(kanjivgDir, `${hex}.svg`)
     try {
       await access(dest)
@@ -169,9 +170,13 @@ async function fetchKanjiVg(kanji: KanjiSeed[]) {
     } catch {
       /* not cached yet */
     }
-    const svg = await fetchText(`${KANJIVG_BASE}/${hex}.svg`)
-    await writeFile(dest, svg)
-    fetched++
+    try {
+      const svg = await fetchText(`${KANJIVG_BASE}/${hex}.svg`)
+      await writeFile(dest, svg)
+      fetched++
+    } catch {
+      console.warn(`  no diagram for ${char} (${hex})`)
+    }
   }
   console.log(`  ${fetched} fetched, ${skipped} already present`)
 }
@@ -191,7 +196,16 @@ async function main() {
     JSON.stringify(vocab, null, 1),
   )
 
-  await fetchKanjiVg(kanji)
+  // Kana diagrams too: single characters only, since a combination like きゃ
+  // is drawn as its two parts.
+  const kanaChars = [
+    ...new Set(
+      buildKanaRows()
+        .map((k) => k.char)
+        .filter((c) => [...c].length === 1),
+    ),
+  ]
+  await fetchKanjiVg([...kanji.map((k) => k.char), ...kanaChars])
 
   // Grammar is hand-authored; just validate it parses and report the count.
   try {
